@@ -58,6 +58,8 @@ In summary, Paul Tudor Jones's strategy revolves around technical analysis, leve
 <details>
 <summary>003. Jim Simons: The Math Genius Who Revolutionized Wall Street</summary><br>
 
+[[Youtube]](https://www.youtube.com/watch?v=QEwsaUp5nkw&list=PLHFlSdhbIZ6Qj25o5dETtUmc6-cAmDdTx)
+
 The video provides an in-depth exploration of Jim Simons' trading strategies and the remarkable journey of The Medallion Fund. Here's a summary of the key points covered:
 
 1. **Jim Simons and The Medallion Fund**:
@@ -88,14 +90,13 @@ The video provides an in-depth exploration of Jim Simons' trading strategies and
    - The video encourages viewers to subscribe for more content on finance, investing, and secrets of success.
 
 Overall, the video highlights the significance of quantitative strategies, data analysis, and disciplined risk management in achieving financial success, as exemplified by Jim Simons and The Medallion Fund.
-
-[[Youtube]](https://www.youtube.com/watch?v=QEwsaUp5nkw&list=PLHFlSdhbIZ6Qj25o5dETtUmc6-cAmDdTx)
 </details>
 
 <details>
-<summary>004. Meb Faber Ivy ETF Portfolio (Backtest)</summary>
+<summary>004. Meb Faber Ivy ETF Portfolio (Backtest)</summary><br>
+
 [[Youtube]](https://www.youtube.com/watch?v=xSIQcXin12w&list=PLHFlSdhbIZ6Qj25o5dETtUmc6-cAmDdTx)
-<br>
+
 
 **Summary of the Ivy Portfolio Trading Strategy**
 
