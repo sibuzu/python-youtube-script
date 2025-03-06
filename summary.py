@@ -88,10 +88,6 @@ def save_summary(original_path, content, summary):
     summary_path = get_summary_filename(original_path)
     
     with open(summary_path, 'w', encoding='utf-8') as f:
-        f.write(f"# Trading Strategy Summary\n\n")
-        f.write(f"## Original Content\n\n")
-        f.write(f"{content}\n\n")
-        f.write(f"## Summary\n\n")
         f.write(f"{summary}\n")
     
     return summary_path
