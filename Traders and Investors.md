@@ -1,5 +1,7 @@
 # Traders and Investors
 
+---
+
 <details>
 <summary>001. Meb Faber Ivy Portfolio (ETF Investing Endowment)</summary>
 
