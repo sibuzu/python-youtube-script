@@ -105,12 +105,12 @@ def generate_outline(input_dir, output_file):
         return False
 
 def main():
-    if len(sys.argv) != 3:
-        print("Usage: python gen_outline.py <input_dir> <output_file>")
+    if len(sys.argv) != 2:
+        print("Usage: python gen_outline.py <input_dir>")
         return
     
     input_dir = sys.argv[1]
-    output_file = sys.argv[2]
+    output_file = os.path.basename(input_dir) + ".md"
     
     if not os.path.isdir(input_dir):
         print(f"Error: {input_dir} is not a directory")
