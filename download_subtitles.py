@@ -107,15 +107,25 @@ def download_video_info(video_url, index, output_dir, max_retries=3):
         print(f"錯誤: 無法從URL提取視頻ID: {video_url}")
         return
 
+    # 先獲取視頻標題
+    title = get_video_title(video_url)
+    if not title:
+        title = f"video_{video_id}"
+    
+    # 生成目標檔案名稱
+    index_str = f"{index:03d}"
+    safe_title = sanitize_filename(title)
+    filename = os.path.join(output_dir, f"{index_str}-{safe_title}.txt")
+    
+    # 檢查檔案是否已存在
+    if os.path.exists(filename):
+        print(f"\n跳過視頻 {index}: {title} (檔案已存在)")
+        return
+
+    print(f"\n處理視頻 {index}: {title}")
+
     for attempt in range(max_retries):
         try:
-            # 獲取視頻標題
-            title = get_video_title(video_url)
-            if not title:
-                title = f"video_{video_id}"
-            
-            print(f"\n處理視頻 {index}: {title}")
-            
             # 獲取字幕
             transcript_list = YouTubeTranscriptApi.list_transcripts(video_id)
             
@@ -137,11 +147,6 @@ def download_video_info(video_url, index, output_dir, max_retries=3):
             
             # 獲取字幕內容
             captions = transcript.fetch()
-            
-            # 生成文件名
-            index_str = f"{index:03d}"
-            safe_title = sanitize_filename(title)
-            filename = os.path.join(output_dir, f"{index_str}-{safe_title}.txt")
             
             # 寫入文件
             with open(filename, 'w', encoding='utf-8') as f:
