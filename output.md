@@ -1,7 +1,7 @@
 # Traders and Investors
 
 <details>
-<summary>1. Meb Faber Ivy Portfolio (ETF Investing Endowment)</summary><br>
+<summary>001. Meb Faber Ivy Portfolio (ETF Investing Endowment)</summary><br>
 
 The trading strategy summarized is based on replicating the investment approach of Ivy League university endowments, as outlined in the book *Ivy Portfolio* by Meb Faber and Eric W. Richardson. The strategy involves creating a diversified portfolio with allocations to stocks, bonds, and commodities, aiming for long-term growth with lower volatility compared to the S&P 500.
 
@@ -32,7 +32,7 @@ The strategy emphasizes long-term investing and diversification, aiming for stea
 </details>
 
 <details>
-<summary>2. PAUL TUDOR JONES: A Trading Legend’s Legacy</summary><br>
+<summary>002. PAUL TUDOR JONES: A Trading Legend’s Legacy</summary><br>
 
 Paul Tudor Jones is a renowned financier and trader known for his exceptional success in the financial markets. Here's a summary of his trading strategy:
 
