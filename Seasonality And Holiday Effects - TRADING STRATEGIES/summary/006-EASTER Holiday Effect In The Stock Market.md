@@ -1,0 +1,1 @@
+The trading strategy involves buying US stocks on the Friday one week prior to Good Friday and exiting four trading days later on Holy Thursday. Historically, this approach has yielded an average gain of 0.77% over a 63-year period and 1.49% since 2000, supported by strong performance during the Easter holiday.

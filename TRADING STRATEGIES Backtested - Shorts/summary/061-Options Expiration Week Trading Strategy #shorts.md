@@ -1,0 +1,1 @@
+This trading strategy focuses on the "Options Expiration Week" (Opex Week), where US options expire on the third Friday of each month. The approach involves buying an option at the Monday open of Opex week and selling it at the close of Opex day. The goal is to capitalize on the upward sloping trend in the slope, aiming for a profit as the options' value moves towards expiration.

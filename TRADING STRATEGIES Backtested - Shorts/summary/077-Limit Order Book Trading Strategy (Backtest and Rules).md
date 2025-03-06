@@ -1,0 +1,3 @@
+The trading strategy described focuses on analyzing the limit order book, which details all buy and sell orders for a specific instrument. While it provides insights into how bid (buy) and ask (sell) orders are structured, the strategy advises against relying solely on this approach due to its complexity and difficulty in backtesting, especially for retail traders.
+
+Instead, the suggestion is to adopt **Quantified Strategies** that have been thoroughly backtested. These strategies are designed to enhance decision-making by leveraging data-driven models. For those interested in exploring such strategies, the website [quantifiedstrategies.com](https://quantifiedstrategies.com) offers a wealth of free resources over the past decade.

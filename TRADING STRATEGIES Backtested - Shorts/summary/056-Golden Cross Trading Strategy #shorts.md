@@ -1,0 +1,3 @@
+The Golden Cross trading strategy relies on exponential moving averages (EMA) with two different periods—a shorter 50-day and a longer 200-day. It uses a crossover system where the signal to buy is generated when the shorter EMA crosses above the longer one, indicating an uptrend, and a sell signal is triggered when the shorter EMA drops below the longer one, suggesting a potential downtrend. 
+
+Over five years, this strategy has shown a compound annual growth rate (CAGR) of 6.6%, which is slightly lower than the Buy and Hold strategy's 6.9% return during the same period. While the performance difference isn't significant, the Golden Cross method offers a balance between trend-following simplicity and some risk of whipsaws or false signals during volatile markets.

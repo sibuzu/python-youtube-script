@@ -1,0 +1,3 @@
+High-Frequency Trading (HFT) is a trading strategy that uses powerful computer programs to execute a large number of trades in fractions of a second, leveraging algorithmic strategies, speed, and high turnover to capitalize on small, short-lived market opportunities. This approach is highly capital-intensive, technically complex, and requires infrastructure such as VPS services located near exchanges to minimize latency. As a result, it is not feasible for most retail traders.
+
+The authors propose an alternative strategy called "slow-frequency trading," which they believe is more accessible and practical for individual traders. They have published numerous strategies for this approach on their website, quantifiedstrategies.com.

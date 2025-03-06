@@ -1,0 +1,1 @@
+The Death Cross is a technical trading indicator formed when the 50-day moving average breaks below the 200-day moving average, signaling a potential trend reversal. Despite its notoriety for instilling fear in traders, historical performance shows that this strategy has yielded nearly flat returns since the 1960s, indicating minimal profitability over time.

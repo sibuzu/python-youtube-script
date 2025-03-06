@@ -2,12 +2,10 @@ import os
 import re
 from openai import OpenAI
 import sys
+import glob
 
-def ensure_summary_dir(input_file_path):
+def ensure_summary_dir(input_dir):
     """確保 summary 目錄存在"""
-    # 獲取輸入文件的目錄
-    input_dir = os.path.dirname(input_file_path)
-    # 在輸入文件目錄下創建 summary 子目錄
     summary_dir = os.path.join(input_dir, "summary")
     if not os.path.exists(summary_dir):
         os.makedirs(summary_dir)
@@ -15,14 +13,34 @@ def ensure_summary_dir(input_file_path):
 
 def get_summary_filename(original_path):
     """生成摘要文件的路徑"""
-    # 獲取輸入文件的目錄
     input_dir = os.path.dirname(original_path)
-    # 獲取原始文件名（不含路徑）
     base_name = os.path.basename(original_path)
-    # 更改副檔名為 .md
     md_name = os.path.splitext(base_name)[0] + '.md'
-    # 組合完整路徑
     return os.path.join(input_dir, "summary", md_name)
+
+def should_process_file(file_path):
+    """檢查是否需要處理該文件"""
+    summary_path = get_summary_filename(file_path)
+    return not os.path.exists(summary_path)
+
+def process_file(file_path):
+    """處理單個文件"""
+    print(f"\nProcessing: {file_path}")
+    
+    # 讀取字幕內容
+    content = read_subtitle_content(file_path)
+    if not content:
+        print("Error: Could not find subtitle content")
+        return False
+        
+    # 生成摘要
+    summary = get_summary(content)
+    
+    # 保存摘要
+    summary_path = save_summary(file_path, content, summary)
+    
+    print(f"Summary saved to: {summary_path}")
+    return True
 
 def read_subtitle_content(file_path):
     try:
@@ -54,7 +72,16 @@ def read_subtitle_content(file_path):
     except Exception as e:
         print(f"Error reading file: {str(e)}")
         return None
-    
+
+def read_prompt():
+    """讀取 prompt.txt 文件內容"""
+    try:
+        with open('prompt.txt', 'r', encoding='utf-8') as f:
+            return f.read().strip()
+    except Exception as e:
+        print(f"Error reading prompt.txt: {str(e)}")
+        return "Please provide a concise summary focusing on the key points."
+
 def get_summary(text):
     client = OpenAI(
         api_key='ollama',
@@ -67,7 +94,7 @@ def get_summary(text):
             messages=[
                 {
                     "role": "system",
-                    "content": "You are a helpful assistant that summarizes trading strategies.\nPlease provide a concise summary focusing on the key trading rules and performance metrics."
+                    "content": read_prompt()
                 },
                 {
                     "role": "user",
@@ -103,31 +130,49 @@ def save_summary(original_path, content, summary):
 
 def main():
     if len(sys.argv) != 2:
-        print("Usage: python summary.py <subtitle_file>")
-        file_path = "TRADING STRATEGIES Backtested - Shorts/001-Simple Bond Trading Strategy (Backtest & Rules) #shorts #short.txt"
+        print("Usage: python summary.py <subtitle_dir>")
+        input_dir = "Traders and Investors"
     else:    
-        file_path = sys.argv[1]
+        input_dir = sys.argv[1]
     
-    if not os.path.exists(file_path):
-        print(f"Error: File '{file_path}' not found")
+    if not os.path.isdir(input_dir):
+        print(f"Error: '{input_dir}' is not a directory")
         return
     
     # 確保 summary 目錄存在
-    ensure_summary_dir(file_path)
+    ensure_summary_dir(input_dir)
     
-    # 讀取字幕內容
-    content = read_subtitle_content(file_path)
-    if not content:
-        print("Error: Could not find subtitle content")
+    # 獲取目錄下所有的 .txt 文件
+    txt_files = glob.glob(os.path.join(input_dir, "*.txt"))
+    
+    if not txt_files:
+        print(f"No .txt files found in {input_dir}")
         return
         
-    # 生成摘要
-    summary = get_summary(content)
+    print(f"Found {len(txt_files)} .txt files")
     
-    # 保存摘要
-    summary_path = save_summary(file_path, content, summary)
+    # 統計處理結果
+    processed = 0
+    skipped = 0
+    failed = 0
     
-    print(f"\nSummary has been saved to: {summary_path}")
+    # 處理每個文件
+    for file_path in sorted(txt_files):
+        if should_process_file(file_path):
+            if process_file(file_path):
+                processed += 1
+            else:
+                failed += 1
+        else:
+            print(f"\nSkipping (already processed): {file_path}")
+            skipped += 1
+    
+    # 輸出統計結果
+    print(f"\nSummary generation completed:")
+    print(f"- Processed: {processed}")
+    print(f"- Skipped (already exists): {skipped}")
+    print(f"- Failed: {failed}")
+    print(f"- Total files: {len(txt_files)}")
 
 if __name__ == "__main__":
     main()
