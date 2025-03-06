@@ -6,7 +6,7 @@ import glob
 
 def ensure_summary_dir(input_dir):
     """確保 summary 目錄存在"""
-    summary_dir = os.path.join(input_dir, "summary")
+    summary_dir = os.path.join(input_dir, "../summary")
     if not os.path.exists(summary_dir):
         os.makedirs(summary_dir)
     return summary_dir
@@ -16,7 +16,7 @@ def get_summary_filename(original_path):
     input_dir = os.path.dirname(original_path)
     base_name = os.path.basename(original_path)
     md_name = os.path.splitext(base_name)[0] + '.md'
-    return os.path.join(input_dir, "summary", md_name)
+    return os.path.join(input_dir, "../summary", md_name)
 
 def should_process_file(file_path):
     """檢查是否需要處理該文件"""
@@ -133,6 +133,7 @@ def main():
     else:    
         input_dir = sys.argv[1]
     
+    input_dir = os.path.join(input_dir, "script")
     if not os.path.isdir(input_dir):
         print(f"Error: '{input_dir}' is not a directory")
         return

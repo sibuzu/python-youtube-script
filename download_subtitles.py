@@ -185,7 +185,7 @@ def process_playlist(playlist_url):
 
         # 建立以播放清單標題為名的目錄
         safe_playlist_title = sanitize_filename(playlist_title)
-        output_dir = os.path.join(os.getcwd(), safe_playlist_title)
+        output_dir = os.path.join(os.getcwd(), safe_playlist_title, "script")
         
         if not create_directory(output_dir):
             print("無法建立目錄，程序終止")
