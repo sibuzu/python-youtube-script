@@ -1,0 +1,5 @@
+- **Themes**: Swing trading strategies for S&P 500.
+- **Trading Products**: S&P 500 index.
+- **Strategy Details**:
+  - Sell when the close is higher than yesterday's high.
+  - Look for hundreds of similar swing trading strategies on their website.
