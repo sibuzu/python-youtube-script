@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+cloud-translation-key.json
 bin/
 
 # C extensions
