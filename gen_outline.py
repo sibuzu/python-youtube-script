@@ -110,7 +110,10 @@ def main():
         return
     
     input_dir = sys.argv[1]
-    output_file = os.path.basename(input_dir) + ".md"
+    output_file = input_dir
+    if output_file.endswith("/"):
+        output_file = output_file[:-1]
+    output_file = os.path.basename(output_file) + ".md"
     
     if not os.path.isdir(input_dir):
         print(f"Error: {input_dir} is not a directory")
