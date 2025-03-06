@@ -1,7 +1,7 @@
 # Traders and Investors
 
 <details>
-<summary>001. Meb Faber Ivy Portfolio (ETF Investing Endowment)</summary><br>
+<summary>001. Meb Faber Ivy Portfolio (ETF Investing Endowment)</summary>
 
 [[Youtube]](https://www.youtube.com/watch?v=0__x2wYjRIA&list=PLHFlSdhbIZ6Qj25o5dETtUmc6-cAmDdTx)
 
@@ -29,10 +29,10 @@ The trading strategy summarized is based on replicating the investment approach 
 
 ### Conclusion:
 The strategy emphasizes long-term investing and diversification, aiming for steady growth rather than high returns. While it may not "set the world on fire," it provides a balanced approach with lower risk.
-
 </details>
+
 <details>
-<summary>002. PAUL TUDOR JONES: A Trading Legend’s Legacy</summary><br>
+<summary>002. PAUL TUDOR JONES: A Trading Legend’s Legacy</summary>
 
 [[Youtube]](https://www.youtube.com/watch?v=CHpw_7jZsA4&list=PLHFlSdhbIZ6Qj25o5dETtUmc6-cAmDdTx)
 
@@ -53,10 +53,10 @@ Paul Tudor Jones is a renowned financier and trader known for his exceptional su
 7. **Innovation and Adaptation**: Jones remains innovative, adapting his strategies to include new asset classes like Bitcoin, recognizing it as a superior inflation hedge compared to gold.
 
 In summary, Paul Tudor Jones's strategy revolves around technical analysis, leveraging indicators like the 200-day moving average, active portfolio management, and global macro insights. His disciplined approach to risk management and adaptability have solidified his reputation as one of Wall Street's most accomplished traders.
-
 </details>
+
 <details>
-<summary>003. Jim Simons: The Math Genius Who Revolutionized Wall Street</summary><br>
+<summary>003. Jim Simons: The Math Genius Who Revolutionized Wall Street</summary>
 
 [[Youtube]](https://www.youtube.com/watch?v=QEwsaUp5nkw&list=PLHFlSdhbIZ6Qj25o5dETtUmc6-cAmDdTx)
 
@@ -90,10 +90,10 @@ The video provides an in-depth exploration of Jim Simons' trading strategies and
    - The video encourages viewers to subscribe for more content on finance, investing, and secrets of success.
 
 Overall, the video highlights the significance of quantitative strategies, data analysis, and disciplined risk management in achieving financial success, as exemplified by Jim Simons and The Medallion Fund.
-
 </details>
+
 <details>
-<summary>004. Meb Faber Ivy ETF Portfolio (Backtest)</summary><br>
+<summary>004. Meb Faber Ivy ETF Portfolio (Backtest)</summary>
 
 [[Youtube]](https://www.youtube.com/watch?v=xSIQcXin12w&list=PLHFlSdhbIZ6Qj25o5dETtUmc6-cAmDdTx)
 
@@ -108,5 +108,5 @@ The Ivy Portfolio trading strategy, introduced by Meb Faber and Eric W. Richards
 - **Expectations:** Longer-term normalization of returns is anticipated.
 
 This strategy leverages the diversification and long-term investment approach typical of endowments, with a focus on rebalancing to maintain equal allocations.
-
 </details>
+
