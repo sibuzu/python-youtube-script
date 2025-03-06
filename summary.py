@@ -67,18 +67,27 @@ def get_summary(text):
             messages=[
                 {
                     "role": "system",
-                    "content": "You are a helpful assistant that summarizes trading strategies. Please provide a concise summary focusing on the key trading rules and performance metrics."
+                    "content": "You are a helpful assistant that summarizes trading strategies.\nPlease provide a concise summary focusing on the key trading rules and performance metrics."
                 },
                 {
                     "role": "user",
                     "content": f"Please summarize this trading strategy:\n\n{text}"
                 }
             ],
-            max_tokens=150,
+            max_tokens=15000,
             temperature=0.7
         )
         
-        return response.choices[0].message.content.strip()
+        summary = response.choices[0].message.content.strip()
+        
+        # 處理 </think> tag
+        if '</think>' in summary:
+            # 找到最後一個 </think> 的位置
+            last_think_pos = summary.rindex('</think>')
+            # 只保留 tag 之後的內容，並去除開頭的空白
+            summary = summary[last_think_pos + 8:].lstrip()
+            
+        return summary
         
     except Exception as e:
         return f"Error generating summary: {str(e)}"
