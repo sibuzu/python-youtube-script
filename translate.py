@@ -4,6 +4,8 @@ import markdown
 import html2text
 from google.cloud import translate_v2 as translate
 
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "cloud-translation-key.json"
+
 def ensure_chinese_dir(input_file_path):
     """確保 chinese 目錄存在"""
     input_dir = os.path.dirname(input_file_path)
@@ -16,7 +18,7 @@ def get_chinese_filename(original_path):
     """生成翻譯後文件的路徑"""
     input_dir = os.path.dirname(original_path)
     base_name = os.path.basename(original_path)
-    return os.path.join(input_dir, "chinese", base_name)
+    return os.path.join(input_dir, "../chinese", base_name)
 
 def should_translate_file(file_path):
     """檢查是否需要翻譯該文件"""
@@ -38,7 +40,7 @@ def translate_markdown(text, target_language="zh-TW"):
 
     # 2. 调用 Google 翻译 API
     client = translate.Client()
-    result = client.translate(html_text, target_language=target_language, format="html");
+    result = client.translate(html_text, target_language=target_language, format_="html");
     translated_html = result["translatedText"]
 
     # 3. HTML 转回 Markdown
