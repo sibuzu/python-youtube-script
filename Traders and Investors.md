@@ -1,4 +1,4 @@
-# Traders and Investors
+### Traders and Investors
 
 ---
 

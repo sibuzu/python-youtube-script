@@ -1,4 +1,4 @@
-# TRADING STRATEGIES Backtested - Shorts
+### TRADING STRATEGIES Backtested - Shorts
 
 ---
 

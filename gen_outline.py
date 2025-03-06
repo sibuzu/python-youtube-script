@@ -37,7 +37,7 @@ def generate_outline(input_dir, output_file):
     script_files = sorted(glob.glob(os.path.join(script_dir, "*.txt")))
     
     # 準備輸出內容
-    output_content = f'''# {os.path.basename(input_dir)}
+    output_content = f'''### {os.path.basename(input_dir)}
 
 ---
 

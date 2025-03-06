@@ -1,4 +1,4 @@
-# Seasonality And Holiday Effects - TRADING STRATEGIES
+### Seasonality And Holiday Effects - TRADING STRATEGIES
 
 ---
 
