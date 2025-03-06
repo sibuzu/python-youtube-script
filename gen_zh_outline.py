@@ -110,7 +110,7 @@ def main():
     input_dir = sys.argv[1]
     if input_dir.endswith("/"):
         input_dir = input_dir[:-1]
-    output_file = os.path.basename(input_dir) + "_zh.md"
+    output_file = "(中文) " + os.path.basename(input_dir) + ".md"
     
     if not os.path.isdir(input_dir):
         print(f"Error: {input_dir} is not a directory")

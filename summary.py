@@ -87,6 +87,19 @@ def get_summary(text):
     )
     
     try:
+        content = f'''
+===== ARTICLE START =====
+
+{text}
+
+===== ARTICLE END =====
+
+1. Organize the main points of this article, summarizing it in sections.
+2. Sections includes but not limited to themes, trading products, indicators, strategy details, backtest performance, conclusions and other sections, which may be added or removed based on the actual content.
+3. Each section is organized clearly and objectively in a bulleted format.
+4. Avoids personal opinions and extrapolation.  
+'''
+        
         response = client.chat.completions.create(
             model="deepseek-r1:14b",
             messages=[
@@ -96,7 +109,7 @@ def get_summary(text):
                 },
                 {
                     "role": "user",
-                    "content": f"Please summarize this trading strategy:\n\n{text}"
+                    "content": content
                 }
             ],
             max_tokens=15000,

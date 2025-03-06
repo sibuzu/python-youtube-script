@@ -6,7 +6,7 @@ import glob
 
 def ensure_summary_dir(input_dir):
     """確保 summary 目錄存在"""
-    summary_dir = os.path.join(input_dir, "../summary")
+    summary_dir = os.path.join(input_dir, "../summary_zh")
     if not os.path.exists(summary_dir):
         os.makedirs(summary_dir)
     return summary_dir
@@ -16,7 +16,7 @@ def get_summary_filename(original_path):
     input_dir = os.path.dirname(original_path)
     base_name = os.path.basename(original_path)
     md_name = os.path.splitext(base_name)[0] + '.md'
-    return os.path.join(input_dir, "../summary", md_name)
+    return os.path.join(input_dir, "../summary_zh", md_name)
 
 def should_process_file(file_path):
     """檢查是否需要處理該文件"""
@@ -87,7 +87,7 @@ def get_summary(text):
     )
     
     try:
-        content = '''
+        content = f'''
 ===== 文章開始 =====
 
 {text}
@@ -95,7 +95,7 @@ def get_summary(text):
 ===== 文章結束 =====
 
 請整理此文章重點，使用正式的學術用語，並以小節作歸納。
-歸納重點，包括但不限於主題、策略規則、回測績效、結論等小節，依實際內容可作增減。
+歸納重點，包括但不限於主題、交易商品、使用指標、策略細則、回測績效、結論等小節，依實際內容可作增減。
 各小節以條列格式，作清楚客觀的整理。
 '''
 
@@ -140,7 +140,7 @@ def save_summary(original_path, content, summary):
 
 def main():
     if len(sys.argv) != 2:
-        print("Usage: python summary2.py <subtitle_dir>")
+        print("Usage: python summary_zh.py <subtitle_dir>")
         input_dir = "Traders and Investors"
     else:    
         input_dir = sys.argv[1]
