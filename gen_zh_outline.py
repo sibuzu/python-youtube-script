@@ -1,6 +1,7 @@
 import os
 import sys
 import glob
+import zhconv
 
 def read_script_info(script_file):
     """讀取腳本文件中的標題和URL"""
@@ -27,25 +28,21 @@ def generate_outline(input_dir, output_file):
     """生成大綱文件"""
     # 確保目錄存在
     script_dir = os.path.join(input_dir, "script")
-    summary_dir = os.path.join(input_dir, "summary")
+    summary_dir = os.path.join(input_dir, "summary_zh")
     
     if not os.path.exists(script_dir) or not os.path.exists(summary_dir):
         print(f"Error: Required directories not found in {input_dir}")
         return False
-    
-    # 讀取模板
-    try:
-        with open('output_template.md', 'r', encoding='utf-8') as f:
-            template = f.read()
-    except Exception as e:
-        print(f"Error reading template: {str(e)}")
-        return False
-    
+        
     # 獲取所有腳本文件
     script_files = sorted(glob.glob(os.path.join(script_dir, "*.txt")))
     
     # 準備輸出內容
-    output_content = template.replace("{dir_name}", os.path.basename(input_dir))
+    output_content = f'''### {os.path.basename(input_dir)} (中文)
+
+---
+
+'''
     
     # 創建詳細內容部分
     details_template = """<details>
@@ -79,7 +76,8 @@ def generate_outline(input_dir, output_file):
             continue
             
         summary_content = read_summary_content(summary_file)
-        
+        summary_content = zhconv.convert(summary_content, 'zh-tw')
+
         # 創建詳細部分
         detail_section = details_template.format(
             **{
@@ -110,10 +108,9 @@ def main():
         return
     
     input_dir = sys.argv[1]
-    output_file = input_dir
-    if output_file.endswith("/"):
-        output_file = output_file[:-1]
-    output_file = os.path.basename(output_file) + ".md"
+    if input_dir.endswith("/"):
+        input_dir = input_dir[:-1]
+    output_file = os.path.basename(input_dir) + "_zh.md"
     
     if not os.path.isdir(input_dir):
         print(f"Error: {input_dir} is not a directory")

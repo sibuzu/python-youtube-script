@@ -1,4 +1,4 @@
-交易策略涉及使用市场指标来识别过分买卖的水平。 After optimizing on SPY, the optimal parameters were identified: a 5-day lookback period with a buy threshold at 5% and a sell threshold at 80%. 但是，这种初始方法导致了大量的下降。 为了提高性能，进行了两个修改：
+交易策略涉及使用市场指标来识别过分买卖的水平。 优化间谍后，确定了最佳参数：5天的回顾期为5％，卖出阈值为80％。 但是，这种初始方法导致了大量的下降。 为了提高性能，进行了两个修改：
 
 1. **出售状况** ：而不是仅仅依靠指标达到80％，而是关闭交易，当时交易已关闭：
    - The close crosses above yesterday's high (indicating strength).
