@@ -56,9 +56,9 @@ In summary, Paul Tudor Jones's strategy revolves around technical analysis, leve
 </details>
 
 <details>
-<summary>003. Jim Simons: The Math Genius Who Revolutionized Wall Street</summary><br>
+<summary>003. Jim Simons: The Math Genius Who Revolutionized Wall Street</summary>
 
-[[Youtube]](https://www.youtube.com/watch?v=QEwsaUp5nkw&list=PLHFlSdhbIZ6Qj25o5dETtUmc6-cAmDdTx)
+[[Youtube]](https://www.youtube.com/watch?v=QEwsaUp5nkw&list=PLHFlSdhbIZ6Qj25o5dETtUmc6-cAmDdTx)<br>
 
 The video provides an in-depth exploration of Jim Simons' trading strategies and the remarkable journey of The Medallion Fund. Here's a summary of the key points covered:
 
