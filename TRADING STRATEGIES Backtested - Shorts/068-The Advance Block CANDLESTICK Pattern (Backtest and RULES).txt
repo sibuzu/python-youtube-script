@@ -1,0 +1,26 @@
+標題: The Advance Block CANDLESTICK Pattern (Backtest and RULES)
+URL: https://www.youtube.com/watch?v=dwBstuKuJk4&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:36:40
+
+=== 字幕內容 ===
+
+[00:01] the advanced block pattern is 175
+[00:04] Candlestick patterns the advanced block
+[00:07] is presumably a bearish reversal
+[00:10] Candlestick pattern that is made up of
+[00:12] three bullish candlesticks most times
+[00:15] this pattern appears at the end of a
+[00:17] bullish trend on a chart the pattern
+[00:20] might look like this
+[00:22] most Candlestick patterns are explained
+[00:25] but not supported by any evidence or
+[00:27] backtests to find out if Candlestick
+[00:30] patterns work or not we Quantified and
+[00:32] back tested all 75 patents that exist
+[00:35] including the advanced block
+[00:38] we back tested the patents on S P 500
+[00:41] and the conclusion is that many of them
+[00:43] actually work pretty well
+[00:45] do you want to know which patterns work
+[00:47] check out our research at the URL below

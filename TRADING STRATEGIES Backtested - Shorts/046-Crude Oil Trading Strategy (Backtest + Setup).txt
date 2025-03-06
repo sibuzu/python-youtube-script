@@ -1,0 +1,22 @@
+標題: Crude Oil Trading Strategy (Backtest + Setup)
+URL: https://www.youtube.com/watch?v=RjjoheELXKg&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:35:53
+
+=== 字幕內容 ===
+
+[00:00] crude oil is a valuable asset that
+[00:01] Traders should Explore More but the
+[00:03] market can be tricky to navigate because
+[00:05] of the various factors that influence it
+[00:08] in this video we'll show you how to
+[00:09] trade a crude oil system and to develop
+[00:11] a winning strategy the rules are as
+[00:13] follows first calculate the 25-day
+[00:16] average of the daily High minus the low
+[00:18] daily prices second it must be either
+[00:21] Tuesday or Thursday as you can see the
+[00:23] strategy has had impressive results
+[00:25] there have been 341 trades with an
+[00:28] average gain per trade of
+[00:30] 0.25% the win rate is 58%

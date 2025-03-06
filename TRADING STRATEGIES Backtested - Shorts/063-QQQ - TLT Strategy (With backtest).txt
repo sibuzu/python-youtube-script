@@ -1,0 +1,31 @@
+標題: QQQ - TLT Strategy (With backtest)
+URL: https://www.youtube.com/watch?v=auPTusg4zTo&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:36:29
+
+=== 字幕內容 ===
+
+[00:00] this strategy trades NASDAQ 100 and
+[00:02] long-term treasury bonds from the long
+[00:05] side and we use the ticker codes QQQ and
+[00:08] TLT we include interest rates because
+[00:10] the growth stocks on NASDAQ are
+[00:12] sensitive to rates the trading rules are
+[00:14] on the screen the capital grows from
+[00:17] 100,000 to 1.2 million in 20 years and
+[00:20] draw Downs are small and shortlived draw
+[00:23] Downs are over 20% only twice over the
+[00:25] period despite being invested 58% of the
+[00:28] time Max draw down for bu and holding
+[00:30] NASDAQ 100 was over 55% this strategy
+[00:34] trades NASDAQ 100 and long-term treasury
+[00:37] bonds from the Longs side and we use the
+[00:39] ticker codes QQQ and TLT we include
+[00:43] interest rates because the growth stocks
+[00:44] on NASDAQ are sensitive to rates the
+[00:47] trading rules are on the screen the
+[00:49] capital grows from 100,000 to 1.2
+[00:52] million in 20 years and draw Downs are
+[00:54] small and shortlived draw Downs are over
+[00:57] 20% only twice over the period despite
+[00:59] being

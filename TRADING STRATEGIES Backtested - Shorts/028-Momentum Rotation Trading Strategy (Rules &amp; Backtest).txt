@@ -1,0 +1,14 @@
+標題: Momentum Rotation Trading Strategy (Rules &amp; Backtest)
+URL: https://www.youtube.com/watch?v=FGNeqvinFzA&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:35:13
+
+=== 字幕內容 ===
+
+[00:00] it's a sector rotation momentum system
+[00:02] that uses monthly bars and momentum to
+[00:04] determine which asset to own the next
+[00:06] month at the end of the month we rank
+[00:08] all four assets based on performance
+[00:10] over the prior 3 months 100,000 invested
+[00:13] in 2002 is grown to almost 1.4 million

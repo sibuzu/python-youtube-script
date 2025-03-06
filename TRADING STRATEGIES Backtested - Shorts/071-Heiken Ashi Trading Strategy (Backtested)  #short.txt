@@ -1,0 +1,23 @@
+標題: Heiken Ashi Trading Strategy (Backtested)  #short
+URL: https://www.youtube.com/watch?v=eSHrfXSWd1s&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:36:47
+
+=== 字幕內容 ===
+
+[00:00] hiken ASI is a charting technique that
+[00:02] was imported to the west from Japan in
+[00:04] the second half of the 1980s and has
+[00:06] gained tremendous popularity since then
+[00:08] it's important to note that hen ASI does
+[00:10] not show the real prices so it is
+[00:12] impossible to trade directly on them and
+[00:14] it's a lagging indicator is a
+[00:16] disadvantage we buy when the close of he
+[00:18] kanashi crosses above HEK kanashi open
+[00:20] and we sell when the opposite happens
+[00:22] the resulting equity line shows that
+[00:24] this strategy is a trend following
+[00:26] strategy that works best on longtime
+[00:28] frame the annual return return is
+[00:31] 4.77%

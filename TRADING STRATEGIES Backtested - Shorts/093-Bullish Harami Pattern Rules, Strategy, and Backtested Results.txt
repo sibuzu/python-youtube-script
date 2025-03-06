@@ -1,0 +1,25 @@
+標題: Bullish Harami Pattern: Rules, Strategy, and Backtested Results
+URL: https://www.youtube.com/watch?v=xF5Ow4o218w&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:37:35
+
+=== 字幕內容 ===
+
+[00:00] the bullish harami is a two candle
+[00:02] pattern that appears during a downtrend
+[00:04] the first Candlestick is a big bearish
+[00:06] candle with a long red body signifying
+[00:08] strong selling pressure this is followed
+[00:10] by a small bullish candle often a dogee
+[00:13] which is completely engulfed by the body
+[00:15] of the first candle the doe represents
+[00:17] indecision in the market with the
+[00:19] opening and closing prices being very
+[00:21] closed we co the bullish harami and made
+[00:23] the following trading rules when we
+[00:25] apply the trading rules on the S&P 500
+[00:27] from 1993 until today we get the tabl
+[00:30] shown on the screen if you sell after 10
+[00:33] trading days you get the equity curve on
+[00:35] the screen the win rate is from 55 to
+[00:37] 70% depending on the holding time

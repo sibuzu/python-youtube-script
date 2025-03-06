@@ -1,0 +1,20 @@
+標題: VIX Trading Strategy (Backtest)
+URL: https://www.youtube.com/watch?v=bjkew9vMTAc&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:36:31
+
+=== 字幕內容 ===
+
+[00:00] vix is called the fear index because it
+[00:02] measures the implied volatility of the
+[00:04] option premiums on the S&P 500 as you
+[00:07] can see vix goes from overbought to
+[00:09] oversold conditions let's go on to back
+[00:11] test the first strategy based on the vix
+[00:13] indicator when the vix is above its
+[00:15] 20-day moving average the average daily
+[00:17] return in the S&P 500 from close until
+[00:20] tomorrow's close is
+[00:22] 05% when the vix is under its 20-day
+[00:24] moving average the daily return in the
+[00:26] S&P 500 drops to .3%

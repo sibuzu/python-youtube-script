@@ -1,0 +1,27 @@
+標題: Larry Connors Double Seven Trading Strategy (Backtest) #shorts
+URL: https://www.youtube.com/watch?v=Do4_tMhElqI&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:35:02
+
+=== 字幕內容 ===
+
+[00:00] Larry Connor's double seven trading
+[00:02] strategy however we rephrase it to
+[00:04] double five trading strategy Connors
+[00:07] originally used seven trading days in
+[00:09] the settings but we only use five days
+[00:11] to get more trades when the close is
+[00:13] above the 200-day moving average and
+[00:16] closes at a five-day low we buy we sell
+[00:19] when the close is at a five-day High the
+[00:21] rules are simple and the produce the
+[00:23] following Equity curve as shown on the
+[00:25] screen our modified strategy produces
+[00:27] more trades than Connor's original
+[00:29] strategy 352 in total and thus more
+[00:32] total profits the average gain per trade
+[00:35] is 0.65 and the drawdowns are moderate
+[00:38] at Max 14 and they are short-lived we'd
+[00:41] like to mention that the strategy works
+[00:43] on a wide range of stock ETFs and
+[00:45] Futures but they tend to be correlated

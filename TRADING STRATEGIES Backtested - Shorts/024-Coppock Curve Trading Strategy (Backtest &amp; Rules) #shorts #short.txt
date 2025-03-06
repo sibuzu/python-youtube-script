@@ -1,0 +1,16 @@
+標題: Coppock Curve Trading Strategy (Backtest &amp; Rules) #shorts #short
+URL: https://www.youtube.com/watch?v=EIv0yyl0Si8&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:35:04
+
+=== 字幕內容 ===
+
+[00:00] the Copic curve strategy is a momentum
+[00:02] indicator that's used to identify
+[00:03] long-term trends in the stock market
+[00:06] it's calculated using a weighted moving
+[00:08] average of two sum of two different rate
+[00:10] of change values let's look at the
+[00:12] trading rules of the Copic curve
+[00:13] strategy a strategy generated an average
+[00:16] annual return of 6.11%

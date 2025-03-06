@@ -1,0 +1,32 @@
+標題: Limit Order Book Trading Strategy (Backtest and Rules)
+URL: https://www.youtube.com/watch?v=iw9VZ3Usapc&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:37:00
+
+=== 字幕內容 ===
+
+[00:00] limit order book trading strategy
+[00:04] the limit order book strategy is based
+[00:06] on the order flow the order flow is an
+[00:08] electronic record maintained by an
+[00:10] exchange of all buy and sell limit
+[00:11] orders that come in for a given
+[00:13] instrument this is an example of a limit
+[00:15] order book on the bid side which is buy
+[00:18] limit orders prices are arranged from
+[00:20] highest to lowest and according to the
+[00:22] time the orders came in on the ask side
+[00:24] which is sell limit orders prices are
+[00:26] ranked from lowest to highest and
+[00:28] according to the time the orders came in
+[00:30] you can record straight on this
+[00:31] information but we believe you are
+[00:33] unlikely to be successful in the long
+[00:35] run it's difficult and such a strategy
+[00:37] is even more difficult to backtest as a
+[00:40] retail Trader we believe the best option
+[00:42] is to focus on Quantified strategies
+[00:43] that are back tested we have over the
+[00:45] last 10 years provided hundreds of such
+[00:47] strategies completely free of charge
+[00:49] please visit quantifiedstrategies.com

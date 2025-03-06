@@ -1,0 +1,19 @@
+標題: Index Trading Strategy (Settings + Backtest) #shorts
+URL: https://www.youtube.com/watch?v=GhKpiq9Wko8&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:35:18
+
+=== 字幕內容 ===
+
+[00:00] the rules as shown on the screen are
+[00:02] slightly more complex but still
+[00:03] relatively easy to code the main idea is
+[00:05] to trade short-term mean reversion when
+[00:07] we're in a bear market and stay long
+[00:09] when the trend is bullish and we trade
+[00:11] the rubber band strategy only when the
+[00:13] long 200-day moving average is above the
+[00:16] short 50-day moving average the 100 000
+[00:18] grows to over 2.5 million which equals
+[00:21] annual returns of 11.2 percent and Max
+[00:24] drawdown is 33 percent

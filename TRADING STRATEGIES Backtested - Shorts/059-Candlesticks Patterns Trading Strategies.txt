@@ -1,0 +1,24 @@
+標題: Candlesticks Patterns Trading Strategies
+URL: https://www.youtube.com/watch?v=ZY6swQwQgLw&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:36:20
+
+=== 字幕內容 ===
+
+[00:00] candlesticks are a popular way to
+[00:01] visualize price movements in financial
+[00:03] markets but do candlesticks actually
+[00:05] work can you make money by using
+[00:07] Candlestick patterns please stick to the
+[00:09] end and we'll show you how profitable
+[00:11] they are all Candlestick analysis is
+[00:13] based on anecdotal evidence and random
+[00:15] charts that normally exclude the bad
+[00:17] trades we decided to quantify all the
+[00:19] Candlestick patterns make a back test
+[00:22] and rank the patterns let's look at the
+[00:24] performance of SNP 500 as you can see
+[00:27] it's pretty impressive results it was a
+[00:29] 20 bagger over the period something that
+[00:31] is one percentage Point better than Buy
+[00:33] and Hold

@@ -1,0 +1,21 @@
+標題: Inverted Yield Curve Strategy (Backtest)
+URL: https://www.youtube.com/watch?v=p_i51TbAReQ&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:37:22
+
+=== 字幕內容 ===
+
+[00:00] can an inverted yield curve be used as a
+[00:02] successful stock market indicator a
+[00:04] normal yield curve is one in which
+[00:06] longer maturity bonds offer a greater
+[00:08] yield than shorter maturity bonds due to
+[00:10] the risks involved with time however
+[00:12] there are times when shorter term bonds
+[00:15] have higher yields than longer term
+[00:17] bonds and the yield curve becomes
+[00:19] inverted our first inverted yield curve
+[00:21] trading strategy buys when the curve
+[00:23] gets inverted and sells 250 trading days
+[00:26] later since 1976 the strategy returned
+[00:30] an average 7.3% over the next 250 days

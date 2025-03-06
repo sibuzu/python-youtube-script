@@ -1,0 +1,16 @@
+標題: Dark Cloud Cover Pattern (Backtest And Rules)
+URL: https://www.youtube.com/watch?v=AhOit-DEY38&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:34:49
+
+=== 字幕內容 ===
+
+[00:00] we use the Candlestick pattern called
+[00:02] dark cloud cover is Buy Signal the
+[00:04] trading rules for all candlesticks are
+[00:06] demanding but we quantifi dark cloud
+[00:08] cover into the trading rules you see on
+[00:10] the screen as mentioned we sell when the
+[00:12] close ends higher than yesterday's high
+[00:15] when we back test the ETF the tracks S&P
+[00:17] 500 spy we get a decent Equity curve

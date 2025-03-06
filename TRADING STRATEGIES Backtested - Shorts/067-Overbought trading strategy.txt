@@ -1,0 +1,23 @@
+標題: Overbought trading strategy
+URL: https://www.youtube.com/watch?v=caWuJm7h5t0&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:36:38
+
+=== 字幕內容 ===
+
+[00:00] so what exactly is overbought it's when
+[00:02] the market has experienced a defined
+[00:03] period of growth which could be days
+[00:05] weeks or months first to navigate the
+[00:08] Market's complexities you must grasp the
+[00:10] principle of mean reversion the main
+[00:12] principle to understand the term
+[00:13] overbought we make the following trading
+[00:15] rules one we buy S&P 500 at the close
+[00:19] when the 2-day RSI is above 95 two we
+[00:22] sell at the close after end days column
+[00:24] 3 shows that the returns in the first 5
+[00:27] days after entry are significantly lower
+[00:29] than the long longterm average which is
+[00:31] about
+[00:32] 05% per day

@@ -1,0 +1,30 @@
+標題: High-Frequency Trading Strategy (Backtest And Rules) - HFT
+URL: https://www.youtube.com/watch?v=nTwvkXCx8Bc&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:37:20
+
+=== 字幕內容 ===
+
+[00:00] our frequency trading is a method or
+[00:02] trading that uses powerful computer
+[00:04] programs to make a large number of
+[00:06] Trades often in fractions of a second
+[00:08] it's a type of algorithmic trading
+[00:11] strategy that uses high speeds and high
+[00:13] turnover to take advantage of small
+[00:15] short-lived profitable opportunities in
+[00:18] the markets it's a strategy that only
+[00:21] has room for a limited number of players
+[00:23] high frequency trading is capital
+[00:26] intensive and requires technical skills
+[00:29] even after getting the software one
+[00:31] needs VPS services that can host the
+[00:35] system right next to the exchange to
+[00:37] reduce latency and increase the chances
+[00:39] of success hence this is not a game for
+[00:43] a retail Trader
+[00:44] instead of high frequency trading we
+[00:47] believe it's a better idea to use slow
+[00:49] frequency trading we have published
+[00:52] hundreds of such strategies at
+[00:54] quantifiedstrategies.com

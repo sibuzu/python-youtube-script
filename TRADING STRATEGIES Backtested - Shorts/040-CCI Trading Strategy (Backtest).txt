@@ -1,0 +1,23 @@
+標題: CCI Trading Strategy (Backtest)
+URL: https://www.youtube.com/watch?v=OFHiOeV5zbQ&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:35:39
+
+=== 字幕內容 ===
+
+[00:00] today we'll show you one trading
+[00:01] indicator that's not so well known the
+[00:03] commodity Channel indicator abbreviated
+[00:06] CCI the CCI can help you spot Trend
+[00:09] reversal it's a technical indicator that
+[00:11] measures the current price level of a
+[00:13] security relative to an average price
+[00:15] level over a given look back period it's
+[00:17] a momentum osculator that's used to
+[00:19] identify extreme conditions such as
+[00:21] oversold and overbought condition we buy
+[00:24] when the CCI indicator drops below -90
+[00:28] and we sell when the close in higher
+[00:30] than yesterday's high 100,000 in 1993
+[00:33] have multiplied your Equity 10 times by
+[00:36] now to over 1 million

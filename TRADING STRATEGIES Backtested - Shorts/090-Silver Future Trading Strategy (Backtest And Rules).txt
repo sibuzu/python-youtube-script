@@ -1,0 +1,27 @@
+標題: Silver Future Trading Strategy (Backtest And Rules)
+URL: https://www.youtube.com/watch?v=ry3MZFLItUA&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:37:28
+
+=== 字幕內容 ===
+
+[00:00] after gold silver is the most commonly
+[00:03] traded contract on Commodities exchanges
+[00:05] around the world but being heavily
+[00:07] traded doesn't mean it's easy to trade
+[00:09] quite a contrary overall all Commodities
+[00:11] are very hard to make money at
+[00:14] we do have a potential silver future
+[00:16] strategy though it's a day trade where
+[00:19] the entry is based on two seasonal
+[00:21] variables and the exit is a simple time
+[00:23] exit a few hours later the active Decker
+[00:26] looks like this from 2005 it has over
+[00:30] 700 trades where the average gain is
+[00:32] close to 0.2 percent without Leverage
+[00:35] The Win rate is 64 and the profit factor
+[00:39] is 2.3 the worst year was 2009 but still
+[00:43] with a positive annual gain of 1.5
+[00:45] percent
+[00:47] if you want more training strategies
+[00:49] please visit quantifiedstrategies.com

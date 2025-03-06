@@ -1,0 +1,25 @@
+標題: A CRUDE OIL Trading Strategy  (With Rules and Backtest)
+URL: https://www.youtube.com/watch?v=V_mmLWa6Q58&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:36:05
+
+=== 字幕內容 ===
+
+[00:00] foreign
+[00:00] [Music]
+[00:07] oil trading strategy so oil is a pretty
+[00:11] difficult asset to trade but today we're
+[00:13] going to show you a strategy that we
+[00:16] actually backed tested in 2013 and we
+[00:19] also published it in 2013. so the
+[00:22] trading rules are like this you
+[00:25] calculate the 25 average or the daily
+[00:27] High minus the low this is the range and
+[00:30] today has to be a Tuesday or Thursday
+[00:32] and the close today must be lower than
+[00:35] yesterday's close minus the range in
+[00:37] number one and we sell at the close of
+[00:39] the next trading day so you hold it for
+[00:41] 24 hours that's it and here is the back
+[00:44] test when we use the Futures Contract CL
+[00:49] thank you

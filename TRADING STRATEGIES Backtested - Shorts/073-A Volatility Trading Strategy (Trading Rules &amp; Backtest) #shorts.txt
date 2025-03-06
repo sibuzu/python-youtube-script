@@ -1,0 +1,15 @@
+標題: A Volatility Trading Strategy (Trading Rules &amp; Backtest) #shorts
+URL: https://www.youtube.com/watch?v=gp3aBAq7uU0&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:36:51
+
+=== 字幕內容 ===
+
+[00:00] a quantitative volatility strategy
+[00:02] however this one is a premium strategy
+[00:04] and thus we don't provide you these
+[00:06] specific trading rules the strategy
+[00:07] works on a wide range of assets but best
+[00:09] for stocks the equity for S P 500 shows
+[00:12] a steady performance all the way back to
+[00:14] 1993.

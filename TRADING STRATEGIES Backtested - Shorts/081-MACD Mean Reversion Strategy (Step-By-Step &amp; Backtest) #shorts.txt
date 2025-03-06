@@ -1,0 +1,28 @@
+標題: MACD Mean Reversion Strategy (Step-By-Step &amp; Backtest) #shorts
+URL: https://www.youtube.com/watch?v=klDDF9Of5zI&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:37:09
+
+=== 字幕內容 ===
+
+[00:00] this strategy is based on the macd
+[00:02] histogram the macd histogram is the fast
+[00:05] line subtracted from the slower signal
+[00:07] Line This is a mean reversion strategy
+[00:10] and the trading rules are on the screen
+[00:11] we do this by buying when the macd
+[00:14] histogram drops four days in a row from
+[00:17] a level that was below zero four days
+[00:19] ago the equity is growing nicely upward
+[00:21] but the annual returns of five percent
+[00:23] fail to beat the buy and hold of the S P
+[00:26] 500 but that is explained by the load
+[00:29] time spent in the market only five
+[00:31] percent
+[00:32] considering this we believe the strategy
+[00:35] is decent because the low investment
+[00:37] time frees up time to trade other
+[00:39] complementary strategies the positive is
+[00:42] that the strategy has a very high win
+[00:44] rate of 89 percent and a low drawdown of
+[00:47] 16 percent

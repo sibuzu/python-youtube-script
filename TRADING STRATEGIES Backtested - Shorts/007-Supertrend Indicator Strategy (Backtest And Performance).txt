@@ -1,0 +1,21 @@
+標題: Supertrend Indicator Strategy (Backtest And Performance)
+URL: https://www.youtube.com/watch?v=1xuNNJaALGA&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:34:28
+
+=== 字幕內容 ===
+
+[00:00] the super Trend indicator calculates a
+[00:01] median price of a candle and adds bands
+[00:04] above and below the median price the
+[00:06] bands use a 10we lookback period and
+[00:08] three times the average true range buy
+[00:11] when the close of a bar crosses above
+[00:13] the previous value of the super Trend
+[00:15] indicator sell when the close of a bar
+[00:17] crosses below the previous value of the
+[00:19] super Trend indicator the example on the
+[00:21] screen shows a trade example of 44% but
+[00:24] of course not all trades turn out so
+[00:26] well when we back test on S&P 500 the 38
+[00:30] trades made annual gains of almost 6%

@@ -1,0 +1,25 @@
+標題: Out of Sample Back Testing: The Key to Trading Profitability
+URL: https://www.youtube.com/watch?v=7SAsj3y6GAU&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:34:40
+
+=== 字幕內容 ===
+
+[00:01] out of sample back testing is when you
+[00:04] divide your back test into two parts in
+[00:06] Ensemble versus out of sample for
+[00:08] example if you have data from 2005 until
+[00:12] 2022 then base your insult back test on
+[00:16] data from 2005 until 2018 and the auto
+[00:20] sample from 2018 until 2022.
+[00:24] The Ensemble test is where you make the
+[00:26] rules the signals and the parameters the
+[00:29] auto sample is where you test your rules
+[00:31] and signals on unknown data the whole
+[00:34] point of doing back tests is to forecast
+[00:36] the future doing so you need to be
+[00:39] careful and patient we believe in our
+[00:41] Ensemble test is an important aspect of
+[00:43] this procedure before you allocate money
+[00:46] to a strategy
+[00:50] [Music]

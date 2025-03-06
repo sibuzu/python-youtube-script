@@ -1,0 +1,21 @@
+標題: Seasonality Short Strategy With Backtest
+URL: https://www.youtube.com/watch?v=it3Hvl75K_s&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:36:58
+
+=== 字幕內容 ===
+
+[00:00] seasonal short strategy we short the
+[00:02] specific week that's historically the
+[00:04] worst week of the year for the stock
+[00:05] market and it happens in the second half
+[00:07] of September the notorious bad month for
+[00:10] stock strategy is very simple go short
+[00:12] S&P 500 on the third Friday in September
+[00:15] and cover one week later since 1960
+[00:18] short has worked amazingly well with an
+[00:20] average gain of .9% short trading
+[00:22] strategies are hard to find because of
+[00:24] the long-term gains in stocks so this
+[00:27] seasonal short strategy might fit in a
+[00:29] portfolio of trading strategy

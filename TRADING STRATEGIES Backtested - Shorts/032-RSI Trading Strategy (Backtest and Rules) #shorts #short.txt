@@ -1,0 +1,14 @@
+標題: RSI Trading Strategy (Backtest and Rules) #shorts #short
+URL: https://www.youtube.com/watch?v=HttcI-BrBeg&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:35:22
+
+=== 字幕內容 ===
+
+[00:00] this is called the two periods RSI
+[00:02] strategy we back test it on S&P 500 we
+[00:05] buy when the 2-day RSI crosses below 10
+[00:07] and we sell when the 2-day RSI crosses
+[00:10] above 80 our starting capital of 100,000
+[00:13] grows to 1.2 million after about 30
+[00:15] years

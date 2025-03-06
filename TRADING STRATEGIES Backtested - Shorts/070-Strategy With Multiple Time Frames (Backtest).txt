@@ -1,0 +1,23 @@
+標題: Strategy With Multiple Time Frames (Backtest)
+URL: https://www.youtube.com/watch?v=eD-uHX60LY4&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:36:44
+
+=== 字幕內容 ===
+
+[00:00] multiple time frame trading strategy you
+[00:02] can use a weekly time frame to determine
+[00:04] the longer Trend daily bars to find the
+[00:06] medium Trend and finally an intraday
+[00:09] time frame to make the entry the main
+[00:11] idea could be for example to trade with
+[00:12] the long-term Trend but enter on
+[00:14] short-term pullbacks we make the
+[00:16] following trading rules one we use a
+[00:18] long-term Trend filter the close must be
+[00:20] higher than the close 250 days ago two
+[00:23] we use an intermediate Trend filter the
+[00:25] close must be higher than the close 22
+[00:27] days ago we get the following Equity
+[00:29] curve on x l p the ETF that tracks
+[00:31] consumer staples

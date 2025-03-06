@@ -1,0 +1,22 @@
+標題: Bollinger Bands Strategy (Backtest)
+URL: https://www.youtube.com/watch?v=8LcW6V9ppDg&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:34:43
+
+=== 字幕內容 ===
+
+[00:00] in this video we are going to show you
+[00:01] how to use the Ballinger bands one of
+[00:03] the most popular trading indicators and
+[00:05] used by Traders all around the world
+[00:07] Ballinger bands are used to identify
+[00:09] Trends measure volatility and find
+[00:12] potential breakouts in the market when
+[00:13] the share price closes two standard
+[00:15] deviations below the 10-day average we
+[00:18] go long we exit when it crosses above
+[00:20] the 10-day average the equity curve
+[00:22] looks like this and this is not a very
+[00:24] inspiring curve the sharp drops in value
+[00:26] make this strategy untradeable in our
+[00:28] opinion

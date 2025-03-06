@@ -1,0 +1,31 @@
+標題: iNVERTED YIELD CURVE Investment Strategy (Rules and backtest)
+URL: https://www.youtube.com/watch?v=nDL_k9FI5qM&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:37:18
+
+=== 字幕內容 ===
+
+[00:00] an inverted yield curve is when the
+[00:02] short-term rates are higher than
+[00:03] long-term rates this doesn't happen
+[00:05] often yield inversions are often
+[00:07] followed by an economic recession
+[00:09] but is an inverted yield curve a Buy
+[00:12] Signal for stocks we did two back tests
+[00:14] when the yield curve gets inverted the
+[00:17] buy S P 500 and hold it for 250 days
+[00:20] since 1976 we've had 11 trades and the
+[00:24] average gain is 7.35 percent which is
+[00:27] more or less the same return as Buy and
+[00:29] Hold
+[00:29] if you hold for 500 Days the return
+[00:32] increases to 18.3 percent which is
+[00:34] slightly better than Buy and Hold our
+[00:37] second back test is using a five-day RSI
+[00:40] on the yield curve and buy stocks when
+[00:43] it gets oversold and hit 20 and we sell
+[00:46] when it is overbought and hit 80. the
+[00:49] 102 trades since 1976 gained an average
+[00:52] of 2.5 per trade if you want more
+[00:55] trading strategies please visit
+[00:57] quantifiedstrategies.com

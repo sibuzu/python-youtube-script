@@ -1,0 +1,26 @@
+標題: MACD And Bollinger Bands Strategy (That Works)
+URL: https://www.youtube.com/watch?v=FqELrHYKTmw&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:35:15
+
+=== 字幕內容 ===
+
+[00:00] back-tested macd strategy which uses a
+[00:03] Bollinger band of the macd histogram we
+[00:06] enter a long position when the histogram
+[00:08] crosses below the lower Bollinger band
+[00:10] and we sell when the histogram crosses
+[00:13] above the upper band The 100 000
+[00:15] invested grows to 1.15 million today
+[00:18] which equals an annual return of 8.4
+[00:22] percent the strategy's performance is
+[00:24] mixed the positive takeaway is a solid
+[00:27] win rate because we believe the win rate
+[00:29] is crucial for most traders to stick to
+[00:32] a strategy however the negative is the
+[00:35] huge drawdown of 44 with such a drawdown
+[00:38] We Believe most Traders would abandon
+[00:40] the strategy even though the strategy
+[00:42] performs almost as well as Buy and Hold
+[00:45] despite being invested just 64 of the
+[00:48] time

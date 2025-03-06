@@ -1,0 +1,15 @@
+標題: Closed-End Fund Investment Strategy (Backtested)
+URL: https://www.youtube.com/watch?v=lMyPmQRHWiQ&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:37:14
+
+=== 字幕內容 ===
+
+[00:00] let's show you a profitable closed end
+[00:02] fund strategy we do that by trading on
+[00:04] The Daily differences between the price
+[00:06] and the net asset value when the 2-day
+[00:08] relative strength index of the ratio
+[00:11] crosses below 10 we go long at the close
+[00:14] it's 212 trades and the average gain is
+[00:16] 48%

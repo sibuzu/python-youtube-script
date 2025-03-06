@@ -1,0 +1,15 @@
+標題: Simple Swing Trading Strategy That Works (Backtest) #shorts
+URL: https://www.youtube.com/watch?v=7QfM0JQjiOI&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:34:38
+
+=== 字幕內容 ===
+
+[00:00] let's show you swing trading strategies
+[00:01] for S&P 500 today's intraday high must
+[00:04] be lower than the previous day's 10day
+[00:07] High the IBS must be lower than 0.15
+[00:10] exit when today's close is higher than
+[00:12] yesterday's high you find hundreds of
+[00:14] similar swing trading strategies on our
+[00:16] website

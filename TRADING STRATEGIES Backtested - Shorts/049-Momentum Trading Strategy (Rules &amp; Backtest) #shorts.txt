@@ -1,0 +1,14 @@
+標題: Momentum Trading Strategy (Rules &amp; Backtest) #shorts
+URL: https://www.youtube.com/watch?v=Tz6V33LEFtY&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:35:59
+
+=== 字幕內容 ===
+
+[00:00] this one trades S&P 500 and gold the
+[00:02] ticker codes spy and GLD we use a
+[00:05] 3-month look back period to measure
+[00:07] momentum and we go long the asset with
+[00:09] the best percentage performance over the
+[00:11] last 3 months 100,000 invested in 2005
+[00:14] is worth 920,000 today

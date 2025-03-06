@@ -1,0 +1,26 @@
+標題: How Long Should You Backtest Your Trading Strategy? Find the Optimal Timeframe
+URL: https://www.youtube.com/watch?v=EYhlJm6iBpA&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:35:06
+
+=== 字幕內容 ===
+
+[00:00] today we tackle a question that plagues
+[00:01] Traders how far back should the back
+[00:03] test go and how many trades are enough A
+[00:05] good rule of thumb is to back test swing
+[00:08] strategies at least 10 years or make
+[00:10] sure you include both Bull and bare
+[00:11] Market this captures various market
+[00:13] conditions from bull runs to Corrections
+[00:16] offering a more well-rounded picture
+[00:18] however consider your strategies time
+[00:20] frame day trading strategies might
+[00:22] benefit from a shorter window while
+[00:24] long-term strategies might require a
+[00:26] longer one what about trade count
+[00:27] focusing solely on years can be Mis
+[00:29] bading you want to have many traders to
+[00:31] make a significant number of
+[00:33] observations ensuring your results
+[00:35] aren't just random fluctuation

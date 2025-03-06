@@ -1,0 +1,23 @@
+標題: Small Cap Effect Strategy (Backtest)
+URL: https://www.youtube.com/watch?v=14p0iYO36tI&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:34:23
+
+=== 字幕內容 ===
+
+[00:00] the small cap effect also known as the
+[00:02] small cap premium is a phenomenon that
+[00:04] suggests that smaller companies tend to
+[00:06] outperform larger companies over the
+[00:08] long term this effect is a key component
+[00:11] of the famous F French three Factor
+[00:13] model which attempts to explain stock
+[00:15] returns based on various factors on the
+[00:17] screen you can see how the different
+[00:19] sizes of the stock Universe have
+[00:20] performed since 1963 when JFK was
+[00:23] President we also learned from history
+[00:25] that small cap value has outperformed
+[00:27] small cap growth since 194 40 a modest
+[00:30] investment of $100 in 1965 is worth
+[00:35] $276,000 today

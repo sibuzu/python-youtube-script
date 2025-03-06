@@ -1,0 +1,24 @@
+標題: NR7 Strategy From Toby Crabel in 1990 (Backtested)
+URL: https://www.youtube.com/watch?v=zF0UXJJHmHc&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:37:39
+
+=== 字幕內容 ===
+
+[00:00] nr7 was first developed by Tony krabble
+[00:02] back in 1990 and is a volatility
+[00:04] strategy the main idea of nr7 is to
+[00:06] enter the market when it's in a low
+[00:08] volatility period ride the trend until
+[00:11] the market shows signs of strength and
+[00:13] then exit the range or volatility is
+[00:15] defined as the difference between the
+[00:17] daily High and the low if today has the
+[00:19] lowest range of the previous last six
+[00:21] trading days then we go long at the
+[00:23] close the exit is at the close when
+[00:25] today's close is higher than yesterday's
+[00:27] high when we back test this strategy
+[00:29] from 1993 until today we start with
+[00:32] 100,000 USD and end up with an equity
+[00:34] curve that shows an upward slope

@@ -1,0 +1,19 @@
+標題: Russell 2000 Trading Strategy With Rules And Historical Backtest
+URL: https://www.youtube.com/watch?v=-m1Bb0XZevY&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:34:21
+
+=== 字幕內容 ===
+
+[00:00] end of month trading strategy for
+[00:01] Russell 2000 we buy on the last fifth
+[00:04] trading day of the month and we hold the
+[00:06] position until the end of the first
+[00:08] trading day of the new month the capital
+[00:10] grows consistently since 1987 but the
+[00:13] performance is weaker after 2010 but
+[00:15] still positive for the cash index which
+[00:17] doesn't include reinvested dividends the
+[00:19] performance is better than Buy and Hold
+[00:21] despite being invested only 28% of the
+[00:24] time

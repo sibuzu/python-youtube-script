@@ -1,0 +1,22 @@
+標題: Valentine’s Day Trading Strategy (Backtest+Performance)
+URL: https://www.youtube.com/watch?v=4DqERQgdtHQ&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:34:30
+
+=== 字幕內容 ===
+
+[00:00] Valentine's Day is on February 14th and
+[00:02] academic Research indicates that markets
+[00:04] show abnormal positive returns in the
+[00:06] days leading up to February 14th we go
+[00:08] long in February at the close when the
+[00:10] calendar day is 10 or higher we sell at
+[00:12] the close when the calendar day is
+[00:14] February 14th or the first trading day
+[00:16] later if the 14th is a non-trading day
+[00:18] based on these trading rules we confirm
+[00:20] there is a Valentine's Day rally the
+[00:22] equity curve in S&P 500 since 1960 shows
+[00:25] an upward slope and the average gain per
+[00:27] trade is
+[00:28] 0.35% for about three trading days

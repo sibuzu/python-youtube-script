@@ -1,0 +1,14 @@
+標題: End Of Month Trading Strategy  (Trading Rules &amp; Backtest) #shorts
+URL: https://www.youtube.com/watch?v=hAkoewf_QKI&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:36:53
+
+=== 字幕內容 ===
+
+[00:00] it's based on a very strong seasonal
+[00:02] effect in the stock market it's called
+[00:04] the turn of the month strategy and buy
+[00:06] on the fifth last trading day of the
+[00:08] month and sells on the third trading day
+[00:10] of the pneuma since 1960 it's captured
+[00:12] all the gains in S P 500

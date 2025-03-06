@@ -1,0 +1,14 @@
+標題: Pullback Trading Strategy (Trading Rules &amp; Backtest) #shorts
+URL: https://www.youtube.com/watch?v=UU3CWUFdf1o&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:36:01
+
+=== 字幕內容 ===
+
+[00:00] this is a pullback trading strategy in
+[00:01] trades S&P 500 the trading rules are
+[00:04] simple the main idea is to have a trend
+[00:06] filter which is the 200-day moving
+[00:08] average our algo pullback trading system
+[00:10] grows 100,000 to 1 million today which
+[00:13] is a 10 bagger

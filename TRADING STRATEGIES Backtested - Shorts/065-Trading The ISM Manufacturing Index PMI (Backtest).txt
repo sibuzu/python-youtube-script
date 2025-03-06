@@ -1,0 +1,20 @@
+標題: Trading The ISM Manufacturing Index PMI (Backtest)
+URL: https://www.youtube.com/watch?v=bxJaM1wZKJI&list=PLHFlSdhbIZ6SuK0pQdrJzhoFuUb-efjGq
+語言: en
+下載時間: 2025-03-06 10:36:34
+
+=== 字幕內容 ===
+
+[00:00] the ISM Manufacturing Index or PMI is an
+[00:03] important indicator of the health of the
+[00:04] US manufacturing sector the index is
+[00:07] based on surveys and is published once a
+[00:08] month when the readings are above 50 we
+[00:11] buy the open of the month S&P 500 we
+[00:13] sell at the open the next month thus
+[00:15] holding for 1 month the equity curve
+[00:17] looks like this the strategy is invested
+[00:19] 72% of the time and the annual return is
+[00:22] 7.3% thus most of the gains have come
+[00:24] when readings are above 50 but it has
+[00:26] also reduced draw Downs
