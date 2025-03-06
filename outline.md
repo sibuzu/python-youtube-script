@@ -93,7 +93,9 @@ Overall, the video highlights the significance of quantitative strategies, data 
 </details>
 
 <details>
-<summary>004. Meb Faber Ivy ETF Portfolio (Backtest)</summary><br>
+<summary>004. Meb Faber Ivy ETF Portfolio (Backtest)</summary>
+[[Youtube]](https://www.youtube.com/watch?v=xSIQcXin12w&list=PLHFlSdhbIZ6Qj25o5dETtUmc6-cAmDdTx)
+<br>
 
 **Summary of the Ivy Portfolio Trading Strategy**
 
@@ -106,7 +108,5 @@ The Ivy Portfolio trading strategy, introduced by Meb Faber and Eric W. Richards
 - **Expectations:** Longer-term normalization of returns is anticipated.
 
 This strategy leverages the diversification and long-term investment approach typical of endowments, with a focus on rebalancing to maintain equal allocations.
-
-[[Youtube]](https://www.youtube.com/watch?v=xSIQcXin12w&list=PLHFlSdhbIZ6Qj25o5dETtUmc6-cAmDdTx)
 </details>
 
