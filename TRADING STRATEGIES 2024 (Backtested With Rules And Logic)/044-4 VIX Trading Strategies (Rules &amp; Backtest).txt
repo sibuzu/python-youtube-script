@@ -1,0 +1,162 @@
+標題: 4 VIX Trading Strategies (Rules &amp; Backtest)
+URL: https://www.youtube.com/watch?v=SoqRHI5ldXs&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:04:59
+
+=== 字幕內容 ===
+
+[00:00] in this video we explain what the vix is
+[00:02] how it works whether or not it can be
+[00:05] useful for Traders and we end the
+[00:07] article by back testing four specific
+[00:09] vix trading strategies with complete
+[00:11] trading rules and results
+[00:13] each strategy is better than the
+[00:15] previous so make sure you stick to the
+[00:16] end
+[00:18] the study of finances in practice a
+[00:20] study of how people behave with money
+[00:22] this means greed and fear some of the
+[00:25] main determinants at least in the short
+[00:26] run
+[00:27] how do we measure greed and fear
+[00:30] the vix indicator is an excellent tool
+[00:32] for measuring greed and fear but what
+[00:35] exactly is the VIX Index
+[00:37] vix is called the fear index because it
+[00:40] measures the implied volatility of the
+[00:42] option premiums on the s p 500. the
+[00:45] higher the option premium the more fear
+[00:47] in the market when the uncertainty is
+[00:49] high the higher the implied volatility
+[00:52] and fixed values the VIX Index is listed
+[00:55] with the ticker symbol vix and is
+[00:57] calculated in real time
+[00:59] let's show you a graphic daily display
+[01:01] of the VIX Index
+[01:03] as you can see vix goes from overbought
+[01:05] to oversold conditions High readings
+[01:08] which signals fear is often short-lived
+[01:10] but vix tends to rise quickly but drops
+[01:13] slowly
+[01:15] what's a good reading of the VIX Index
+[01:17] the vix and the stock market are
+[01:20] inversely related when the vix Rises the
+[01:23] stock market normally heads South a low
+[01:25] reading means the market is complacent
+[01:27] and could be a signal that the market
+[01:29] participants are being too bullish and
+[01:31] we're right for a negative surprise
+[01:33] opposite a high reading might suggest
+[01:36] that fear is too high and a rise in the
+[01:38] stock market is imminent however there's
+[01:41] no definite answer of what a good fix
+[01:42] rating is because you need to do some
+[01:44] Quantified tests to establish what has
+[01:46] historically worked and not worked
+[01:49] let's go on to back test the first
+[01:51] strategy based on the vix indicator
+[01:54] what is the daily Return of the S P 500
+[01:56] when the vix is above and under its
+[01:59] 20-day moving average
+[02:00] when the vix is above its 20-day moving
+[02:03] average the average daily return in the
+[02:05] S P 500 from close until tomorrow's
+[02:07] close is .05 percent
+[02:10] the chart shows the equity curve of the
+[02:12] strategy
+[02:13] when the vix is under its 20-day moving
+[02:16] average the daily return in the S P 500
+[02:18] drops to .03 percent
+[02:20] thus the return is significantly higher
+[02:23] when the risk premium increases
+[02:25] we discover the same pattern on weekly
+[02:27] bars if the vix pattern is above its 10
+[02:30] week average the weekly return in the S
+[02:32] P 500 has been 0.25 percent
+[02:35] if the vix has been under its 10-week
+[02:37] average the weekly return in the S P 500
+[02:40] drops 2.1 percent
+[02:42] the conclusion is that we can expect
+[02:44] higher future returns when vix is rising
+[02:48] let's back test a strategy that's coming
+[02:50] vix and Bollinger Bands to trade s p
+[02:53] 500. we make the following trading rules
+[02:55] let's buy the S P 500 if the vix breaks
+[02:59] above its 10-day upper band two standard
+[03:01] deviations away from the moving average
+[03:03] exit when today's close is higher than
+[03:06] yesterday's high
+[03:08] the strategy makes .45 percent per trade
+[03:10] which translates into 4.6 percent annual
+[03:13] Returns the equity Rises steadily most
+[03:16] of the time
+[03:17] the return is below buy and holds 7.6
+[03:20] annual returns but the strategies
+[03:22] invested only 13 percent of the time
+[03:25] Max drawdown for the strategy is only 22
+[03:28] percent compared to 55 percent for s p
+[03:31] 500.
+[03:32] let's jump to our third Vic strategy
+[03:35] which is a breakout strategy the trading
+[03:37] rules read like this buy when Vic sets a
+[03:40] new 20-day High and the five-day RSI
+[03:43] must be over 65. exit when today's close
+[03:47] is higher than yesterday's high
+[03:49] we coded the strategy in Emma broker and
+[03:52] got the following Equity curve the
+[03:54] strategy is better than the last one and
+[03:56] it makes point five five percent per
+[03:58] trade which translates into 4.8 percent
+[04:01] annual returns
+[04:02] the return is below buy and holds 7.6
+[04:05] annual returns but the strategies
+[04:08] invested only 12 percent of the time
+[04:10] Max drawdown for the strategy is only 22
+[04:13] percent compared to 55 percent for s p
+[04:16] 500.
+[04:17] let's back test the fourth and last Vic
+[04:20] strategy this strategy is the best to
+[04:23] trade fix and it's what we like to call
+[04:25] an overnight strategy because it holds
+[04:27] the position only 24 hours
+[04:29] we buy S P 500 at the close and we sell
+[04:32] it to close the next trading day the
+[04:35] equity curve looks like this
+[04:37] since the year 2000 it's generated 577
+[04:40] trades with an average of 0.28 percent
+[04:43] we would argue this is pretty good for
+[04:45] owning S P 500 for only 24 hours
+[04:49] actually the strategy is beaten by and
+[04:51] hold with a wide margin despite being
+[04:53] invested less than 10 percent of the
+[04:54] time
+[04:56] how good the strategy is can be shown by
+[04:58] 69 risk adjusted returns which we
+[05:01] calculate by dividing the annual returns
+[05:03] by the exposure or time spent in the
+[05:05] market
+[05:06] what is the trading rules of the
+[05:08] strategy
+[05:09] the trading strategy consists of three
+[05:11] simple variables and we developed the
+[05:13] strategy many years ago however because
+[05:16] the strategy is so good we only reveal
+[05:18] the trading rules for our Gold members
+[05:21] in conclusion the vix indicator can be a
+[05:23] powerful tool to help you identify
+[05:25] potential trading entries in the stock
+[05:26] market
+[05:27] we've explained how you can use the vix
+[05:29] indicator and in the long run it pays
+[05:32] off to buy when there's fear in the
+[05:33] market or as Nathan Rothschild once said
+[05:36] the time to buy is when there's blood in
+[05:38] the streets
+[05:40] thank you for watching and if you have
+[05:42] any questions or feedback please leave
+[05:44] them in the comments section below and
+[05:46] don't forget to hit the like button and
+[05:48] subscribe to our channel to stay up to
+[05:50] date on future videos
+[05:52] good luck and good Trading

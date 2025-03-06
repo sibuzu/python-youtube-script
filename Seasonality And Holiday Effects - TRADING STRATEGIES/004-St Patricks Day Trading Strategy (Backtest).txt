@@ -1,0 +1,35 @@
+標題: St Patricks Day Trading Strategy (Backtest)
+URL: https://www.youtube.com/watch?v=7_yZW4NvaJY&list=PLHFlSdhbIZ6SMz5hnXTWKKj__6zDmxzz3
+語言: en
+下載時間: 2025-03-06 12:02:23
+
+=== 字幕內容 ===
+
+[00:01] St Patrick's Day is an important day for
+[00:03] Catholics is the day just as green for
+[00:06] stocks as for those celebrating St
+[00:09] Patrick's Day originated as a religious
+[00:11] holiday to celebrate the death of St
+[00:13] Patrick who is said to have brought
+[00:14] Christianity to Ireland over time it's
+[00:17] become a celebration of Irish culture
+[00:19] and Heritage and is now a popular
+[00:21] holiday around the world especially in
+[00:23] the United States the color of St
+[00:25] Patrick's Day is green and so is a
+[00:27] positive day in the stock market St
+[00:30] Patrick's Day is on the 17th of March
+[00:32] but is St Patrick's Day a Green Day for
+[00:35] stocks let's find out and we back test
+[00:38] S&P 500 since 1960 until today we buy on
+[00:43] the last trading day before the 17th of
+[00:45] March and we sell on the 17th or the
+[00:48] first trading day after St Patrick's day
+[00:51] thus we're only invested one trading day
+[00:54] since 1960 St Patrick's day has been
+[00:57] mixed the average gain is 21% % but all
+[01:00] the gains have come since
+[01:03] 1993 since 1993 the average gain is. 53%
+[01:07] and the win rate has been a solid
+[01:10] 67% good luck
+[01:13] Trading

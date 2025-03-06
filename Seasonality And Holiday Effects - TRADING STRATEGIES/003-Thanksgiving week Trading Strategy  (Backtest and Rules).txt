@@ -1,0 +1,58 @@
+標題: Thanksgiving week Trading Strategy  (Backtest and Rules)
+URL: https://www.youtube.com/watch?v=7Tsh1HGzdU8&list=PLHFlSdhbIZ6SMz5hnXTWKKj__6zDmxzz3
+語言: en
+下載時間: 2025-03-06 12:02:21
+
+=== 字幕內容 ===
+
+[00:01] foreign
+[00:02] so next week is the Thanksgiving week
+[00:07] so
+[00:08] we thought we'd like to make some back
+[00:10] tests so the stocks have performed
+[00:12] during this week
+[00:14] so here
+[00:15] we have we made a tweet
+[00:18] or actually several tweets on Twitter
+[00:21] and here is here is the back test
+[00:24] showing the performance if you buy the
+[00:27] clothes on the Friday
+[00:30] I repeat if you buy the clothes on the
+[00:32] Friday before Thanksgiving week and you
+[00:35] exit on the on the Black Friday
+[00:39] so the performance as you can see here
+[00:42] is pretty consistent about 0.6 percent
+[00:46] on average
+[00:49] uh one of the reasons why you have this
+[00:52] Tailwind in stocks during this week
+[00:55] might be because they yield or long-term
+[00:58] bonds usually fall during this week
+[01:02] this is the equity curve of the yield
+[01:06] of long-term bonds and when yield goes
+[01:10] down
+[01:11] it means that the price of the bomb goes
+[01:14] up so it's an inverse relationship
+[01:20] so that means that bonds also is pretty
+[01:22] strong during Thanksgiving week
+[01:25] so to to end this short video we put up
+[01:30] a short hair or an equity curve if you
+[01:33] buy the clothes on Tuesday
+[01:37] or the Thanksgiving week and you exit on
+[01:41] the at the close on the Black Friday so
+[01:44] I repeat
+[01:45] you enter at the close on Tuesday
+[01:50] in the Thanksgiving week and you exit on
+[01:53] Black Friday
+[01:54] so here you can see the performance has
+[01:57] been pretty consistent
+[02:01] except for perhaps it seems like it's uh
+[02:05] slowly eroding a little bit
+[02:08] so and I also take the opportunity to
+[02:11] remind you that we have a strategy
+[02:13] report that we publish every weekend on
+[02:16] a Sunday or Monday morning and it's and
+[02:19] we send it to your um in inbox every
+[02:23] week 52 times per year
+[02:26] um we would say it's a pretty cheap
+[02:28] report only 99 US dollar
+[02:33] good luck

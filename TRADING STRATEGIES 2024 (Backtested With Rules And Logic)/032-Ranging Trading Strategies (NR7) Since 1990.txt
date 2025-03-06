@@ -1,0 +1,51 @@
+標題: Ranging Trading Strategies (NR7) Since 1990
+URL: https://www.youtube.com/watch?v=MHbAliaJo-c&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:04:31
+
+=== 字幕內容 ===
+
+[00:00] nr7 was first developed by Tony crabill
+[00:03] back in 1990 and is a volatility
+[00:04] strategy we'll explain the logic behind
+[00:07] the strategy and show you how to back
+[00:09] test it the main idea of nr7 is to enter
+[00:11] the market when it's in a low volatility
+[00:13] period ride the trend until the market
+[00:16] shows signs of strength and then exit
+[00:18] the range or volatility is defined as
+[00:21] the difference between the daily High
+[00:23] and the low if today has the lowest
+[00:25] range of the previous last six trading
+[00:27] days then we go long at the close the
+[00:30] exit is at the close when today's close
+[00:32] is higher than yesterday's high to
+[00:34] demonstrate this strategy we'll be back
+[00:36] testing it on the S P 500 by using the
+[00:39] ETF with the ticker code spy let's look
+[00:41] at a trading example the Green Arrow
+[00:43] shows a day when the daily range is
+[00:45] lower than the previous six trading days
+[00:47] thus we go long at the close the next
+[00:49] day S P 500 rallies and the close is
+[00:52] higher than yesterday's high we exit at
+[00:54] the close for a nice gain when we back
+[00:56] test this strategy from 1993 until today
+[00:59] we start with 1 100 000 USD and end up
+[01:02] with an equity curve that shows an
+[01:03] upward slope the average gain per trade
+[01:05] is zero twenty six percent max drawdown
+[01:08] is twenty five percent and the annual
+[01:09] return is seven point six percent the
+[01:12] annual return is slightly below buy and
+[01:14] holds 9.7 percent however the strategy
+[01:17] is only invested 37 percent of the time
+[01:19] and the risk-adjusted return is hence 20
+[01:21] percent can the strategy be improved yes
+[01:24] if we use the 200-day moving average
+[01:26] Trend filter we reduce Max drawdown to
+[01:28] 15 percent while the average gain stays
+[01:31] the same that's all for today if you
+[01:32] like this video don't forget to like And
+[01:34] subscribe thanks for watching and good
+[01:36] luck Trading

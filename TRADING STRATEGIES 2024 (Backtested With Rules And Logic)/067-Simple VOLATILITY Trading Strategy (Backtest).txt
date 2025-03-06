@@ -1,0 +1,27 @@
+標題: Simple VOLATILITY Trading Strategy (Backtest)
+URL: https://www.youtube.com/watch?v=lPhVdBHQfHE&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:05:53
+
+=== 字幕內容 ===
+
+[00:01] in general when volatility picks up
+[00:04] stock prices go down thus volatility
+[00:08] correlates to a bear Market
+[00:10] let's use the 200-day moving average as
+[00:13] a market regime filter when prices are
+[00:16] below the average they have a bear
+[00:18] Market when a bow we have a bull market
+[00:21] pretty simple
+[00:23] what's the performance like if trading
+[00:25] signals happen above and below this
+[00:28] Market regime filter
+[00:30] here we have a strategy separated by
+[00:33] this Market regime and as you can see
+[00:36] the strategy works better during High
+[00:40] volatility than during low volatility
+[00:43] thus you should just continue trading as
+[00:47] if nothing happened and don't focus on
+[00:49] whether to buy or sell
+[00:51] it does it doesn't matter whether you
+[00:53] have a bill or bear Market

@@ -1,0 +1,70 @@
+標題: Bullish Reversal Trading Strategy – (Backtest and Rules)
+URL: https://www.youtube.com/watch?v=IF7-Ne2BV5k&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:04:24
+
+=== 字幕內容 ===
+
+[00:00] which Trader isn't dreaming about
+[00:01] nailing bottoms and tops so-called
+[00:03] reversal days
+[00:05] anecdotal observations on social media
+[00:07] suggests that activity goes up when
+[00:09] something breaks but how realistic is it
+[00:11] to capture reversals
+[00:13] in this video we'll be discussing and
+[00:15] back testing reversal day strategies
+[00:16] both bullish and bearish so stay tuned
+[00:19] we start by making trading rules for a
+[00:21] bullish reversal day today's low is
+[00:24] lower than yesterday's low today's close
+[00:26] is higher than yesterday's close
+[00:28] the five-day RSI must be lower than 35.
+[00:31] the green arrows in the chart show when
+[00:33] we buy and the Red Arrows show the exit
+[00:35] after five days let's find out the
+[00:38] trading statistics for the strategy
+[00:40] we used our platform's Optimizer
+[00:42] function in exit after 1 to 25 trading
+[00:44] days in Gold GLD
+[00:46] we got the following statistics the
+[00:49] First Column tells us the day we exit
+[00:50] for example row 24 indicates that the
+[00:54] highest average gain per trade is when
+[00:56] we exit after 24 trading days which is
+[00:58] 2.02 percent
+[01:00] overall column 4 shows that the profit
+[01:03] factor is pretty good for almost all
+[01:05] exits but it's not many trades
+[01:07] if we exit after one day the equity
+[01:09] curve looks like this let's flip the
+[01:12] rules for a potential bearish reversal
+[01:13] day strategy
+[01:15] today's high is higher than yesterday's
+[01:17] high today's close is lower than
+[01:19] yesterday's close the five-day RSI must
+[01:22] be higher than 65. the green arrows show
+[01:25] when we buy and the Red Arrows indicate
+[01:27] the exit after five days again to find
+[01:30] the trading metrics we use the
+[01:31] platform's optimizer function and got
+[01:33] the following table in Gold GLD the
+[01:36] bearish reversal day shows positive
+[01:38] returns but significantly less than the
+[01:40] bullish reversal day the conclusion
+[01:42] seems to be that the bullish reversal
+[01:44] day holds up well while the bearish
+[01:46] reversal day less so
+[01:48] however we backtested the gold price and
+[01:51] it has a long-term upward bias that
+[01:53] makes it hard to trade from the short
+[01:55] side
+[01:55] this and a lot more are the kind of
+[01:58] strategies that we provide to
+[01:59] subscribers
+[02:00] code courses and a lot more will also be
+[02:03] available on our website please check it
+[02:06] out if you think this is something for
+[02:07] you that's all for today if you like
+[02:10] this video please like And subscribe
+[02:12] good luck Trading

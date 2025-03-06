@@ -1,0 +1,143 @@
+標題: Heiken Ashi Candlestick Trading Strategy: (Backtest + Rules)
+URL: https://www.youtube.com/watch?v=sG6Gsxf0I5o&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:06:21
+
+=== 字幕內容 ===
+
+[00:00] hey there and welcome back to our
+[00:01] Channel where we explore various trading
+[00:03] strategies and techniques in today's
+[00:05] video we'll be answering the question
+[00:07] that's been on the minds of many Traders
+[00:08] what exactly is hikanashi and can you
+[00:11] use it to make profitable trading
+[00:13] strategies please stay to the end and
+[00:15] we'll show you a back-tested and proven
+[00:17] Trend following hikanashi strategy as
+[00:19] you'll find out the main advantage of
+[00:21] hikanashi is its use as a trend
+[00:23] following charting indicator the first
+[00:25] question we answer is what exactly is
+[00:28] haikinashi hikanashi is a charting
+[00:31] technique that was imported to the west
+[00:32] from Japan in the second half of the
+[00:34] 1980s and has gained tremendous
+[00:36] popularity since then hikanashi is a
+[00:39] representation of prices aimed at
+[00:40] highlighting the presence of Trends or
+[00:42] phases of consolidation it's essentially
+[00:45] another version of Japanese candlesticks
+[00:47] but with a different approach to
+[00:48] indicating the trend the name itself
+[00:50] implies that it originates from Japan
+[00:52] and is another version of the famous
+[00:54] Japanese candlesticks used in charting
+[00:56] hiking Ashi means average bar in
+[00:58] Japanese which sums up up the difference
+[01:00] between the two forms of candlesticks
+[01:02] let's go on to show you how to calculate
+[01:04] hikanashi unfortunately the formula is
+[01:06] not straightforward and is a bit
+[01:08] complicated put short hikanashi Smooths
+[01:10] the candlesticks using average open high
+[01:12] low and close values however the open
+[01:15] and close are calculated differently for
+[01:17] hey kanashi it's not the actual Prince
+[01:19] but a mathematical formula is used to
+[01:21] make artificial values this is also its
+[01:24] main advantage to eliminate noise in
+[01:26] prices to find Trends hikanashi is
+[01:28] dependent on the previous hakenashi
+[01:30] values because the open price is the
+[01:33] midpoint of the body of the previous
+[01:34] candle every hikanashi candle starts at
+[01:37] the midpoint of the previous one thus
+[01:40] there are no gaps in hakanashi charts
+[01:42] can you trade directly on hikanashi
+[01:44] charts unfortunately not what looks easy
+[01:46] on the chart is not so easy in real
+[01:48] trading it's important to note that hey
+[01:50] kanashi does not show the real prices so
+[01:53] it is impossible to trade directly on
+[01:54] them and it's a lagging indicator is a
+[01:57] disadvantage the upper part on the
+[01:58] screen shows normal can Candlestick bars
+[02:01] while the lower part shows hiking Ashi
+[02:03] bars as you can see it's pretty
+[02:04] different charting techniques the four
+[02:06] prices that characterize a traditional
+[02:08] Candlestick are the actual prices while
+[02:10] haykin Ashi candlesticks are not real
+[02:12] prices and can deviate a lot from
+[02:15] traditional Candlestick as indicated on
+[02:17] the screen this is the haken ashi's main
+[02:19] disadvantage the main difference between
+[02:21] classical candlesticks and hakanashi is
+[02:23] that while candlesticks show The Daily
+[02:25] price action of the Open high low and
+[02:27] close hiking Ashi aims to indicate the
+[02:30] trend by smoothing the price movements
+[02:32] it is used as a supplement for other
+[02:34] indicators and can help eliminate noise
+[02:36] in the prices to bring out the
+[02:38] directional component or the
+[02:39] consolidation phases some viewers might
+[02:42] wonder is hiking Ashi better than
+[02:44] candlesticks which is most accurate that
+[02:47] is of course impossible to answer it
+[02:48] depends how you use them we have
+[02:50] Quantified all Candlestick patterns that
+[02:53] exist which you can purchase in our
+[02:54] online shop but we also show you a very
+[02:57] good hake and Ashi strategy in this
+[02:59] video thus both tools are useful we
+[03:01] can't say that any technique is better
+[03:03] than the other which time frame is best
+[03:05] for hiking Ashi the best time frame for
+[03:08] hakanashi is most likely a long time
+[03:10] frame for example monthly bars we use a
+[03:12] monthly time frame in this video we have
+[03:14] not been successful in back testing
+[03:16] hikanashi for day trading or swing
+[03:18] trading for short time frames We Believe
+[03:20] traditional candlesticks are better now
+[03:23] that we have a basic understanding of
+[03:24] haikanashi let's explore a specific and
+[03:26] profitable hikanashi strategy we will
+[03:29] apply the following trading rules we buy
+[03:31] when the close of hakanashi crosses
+[03:33] above haikanashi open and we sell when
+[03:36] the opposite happens it's a simple
+[03:37] strategy that we backtest on the S P 500
+[03:40] Index from 1960 until today on a monthly
+[03:43] time frame the resulting equity line
+[03:45] shows that this strategy is a trend
+[03:47] following strategy that works best on
+[03:49] long time frames the performance metrics
+[03:52] are good and the low win ratio is
+[03:54] typical of a trend following trading
+[03:56] system the annual return is 4.77 percent
+[04:00] while it's lower than Buy and Hold which
+[04:02] is seven percent the main advantage of
+[04:04] the strategy is that Max drawdown is
+[04:07] much lower at 30 percent compared to buy
+[04:09] and holds 53 percent in conclusion
+[04:11] hikanashi is a useful charting technique
+[04:13] that can help eliminate noise in the
+[04:15] prices and bring out the directional
+[04:16] component or the consolidation phases
+[04:18] while it's not a direct representation
+[04:21] of real prices it can still be used to
+[04:23] extract profitable trading strategies
+[04:24] however we recommend to back test your
+[04:27] trading idea before you commit real
+[04:29] money we hope this video has helped you
+[04:31] gain a better understanding of hakanashi
+[04:33] and how it can be used in algorithmic
+[04:35] trading thanks for watching and we'll
+[04:37] see you in the next video which is about
+[04:38] candlesticks and please don't forget to
+[04:40] like And subscribe if you like this
+[04:42] video this helps us make more free
+[04:44] videos like this one

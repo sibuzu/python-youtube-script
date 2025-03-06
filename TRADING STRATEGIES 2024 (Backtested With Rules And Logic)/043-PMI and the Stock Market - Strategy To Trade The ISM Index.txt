@@ -1,0 +1,47 @@
+標題: PMI and the Stock Market - Strategy To Trade The ISM Index
+URL: https://www.youtube.com/watch?v=RU8Ic_YUClc&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:04:57
+
+=== 字幕內容 ===
+
+[00:00] in this video we back test how low and
+[00:02] high ISM Manufacturing Index PMI
+[00:05] readings influence the stock market
+[00:07] stay until the end and I'll give you my
+[00:09] personal opinion about this test
+[00:12] the ISM Manufacturing Index or PMI is an
+[00:15] important indicator of the health of the
+[00:17] U.S manufacturing sector the index is
+[00:20] based on surveys and is published once a
+[00:22] month
+[00:22] a reading above 50 indicates that the
+[00:25] manufacturing sector is expanding while
+[00:27] a reading below 50 indicates that it's
+[00:29] Contracting we back test the following
+[00:32] when the readings are above 50 we buy
+[00:34] the open of the month S P 500 we sell at
+[00:38] the open the next month thus holding for
+[00:40] one month the equity curve looks like
+[00:42] this the strategy is invested 72 percent
+[00:45] of the time and the annual return is 7.3
+[00:48] percent compared to 8.5 percent for s p
+[00:50] 500. thus most of the gains have come
+[00:53] when readings are above 50 but it has
+[00:56] also reduced drawdowns let's back test
+[00:58] to see what happens if we hold for a
+[01:00] longer time period the table below shows
+[01:02] when we have readings above 50 and we
+[01:04] hold S P 500 for n months see column 1.
+[01:08] for example if we hold for 12 months the
+[01:11] average gain per trade is 10.99 and we
+[01:14] are invested 86 of the time see last
+[01:17] column called exposure
+[01:18] this is significantly better than any
+[01:20] random 12-month period so what can we
+[01:24] conclude from the back test
+[01:25] the returns when ism is above 50 are
+[01:28] significantly better than when it's
+[01:29] below 50 and thus it pays off to be
+[01:32] invested in stocks when the economy is
+[01:34] expanding

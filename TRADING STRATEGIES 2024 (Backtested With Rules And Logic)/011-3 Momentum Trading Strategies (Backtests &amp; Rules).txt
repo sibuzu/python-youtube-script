@@ -1,0 +1,162 @@
+標題: 3 Momentum Trading Strategies (Backtests &amp; Rules)
+URL: https://www.youtube.com/watch?v=6NWcKpupjJo&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:03:43
+
+=== 字幕內容 ===
+
+[00:00] today we show you three momentum trading
+[00:02] strategies complete with trading rules
+[00:04] and back tests without further Ado we go
+[00:07] straight at it and show you the first
+[00:09] strategy
+[00:11] today's first strategy has the following
+[00:13] trading rules
+[00:14] when the close crosses above the 100-day
+[00:17] high of the close we go long at the
+[00:19] close
+[00:20] when the close crosses below the lowest
+[00:22] close in the last hundred days we sell
+[00:24] the clothes
+[00:26] we backtest the strategy on S P 500 from
+[00:29] 1960 until today
+[00:31] however before we show you the results
+[00:33] please be advised that nothing in this
+[00:36] video is investment advice
+[00:38] okay let's get back to our 100 day
+[00:40] momentum strategy which shows decent
+[00:42] returns
+[00:44] our starting capital of 100 000 grows to
+[00:46] 5.5 million after 60 years which is 6.5
+[00:50] percent annually please keep in mind
+[00:53] that the result does not include
+[00:54] dividends and with dividends the result
+[00:56] is probably around 8.5 percent
+[01:00] there are only 41 trades but the
+[01:02] strategy is almost kept up with Buy and
+[01:04] Hold despite spending just 69 percent of
+[01:07] the time in the market thus resulting in
+[01:09] solid risk-adjusted returns
+[01:11] one benefit of spending less time in the
+[01:14] market is risk and drawdown which is the
+[01:16] drop from a peak in your equity
+[01:18] the momentum strategy keeps you out of
+[01:21] major bear markets and Max drawdown is
+[01:23] only half of buy and holds as you can
+[01:26] see the risk adjusted return crushes Buy
+[01:29] and Hold
+[01:30] let's go to our second momentum strategy
+[01:32] for the day
+[01:34] the second momentum strategy is a bit
+[01:36] similar to the first one but is slightly
+[01:38] changed and best used for assets that
+[01:40] typically experience huge price spikes
+[01:43] from time to time
+[01:44] Bitcoin is an example of such an asset
+[01:47] we buy when Bitcoin sets a new 25-day
+[01:50] high of the close and we sell when the
+[01:53] close is lower
+[01:55] the starting capital of a hundred
+[01:57] thousand grows to 3.6 million of course
+[01:59] part of this is explained by the
+[02:01] phenomenal rise of the Bitcoin price
+[02:03] however the strategy is only invested
+[02:05] 13.9 percent of the time and the
+[02:08] performance is still not far behind Buy
+[02:10] and Hold
+[02:11] this results in solid risk-adjusted
+[02:14] returns and low drawdowns
+[02:16] let's go to our third and last strategy
+[02:19] for today this is a more complex
+[02:21] strategy because it involves four
+[02:23] different assets it's a sector rotation
+[02:25] momentum system that uses monthly bars
+[02:28] and momentum to determine which asset to
+[02:30] own the next month
+[02:32] we use four different assets and ETF to
+[02:35] perform the back test spy for S P 500
+[02:38] TLT for long-term treasuries EFA for
+[02:42] developed stock markets including USA
+[02:45] and eem for emerging markets
+[02:47] we consider this the most important
+[02:49] asset for the stock market and we throw
+[02:52] in treasury bonds to add a certain
+[02:53] degree of Safe Haven when markets are
+[02:55] tough the trading rules are very simple
+[02:58] at the end of the month we rank all four
+[03:00] assets based on performance over the
+[03:02] prior three months and we buy the one
+[03:04] with the best performance from then on
+[03:06] rinse and repeat every month
+[03:09] simple rotation momentum strategy is
+[03:11] performed well but has slowed down over
+[03:13] the last six years one hundred thousand
+[03:16] invested in 2002 is grown to almost 1.4
+[03:19] million which equals an annual return of
+[03:21] 13.1 percent
+[03:23] that's impressive and the drawdown is
+[03:26] also most likely acceptable for most
+[03:28] investors at 34 percent also the returns
+[03:31] are not very correlated to the stock
+[03:33] market with the exception of 2022 when
+[03:35] both bonds and stocks collapsed
+[03:38] we've now shown you three different
+[03:40] momentum strategies
+[03:42] probably understood by now that a
+[03:44] momentum strategy is different than a
+[03:46] mean reversion strategy our next video
+[03:48] coming up because you buy strength not
+[03:50] weakness our examples show that momentum
+[03:54] works and this is also proven by plenty
+[03:56] academic research let's discuss settings
+[03:59] rules and time frames for momentum
+[04:01] strategies what are the best settings
+[04:03] for a momentum strategy research shows
+[04:06] that momentum works best by looking at
+[04:08] the performance of the last 3 to 12
+[04:09] months a continuation of the momentum
+[04:12] tends to continue 3 to 12 months ahead
+[04:15] for all other periods momentum works
+[04:17] less well
+[04:19] which markets work best with momentum
+[04:21] strategies momentum is proven to work
+[04:23] for most asset classes even the stock
+[04:25] market however there are never any
+[04:28] strict rules in the market you need to
+[04:30] back test yourself and find out what's
+[04:32] worked or not in the past and use that
+[04:34] as a guideline what is the best time
+[04:36] frame momentum strategies again it
+[04:38] varies but for stocks momentum works
+[04:41] best between 3 to 12 months but for
+[04:43] other assets it might work on different
+[04:45] time frames for example daily or weekly
+[04:48] bars it might even work for day trading
+[04:50] strategies at certain assets but day
+[04:53] trading is a lot more difficult than the
+[04:55] other time frames in our opinion
+[04:57] how do you succeed with momentum Trading
+[05:00] the best momentum strategy is one that
+[05:02] is back tested and traded for many
+[05:04] months in a demo account also you can
+[05:06] add indicators and combined momentum
+[05:08] with other indicators and ideas one
+[05:10] example is using momentum with a monthly
+[05:12] time frame but using daily bars to enter
+[05:15] at a pullback
+[05:16] the most important to succeed is that
+[05:18] you backtest for example by using a
+[05:21] standalone trading platform or by coding
+[05:23] in Python
+[05:25] that's all for today about momentum
+[05:27] trading but please check our website if
+[05:29] you're intrigued we have hundreds of
+[05:31] trading strategies to be inspired by
+[05:34] our next video is about mean reversion
+[05:36] the opposite of momentum we include
+[05:39] three free strategies
+[05:41] and please like subscribe and comment if
+[05:43] you like our material or perhaps have a
+[05:45] momentum strategy of your own to share
+[05:50] thank you
+[05:54] [Music]

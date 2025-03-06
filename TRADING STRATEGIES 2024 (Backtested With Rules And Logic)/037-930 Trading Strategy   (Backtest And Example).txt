@@ -1,0 +1,48 @@
+標題: 9/30 Trading Strategy |  (Backtest And Example)
+URL: https://www.youtube.com/watch?v=NRUyND6zzF4&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:04:43
+
+=== 字幕內容 ===
+
+[00:01] the 9 30 training strategy is a trend
+[00:04] following strategy that is based on two
+[00:06] moving averages a nine period
+[00:09] exponential moving average and a 30
+[00:11] period weighted moving average the nine
+[00:14] period EMA shows the short-term Trend
+[00:17] while the 30 period WMA shows the longer
+[00:21] term trend
+[00:22] this is an example of how the two
+[00:25] averages look like on the chart
+[00:28] let's practice the strategy on S P 500
+[00:31] the trading rules of the first back test
+[00:34] are like this when the short Nine Dead
+[00:37] EMA crosses above the slow 30-day WMA we
+[00:41] buy at the close
+[00:43] when the short nine-day EMA crosses
+[00:46] below the slow 30-day WMA we sell at the
+[00:50] close
+[00:50] the equity curve looks like this
+[00:54] the average gain is 0.85 percent per
+[00:58] trade but it fails to be at Buy and Hold
+[01:01] 4.6 versus 9.2 percent
+[01:04] let's make a second back test with 100
+[01:07] quantifiable trading rules
+[01:10] the bullish trend is defined when the
+[01:12] nine-day EMA is above the 30-day WMA
+[01:16] with the latter sloping upward
+[01:19] if this is the case we buy at a close
+[01:21] and hold until the close of the next
+[01:23] trading Day we sell when one of the two
+[01:26] parameters above is false
+[01:29] the result is more or less in line with
+[01:31] back test number one four point five
+[01:34] percent annual Returns versus 9.2
+[01:38] percent for Buy and Hold
+[01:40] the time spent in the market is only 60
+[01:42] so we might argue the risk adjusted
+[01:45] return is not so bad
+[01:47] anyway you can read more about the
+[01:50] strategy on the link provided below or
+[01:52] visit quantifiedstrategies.com

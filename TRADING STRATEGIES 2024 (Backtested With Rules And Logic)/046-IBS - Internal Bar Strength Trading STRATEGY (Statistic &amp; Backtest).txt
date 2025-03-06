@@ -1,0 +1,168 @@
+標題: IBS - Internal Bar Strength Trading STRATEGY (Statistic &amp; Backtest)
+URL: https://www.youtube.com/watch?v=URPUON-P3zY&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:05:04
+
+=== 字幕內容 ===
+
+[00:00] get ready because today we're about to
+[00:01] unveil one of the most powerful
+[00:03] indicators for the stock market that
+[00:05] you've probably never heard of before
+[00:06] it's called the internal bar strength
+[00:09] indicator or IBS for short and we're
+[00:11] going to show you exactly why it's one
+[00:13] of the best tools you can use for your
+[00:15] Stock Market trading in this video we're
+[00:18] going to take you through not one not
+[00:20] two but three different strategies that
+[00:22] we've back tested and proved on a
+[00:24] variety of ETFs all using the incredible
+[00:27] IBS indicator and the best part you can
+[00:30] easily start using these strategies
+[00:31] yourself to turn a profit in the stock
+[00:33] market so sit back relax and get ready
+[00:36] to learn everything you need to know
+[00:37] about the internal bar strength
+[00:39] indicator and how it can improve your
+[00:40] trading game this is one video you won't
+[00:43] want to miss first let's start by
+[00:45] explaining what the IBS indicator is
+[00:47] about the formula reads like this
+[00:49] today's close minus the low divided by
+[00:52] today's high minus the low IBS is
+[00:54] calculated daily and fluctuates from
+[00:56] zero to one a low value means the market
+[00:59] closed at the the bottom of its daily
+[01:01] range while a high value indicates it
+[01:03] closed strongly let's illustrate how to
+[01:05] calculate IBS with an example the
+[01:07] following Candlestick had a high of
+[01:09] 74.66 a low of 7264 and closed at 72.75
+[01:13] thus the IBS that day would be
+[01:15] calculated like this 72 75 72 64 divided
+[01:20] by 7466 7264 8 0.054 this was a very bad
+[01:26] day for the stock where it opened down
+[01:28] and continued falling throughout the day
+[01:30] why does the IBS work the stock market
+[01:32] has plenty of opportunities with
+[01:34] long-term upward Trends driven by
+[01:36] inflation and productivity gains and
+[01:38] today we're going to show you how you
+[01:40] can capitalize on those Trends using the
+[01:42] IBS indicator the IBS is all about
+[01:45] taking advantage of short-term market
+[01:46] pullbacks and panics getting in and out
+[01:49] of the market quickly to make big gains
+[01:51] it's all about buying on weakness and
+[01:53] selling on strength using the
+[01:54] time-tested principle of mean reversion
+[01:57] to your advantage when the internal bar
+[01:59] strength value is low that's the signal
+[02:01] that the market is bullish in the short
+[02:03] term and when it's high that's a sign of
+[02:05] bearishness by following these signals
+[02:07] and making trades based on specific
+[02:09] trading rules you can take advantage of
+[02:11] the Market's natural mean reverting
+[02:13] Tendencies and make profits so are you
+[02:16] ready to see the IBS in action we're
+[02:18] going to take you through a step-by-step
+[02:20] strategy that will show you exactly how
+[02:22] to use the indicator to make profitable
+[02:24] trades get ready to take your stock
+[02:26] market game to the next level let's make
+[02:29] or first IBS strategy we buy the clothes
+[02:31] when the IBS is below 0.1 and we sell
+[02:34] when the IBS is above 0.9 we back test
+[02:37] our simple trading rules on the ETF with
+[02:40] the ticker code QQQ but before we go to
+[02:42] the back test let's show a few trade
+[02:44] examples the Green Arrow signal days
+[02:46] when we buy and the red arrow signal
+[02:48] days when we exit our position as you
+[02:50] can see the strategy trades frequently
+[02:52] let's return to our back test and find
+[02:54] out how our trading rules performed on
+[02:56] QQQ we back tested the strategy and Amy
+[02:59] broker and our starting capital of 100
+[03:01] 000 in year two thousand grows to almost
+[03:03] 1.5 million in 2023. this is an annual
+[03:07] return of over 12 percent significantly
+[03:10] better than Buy and Hold despite being
+[03:12] invested just 38 percent of the time the
+[03:14] average gain per trade is 0.79 and we
+[03:18] are invested on average seven trading
+[03:20] days per trade Max drawdown is 21 and
+[03:23] that is significantly better than buy
+[03:25] and holds drawdown of over 70 percent
+[03:27] let's make another strategy and show you
+[03:29] a second variation of the IBS indicator
+[03:31] we make a two-day average of the IBS
+[03:33] indicator that means we add the values
+[03:36] of the last two days and divide by two
+[03:37] once again the trading rules are as
+[03:39] simple as it gets we buy when the
+[03:41] two-day average is below 0.25 and we
+[03:44] sell when the two-day average ends above
+[03:45] 075. we back test our favorite ETF xlp
+[03:49] which tracks Consumer Staples like Pepsi
+[03:52] Cola Costco and Walmart before we look
+[03:54] at the performance of the two-day IBS
+[03:56] average let's look at some trade
+[03:57] examples the upper pane is xlp in the
+[04:00] lower pane shows the two-day average of
+[04:02] IBS the Green Arrow shows when we buy in
+[04:04] the Red Arrows when we sell as you can
+[04:06] see the average in the lower pane is low
+[04:08] when we buy and high when we sell how
+[04:10] did the strategy perform let's look at
+[04:12] how a 100 000 investment would have
+[04:14] compounded from 2000 until today the
+[04:17] equity curve Rises steadily and the
+[04:19] equity would have grown to 413 000 by
+[04:22] today the 131 trades compounded at 6.3
+[04:25] percent annually but you are invested
+[04:27] just 33 percent of the time thus
+[04:30] avoiding the worst drawdowns the two
+[04:32] back tests shown so far in the video
+[04:34] have proven how efficient the IBS
+[04:36] indicator is however it's most useful as
+[04:38] a complementary indicator let's show you
+[04:40] how let's combine the three-day RSI with
+[04:43] the IBS indicator this is our third back
+[04:45] test of the day we make the following
+[04:47] trading rules and back tested on s p
+[04:49] 500. we buy when the three-day RSI is
+[04:52] below 30 and the IBS is below 0.2 we
+[04:55] sell when the close is higher than
+[04:57] yesterday's high or the IBS is greater
+[04:59] better than 0.9 let's show you some
+[05:02] trade examples the green arrows shown in
+[05:04] the chart is when the three-day RSI is
+[05:06] below 30 and when the daily IBS is below
+[05:09] 20. as usual the red arrows are when we
+[05:11] exit the nine trades shown on the
+[05:13] previous slide show seven profitable
+[05:15] trades and two losing trades you can't
+[05:17] make money on each trade but overall the
+[05:19] strategy has a high positive expectancy
+[05:21] let's show you how the strategy
+[05:22] performed over the last 30 years on spy
+[05:25] as you can see the equity curve has a
+[05:27] steady upward slope with just minor
+[05:29] drawdowns one hundred thousand invested
+[05:31] in 1993 has grown to 1.5 million today
+[05:34] that is 9.6 annually despite being
+[05:38] invested just 18 percent of the time Max
+[05:40] drawdown is only 23 percent compared to
+[05:43] s p 500's 55 percent in 2008. as a
+[05:46] matter of fact the strategy made a 47
+[05:48] gain in 2008 since 1993 the strategy had
+[05:52] only two losing years 2001 and 2018. for
+[05:56] such simple trading rules the results
+[05:58] are pretty spectacular that's all for
+[05:59] today we hoped you like it and learned a
+[06:02] lot and are feeling excited but before
+[06:03] you go please remember to subscribe and
+[06:06] like and good luck Trading

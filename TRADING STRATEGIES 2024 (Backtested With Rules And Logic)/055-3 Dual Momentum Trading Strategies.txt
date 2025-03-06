@@ -1,0 +1,237 @@
+標題: 3 Dual Momentum Trading Strategies
+URL: https://www.youtube.com/watch?v=_QN7zq1-elU&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:05:25
+
+=== 字幕內容 ===
+
+[00:00] welcome to Quantified strategies and in
+[00:03] this video we show you three dual
+[00:05] momentum trading strategies complete
+[00:07] with trading rules settings and
+[00:08] historical performance
+[00:10] show you what a dual momentum trading
+[00:12] strategy is we look at historical
+[00:14] performance and show you how you can
+[00:16] implement it yourself
+[00:18] we show you dual momentum between stocks
+[00:21] and bonds dual momentum between stocks
+[00:23] and gold and the famous dual momentum
+[00:26] strategy by Gary antonacci the last
+[00:29] strategy is the best one so we recommend
+[00:30] staying until the end
+[00:32] by the way we're always working hard to
+[00:35] create new and exciting content so your
+[00:37] likes and subscriptions really help us
+[00:39] out thanks
+[00:41] let's show you the trading rules of the
+[00:44] first of the three dual momentum trading
+[00:46] strategies it trades S P 500 and
+[00:48] long-term treasury bonds we use the ETFs
+[00:51] with the ticker codes spy for S P 500
+[00:54] and TLT for treasury bonds
+[00:57] the trading rules and settings are very
+[00:59] simple at the end of every month buy the
+[01:02] ETF that has performed the best over the
+[01:04] last three months percentage-wise
+[01:06] that's it rinse and repeat every month
+[01:09] momentum has historically worked best
+[01:11] between 3 and 12 months hence the
+[01:13] setting of three months this is a
+[01:15] momentum strategy but we can also call
+[01:17] it a sector rotation strategy for
+[01:20] example if today's the end of June you
+[01:22] buy the asset that's performed the best
+[01:23] since the close of March
+[01:25] the equity curve shows that 100
+[01:28] 000 invested in 2003 is worth nine
+[01:30] hundred and twenty thousand today but
+[01:32] performance has been weak after 2020.
+[01:35] the annual return of 11.5 percent is
+[01:38] high how much better than buy and hold
+[01:40] each of the two ETFs and Max drawdown is
+[01:43] also significantly lower at 30 percent
+[01:45] the worst drawdown happened in 2022 when
+[01:48] both stocks and bonds suffered a major
+[01:50] bear Market something that's not
+[01:52] happened often in the past before that
+[01:54] drawdowns were moderate and short in
+[01:57] duration
+[01:58] there are only two losing years 2015 and
+[02:01] 2022 but the majority of the years had
+[02:03] double-digit growth
+[02:05] let's go to the second dual momentum
+[02:07] strategy this one trades S P 500 and
+[02:10] gold and we use the ETFs with e-ticker
+[02:13] codes spy and GLD
+[02:16] this dual momentum trading strategy is
+[02:19] similar to the first one except that we
+[02:21] swap TLT for GLD we use a three-month
+[02:24] look back period to measure momentum and
+[02:26] we go long the asset with the best
+[02:28] percentage performance over the last
+[02:29] three months and we rinse and repeat
+[02:31] going forward
+[02:33] the strategy is performed well 100 000
+[02:36] invested in 2005 is worth nine hundred
+[02:38] twenty thousand today which is an annual
+[02:40] return of 12.8 percent
+[02:43] you're invested on average five months
+[02:46] in an ETF and the max drawdown is 34
+[02:48] which is much better than spy's 55
+[02:51] drawdown
+[02:53] however if we zoom out and look at the
+[02:55] longer time Horizon the strategy is not
+[02:58] performed so well
+[02:59] it was not until 2005 the strategy
+[03:02] started working really well but part of
+[03:04] this is explained by the very poor
+[03:06] performance of gold for almost two
+[03:07] decades after 1980.
+[03:10] let's show you the third and last dual
+[03:12] momentum trading strategy Gary Anthony's
+[03:15] dual momentum Gary Anthony published the
+[03:18] Dual momentum strategy in his book dual
+[03:21] momentum investing which he released in
+[03:23] 2015 and this is a trend following
+[03:26] strategy
+[03:27] the trading rules are a bit more complex
+[03:29] than the first two it trades three
+[03:31] different assets U.S stocks foreign
+[03:33] stocks excluding U.S stocks and bonds
+[03:36] for our back test we use the following
+[03:39] ETFs spy EFA and AGG
+[03:43] let's look at the trading rules at the
+[03:46] end of every month rank all three ETFs
+[03:48] based on the performance over the last
+[03:50] 12 months if bonds performed better than
+[03:53] spy then you buy bonds and hold it for
+[03:55] the next month if spy perform better
+[03:58] than bonds then you buy the best
+[04:00] performing ETF of spy and EFA
+[04:03] then you rinse and repeat at the end of
+[04:05] every month
+[04:06] Gary antonacci backtested the strategy
+[04:09] back to 1950 and it's outperformed
+[04:11] massively with substantially lower
+[04:13] drawdowns the table shows that Gary
+[04:16] Anthony's dual momentum strategy
+[04:18] performed four percentage points better
+[04:20] annually that's a massive outperformance
+[04:23] can you expect this to continue or is
+[04:26] this a curve fitted strategy
+[04:28] let's find out how it's performed after
+[04:30] the strategy was published we coded the
+[04:32] trading rules into our trading platform
+[04:34] and back tested it 100 000 invested in
+[04:37] 2004 is worth 328 000 today which is a
+[04:41] rather lackluster 6.1 percent per year
+[04:44] something which is significantly below
+[04:46] the long-term average of the strategy
+[04:48] one of the reasons is the huge drawdown
+[04:51] in 2022 of almost 30 percent the
+[04:54] drawdown was moderate during the
+[04:56] financial crisis in 2008 there was
+[04:58] nowhere to hide in 2022 when both stocks
+[05:01] and bonds crashed this happens often
+[05:03] when you're back testing the worst
+[05:05] drawdown is yet to come
+[05:07] we've shown you three dual momentum
+[05:09] trading strategies but none in this
+[05:11] video is investment advice always make
+[05:13] sure you do your own research that fits
+[05:15] your investment goals
+[05:17] we'll now answer a few frequently asked
+[05:19] questions about dual momentum trading
+[05:21] strategies please also have a look at
+[05:23] our next video coming up about three
+[05:25] momentum trading strategies
+[05:28] what's the main advantage of dual
+[05:29] momentum strategies
+[05:31] momentum is an anomaly that's existed
+[05:33] for as long as we have stock market data
+[05:36] of course that's not guaranteed to
+[05:38] continue into the future but we believe
+[05:40] one of the explanations for the anomaly
+[05:42] is that we tend to chase winners and
+[05:44] human nature is slow to change
+[05:46] what's the best time frame for dual
+[05:48] momentum trading strategies
+[05:51] research suggests that look back periods
+[05:53] between 1 and 12 months have worked best
+[05:55] historically as long as the look back
+[05:57] period is within that range and the
+[05:59] holding period is within that range
+[06:01] you're likely to find something that
+[06:02] works
+[06:03] for example if a stock or asset is
+[06:06] outperformed over the last six months
+[06:07] you can backtest its performance for the
+[06:10] next one to six months thus momentum
+[06:12] investing has proved to work best in the
+[06:14] past on monthly bars
+[06:16] what are the different types of momentum
+[06:19] trading strategies
+[06:20] there are two types of momentum trading
+[06:22] relative momentum and absolute momentum
+[06:26] is a dual momentum trading strategy easy
+[06:28] to implement we would argue that this is
+[06:31] one of the easiest types of strategies
+[06:33] to implement all you need is free data
+[06:36] to back test the strategy on and then go
+[06:38] on to check quotes once a month or less
+[06:40] when you trade it live
+[06:42] however easy to implement doesn't mean
+[06:44] easy money
+[06:46] there's no easy money in the markets
+[06:49] do you need to time the market with a
+[06:51] dual momentum trading strategy no that's
+[06:54] one of the advantages with this type of
+[06:56] trading and investing as Warren Buffett
+[06:58] known as the Oracle of Omaha once wisely
+[07:00] stated trying to time the mark it is the
+[07:03] number one mistake to avoid
+[07:05] spending time and energy predicting the
+[07:07] optimal moments to buy or sell in the
+[07:09] market is exceedingly challenging and
+[07:11] mostly futile often resulting in missed
+[07:13] opportunities or premature actions as
+[07:16] Peter Lynch once said far more money has
+[07:18] been lost by investors trying to
+[07:20] anticipate Corrections then lost in the
+[07:23] corrections themselves
+[07:24] however dual momentum offers a potential
+[07:27] Solution by providing a method to
+[07:29] identify and capitalize on trends
+[07:32] is dual momentum the same as sector
+[07:34] rotation
+[07:36] in practice yes but a sector rotation
+[07:39] trading strategy might also be based not
+[07:41] only on momentum but also other types
+[07:43] for example mean reversion
+[07:46] are there any disadvantages with dual
+[07:48] momentum trading strategies
+[07:56] hopefully have a profit Prof and thus
+[07:57] might be liable to capital gains taxes
+[08:01] you better have a tax deferred account
+[08:03] another disadvantage might be curve
+[08:05] fitting a strategy might work
+[08:07] exceptionally well with a three-month
+[08:09] look back period but perform a lot worse
+[08:11] with a one or six month period
+[08:14] would you trust a setting of three
+[08:16] months if this is the case
+[08:18] we appreciate you taking time to watch
+[08:20] our video if you found it helpful please
+[08:23] give it a like And subscribe to the
+[08:24] channel for more content like this
+[08:27] if you have any questions or feedback
+[08:28] please leave a comment below
+[08:31] that was all for today and we hope you
+[08:33] liked it and please stay tuned for the
+[08:35] next video coming up about three
+[08:37] momentum trading strategies we also
+[08:40] remind you that you'll find hundreds of
+[08:41] trading strategies on our website
+[08:44] foreign
+[08:48] [Music]

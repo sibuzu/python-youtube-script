@@ -1,0 +1,56 @@
+標題: Stairs Trading Strategy (A Trend &amp; Pullback Combo) | +Backtest
+URL: https://www.youtube.com/watch?v=jk2RxsVKA6Y&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:05:46
+
+=== 字幕內容 ===
+
+[00:00] are you tired of complicated trading
+[00:02] strategies that only lead to confusion
+[00:04] and losses well today we might have a
+[00:06] solution for you the stairs trading
+[00:08] strategy this strategy is based on the
+[00:10] simple idea that prices tend to move in
+[00:12] a stair-like fashion with each step
+[00:14] representing a key level of support or
+[00:16] resistance but how can we quantify this
+[00:18] and turn it into a profitable trading
+[00:20] system let's take a closer look at the
+[00:22] trading rules for the stairs trading
+[00:24] strategy first the close must be above
+[00:27] the 200-day moving average second the
+[00:29] close must be below the 25-day moving
+[00:32] average if both of these conditions are
+[00:34] true then we enter at the close finally
+[00:36] when the close crosses above the 25-day
+[00:39] moving average we exit at the close now
+[00:41] I know what you're thinking how can we
+[00:42] trust such a simple trading strategy
+[00:44] where's the evidence that it actually
+[00:46] works well let me show you this Equity
+[00:49] curve represents the performance of the
+[00:50] stairs trading strategy on the S P 500
+[00:53] as you can see the annual return is 6.1
+[00:56] percent while Buy and Hold returns 7.7
+[00:59] percent annual really our strategy has
+[01:01] substantially lower drawdowns in fact
+[01:03] drawdowns are almost consistently lower
+[01:05] than 20 percent because the strategy is
+[01:08] invested only 23 percent of the time now
+[01:11] I'm sure you're wondering how you can
+[01:12] implement this strategy for yourself the
+[01:14] good news is that the code for the
+[01:16] stairs trading strategy along with
+[01:18] hundreds of other free trading
+[01:19] strategies can be found on our website
+[01:21] but wait there's more we have another
+[01:23] great video that's relevant to this
+[01:25] strategy with fantastic results and
+[01:27] statistics so be sure to check that out
+[01:29] as well before I go I want to ask you to
+[01:31] like And subscribe to our Channel if you
+[01:33] enjoyed this video your support means
+[01:35] the world to us and it helps us bring
+[01:37] you more great trading content thanks
+[01:39] for watching and we'll see you in the
+[01:40] next video

@@ -1,0 +1,71 @@
+標題: VOLATILITY Trading Strategy - ATR Bands (Backtest)
+URL: https://www.youtube.com/watch?v=LXVwz2KE6O8&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:04:26
+
+=== 字幕內容 ===
+
+[00:00] today we'll discuss a strategy we made
+[00:02] almost 10 years ago but is still firing
+[00:04] on all cylinders it's a volatility
+[00:05] strategy and works on a wide range of
+[00:08] ETFs and Futures contracts in this video
+[00:10] we'll show you how it performs and which
+[00:12] indexes it works best on the strategy
+[00:15] works well on most indexes for stocks
+[00:17] but historically it has worked the best
+[00:18] on NASDAQ 100 and hence let's start by
+[00:20] looking at how the strategy has
+[00:22] performed on NASDAQ 100.
+[00:24] curve has a steady upward slope without
+[00:26] any major drawbacks the drawdowns have
+[00:29] been moderate
+[00:30] and Max drawdown happened during the
+[00:32] financial crisis in 2008 where it was
+[00:34] down 18 at the most avoiding drawdowns
+[00:37] is important to reduce the likelihood of
+[00:39] selling into a panic the strategy
+[00:41] doesn't trade much an average of eight
+[00:43] trades per year but it has still managed
+[00:45] to beat Buy and Hold handily with 13
+[00:47] annual returns considering a trade lasts
+[00:50] on average less than five days and it's
+[00:52] invested only 11 percent of the time we
+[00:54] might even argue the risk-adjusted
+[00:56] return is significantly higher at almost
+[00:58] 120 percent which is the annual return
+[01:01] divided by the time spent in the market
+[01:03] all years are positive except a small
+[01:05] loss in 2005. a bear Market doesn't
+[01:08] matter either as a matter of fact during
+[01:10] bear markets the strategy performs just
+[01:12] as well as in a bull market as proof
+[01:14] look at the years 2000 2001 2002 2008
+[01:18] and 2022. all years which were bear
+[01:21] markets witnessed double-digit gains
+[01:23] except 2022 does the strategy work on
+[01:26] other indexes yes it does let's show you
+[01:28] a few examples the first example is S P
+[01:31] 500 the average gain is not as good as
+[01:34] for Nasdaq 100 but it's still good with
+[01:36] a one percent gain per trade let's go
+[01:38] with our favorite trading instrument xlp
+[01:40] the ETF that tracks Consumer Staples
+[01:43] again the equity curve Rises linearly
+[01:45] and has only small and short setbacks
+[01:47] please keep in mind that slippage and
+[01:49] commissions are not included in any of
+[01:51] our back tests but they are minimal with
+[01:53] so few trades in our videos we provide a
+[01:56] lot of free strategies however today's
+[01:58] strategy we only reveal for a moderate
+[02:00] fee we trade the strategy ourselves and
+[02:02] thus believe it's worth paying for
+[02:04] however we can inform you that the
+[02:05] strategy has three trading rules for
+[02:07] when to buy one volatility rule One
+[02:10] Price action Rule and one Trend filter
+[02:12] rule we use one trading rule for when to
+[02:14] sell but luckily for you we have
+[02:16] hundreds of free strategies so please
+[02:18] make sure you check out our website

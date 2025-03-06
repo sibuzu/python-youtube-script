@@ -1,0 +1,48 @@
+標題: Overnight Trading Strategy (+Backtest) | NIGHT TRADING
+URL: https://www.youtube.com/watch?v=-ML4YWkC6to&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:03:20
+
+=== 字幕內容 ===
+
+[00:00] overnight trading strategy in spy S P
+[00:03] 500 in this video we show you how you
+[00:06] can make money overnight by trading SPY
+[00:08] the ETF that tracks S P 500 you might be
+[00:12] wondering what an overnight trading
+[00:13] strategy is an overnight trading
+[00:15] strategy is invested from the close
+[00:17] until the open or close the next trading
+[00:19] day you are Max invested 24 hours Let's
+[00:23] show you how by going straight to the
+[00:24] trading rules if today is the third
+[00:27] lower close in a row you buy the close
+[00:29] you sell at the open the next day since
+[00:32] 1993 until today the strategy made 643
+[00:35] trades with an average gain of 0.13 per
+[00:38] trade the win rate is 65 percent and Max
+[00:42] drawdown is 8 percent
+[00:43] many will probably argue this is too
+[00:45] small again to trade but with SPY
+[00:47] trading at 400 this is more than enough
+[00:50] to offset slippage and commissions
+[00:52] can the strategy be improved
+[00:54] yes if you exit at the close the next
+[00:56] day not the open you increase the
+[00:59] average gain per trade to 0.24 however
+[01:03] when you exit at the close and not the
+[01:05] open the win rate drops to 60 percent
+[01:08] and Max drawdown doubles to 17 percent
+[01:11] overnight trading strategies like this
+[01:13] are very tradable
+[01:14] we are trading a variant of the strategy
+[01:16] ourselves where the average gain is 0.35
+[01:19] per trade but with a reduced number of
+[01:21] Trades as always if you are interested
+[01:24] in code or more details about this
+[01:26] strategy please visit our website you
+[01:28] can also find plenty of similar
+[01:30] strategies there please consider giving
+[01:32] this video a like And subscribe if you
+[01:34] fancy us doing more of these videos
+[01:35] thanks for listening

@@ -1,0 +1,98 @@
+標題: 5 Seasonal Trading Strategies (Backtest &amp; Rules)
+URL: https://www.youtube.com/watch?v=AX8g8iy1CJE&list=PLHFlSdhbIZ6SMz5hnXTWKKj__6zDmxzz3
+語言: en
+下載時間: 2025-03-06 12:02:25
+
+=== 字幕內容 ===
+
+[00:00] did you know that the stock market has
+[00:02] seasonal patterns the stock market tends
+[00:04] to follow certain trends at different
+[00:06] times of the year and if you know how to
+[00:08] identify these patterns you can use them
+[00:10] to your advantage and perhaps make money
+[00:12] on it in today's video we're going to
+[00:15] show you five seasonal trading
+[00:17] strategies in which you see the back
+[00:19] tested results on the screen so stick
+[00:22] around until the end to get the trading
+[00:24] rules and please don't forget to
+[00:26] subscribe or like for more seasonal
+[00:28] trading strategies
+[00:31] let's go to the first seasonal trading
+[00:33] strategy which is the Santa Claus
+[00:35] rally Santa comes early to the stock
+[00:38] market and we buy S&P 500 on the first
+[00:41] Friday after calendar day 14 in December
+[00:45] we sell on the third trading day of the
+[00:47] New
+[00:48] Year the seasonal effect has been pretty
+[00:51] consistent with almost linear growth
+[00:53] since
+[00:54] 1960 the average gain is
+[00:57] 1.34% and you're invested only 4% of the
+[00:59] the time let's look at the trading rules
+[01:02] of the second seasonal trading strategy
+[01:05] which is for the Russell 2000 Index the
+[01:08] strategy takes advantage of the annual
+[01:10] rebalancing of Russell 2000 in late June
+[01:13] and we buy the index on the first
+[01:15] trading day after June 23rd and sell on
+[01:19] the first trading day of
+[01:21] July again we see a steady growth and a
+[01:24] high win rate since
+[01:26] 1987 the trading statistics are good
+[01:29] with 1 3% average gain and we can also
+[01:32] add that the strategy works well for S&P
+[01:34] 500 but not as good as for Russell
+[01:38] 200000 we continue with our seasonal
+[01:40] trading strategies and reveal the third
+[01:42] one which is the Easter holiday this
+[01:45] strategy buys S&P 500 at the close on
+[01:48] the Wednesday before Good Friday and
+[01:50] sells at the close on Holy Thursday the
+[01:52] day before Good Friday you're invested
+[01:55] for only 24 hours again the performance
+[01:58] is pretty solid with with consistent
+[02:00] gains since
+[02:02] 1960 you've made an average of 35% in 24
+[02:06] hours this is 8 times better than any
+[02:09] random day we don't stop here and our
+[02:12] fourth seasonal trading strategy is a
+[02:14] pretty similar one for the Thanksgiving
+[02:16] holiday before Thanksgiving we buy S&P
+[02:18] 500 on Tuesday and we sell 24 hours
+[02:22] later on Wednesday the day before
+[02:24] Thanksgiving the equity curve is rising
+[02:26] steadily since 1960 but there have been
+[02:29] a few rough Fe along the way the average
+[02:32] gain is 3% and worth noting is that we
+[02:35] witnessed a 22-year streak of winning
+[02:38] trades the fifth and last of our
+[02:40] seasonal trading strategies is also for
+[02:42] S&P 500 and is called the turn of the
+[02:45] month strategy this strategy exploits
+[02:48] the strong bias at the end of the month
+[02:50] and the first few days of the new month
+[02:53] to be more precise we buy five trading
+[02:55] days before month's end and we exit
+[02:58] three trading days into the new month
+[03:00] month our back test doesn't include
+[03:02] dividends but this simple seasonal
+[03:04] trading strategy has beaten by and hold
+[03:06] since 1960 despite being invested only
+[03:09] 33% of the time the average gain per
+[03:13] trade is 6 and the draw Downs are more
+[03:15] than half compared to buy and hold if we
+[03:18] turn the strategy upside down and are
+[03:20] only invested when it's not turn of the-
+[03:22] month days you can see the terrible
+[03:25] performance you would have lost money
+[03:28] we've now back tested five seasonal
+[03:30] trading strategies that are easy to
+[03:31] implement but remember this is not
+[03:33] investment advice there exist many more
+[03:37] seasonalities and they're all covered on
+[03:38] our website not only for stocks but also
+[03:41] for bonds and other
+[03:44] assets

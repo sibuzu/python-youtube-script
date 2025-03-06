@@ -1,0 +1,43 @@
+標題: CCI Trading Strategy (Backtest &amp; Trading Rules)
+URL: https://www.youtube.com/watch?v=zFldiNwEsKo&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:06:38
+
+=== 字幕內容 ===
+
+[00:00] today we'll show you one trading
+[00:01] indicator that's not so well known the
+[00:04] commodity Channel indicator abbreviated
+[00:07] CCI the CCI can help you spot Trend
+[00:10] reversals and in this video we'll show
+[00:12] you how so you can make trading
+[00:14] strategies with Equity curves like the
+[00:16] one on the
+[00:17] screen what is the CCI indicator it's a
+[00:21] technical indicator that measures the
+[00:23] current price level of a security
+[00:25] relative to an average price level over
+[00:27] a given look back period it's a momentum
+[00:30] osculator that's used to identify
+[00:32] extreme conditions such as oversold and
+[00:35] overbought conditions how do you
+[00:37] calculate
+[00:38] CCI it's a pretty complex formula and we
+[00:41] recommend leaving that to your trading
+[00:44] platform let's go straight to a back
+[00:46] test with specific trading rules we made
+[00:49] an optimization of the CCI indicator for
+[00:52] S&P 500 and we found the best results by
+[00:55] using a medium look back period of 9
+[00:57] days we buy when the CCI indicator drops
+[01:01] below minus 90 and we sell when the
+[01:03] close ends higher than yesterday's high
+[01:07] the equity curve is linear and the Max
+[01:09] draw down is modest at
+[01:11] 23% 100,000 in 1993 have multiplied your
+[01:15] Equity 10 times by now to over 1 million
+[01:19] the trading performance and statistics
+[01:21] are pretty solid but there are many
+[01:23] trades
+[01:24] 464 in
+[01:27] total

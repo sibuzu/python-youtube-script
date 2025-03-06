@@ -1,0 +1,62 @@
+標題: 2 Inverted Yield Curve Strategies (Rules and backtest)
+URL: https://www.youtube.com/watch?v=573OfvS1foc&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:03:36
+
+=== 字幕內容 ===
+
+[00:01] inverted yield curve trading strategy
+[00:04] can an inverted yield curve be used as a
+[00:06] successful stock market indicator can we
+[00:08] make a profitable inverted yield curve
+[00:10] trading
+[00:11] strategy we'll show you but before we
+[00:14] make trading rules and show you the
+[00:15] results let's explain what an inverted
+[00:18] yield curve is a normal yield curve is
+[00:21] one in which longer maturity bonds offer
+[00:23] a greater yield than shorter maturity
+[00:25] bonds due to the risks involved with
+[00:28] time this makes sense is you would
+[00:30] require a higher return the longer to
+[00:32] maturity to compensate for the increased
+[00:35] risk however there are times when
+[00:37] shorter term bonds have higher yields
+[00:39] than longer term bonds and the yield
+[00:41] curve becomes
+[00:43] inverted for example the 2-year yield
+[00:45] can be 4% while the 10-year yield is
+[00:48] 3.5% it's inverted historically there's
+[00:51] not been many inverted yield curves on
+[00:54] the screen you can see the 10-year yield
+[00:56] deducted the 2-year yield when it's
+[00:59] negative we we have an inverted yield
+[01:01] curve the yield curve has inverted 44
+[01:04] times since 1976 but it tends to be
+[01:07] clustered in smalltime Windows can we
+[01:10] make money on yield
+[01:11] inversions let's back test a couple of
+[01:13] inverted yield curve trading
+[01:16] strategies our first inverted yield
+[01:18] curve trading strategy buys when the
+[01:20] curve gets inverted and sells 250
+[01:23] trading days later since 1976 the
+[01:27] strategy returned an average 7.3% over
+[01:30] the next 250 days which is more or less
+[01:32] the same as the typical annual
+[01:35] return let's go to inverted yield curve
+[01:37] trading strategy number
+[01:39] two the trading rules are based on mean
+[01:42] reversion of the yield curve and we
+[01:44] employ the RSI
+[01:46] indicator there are only 102 trades
+[01:49] since
+[01:50] 1976 the average gain is 2.5% and you're
+[01:53] invested almost 3 months per trade the
+[01:56] return is slightly better than any
+[01:58] random period
+[02:00] all in all our Research indicates the
+[02:02] inverted yield curve trading strategy is
+[02:04] not particularly
+[02:06] useful good luck
+[02:08] Trading

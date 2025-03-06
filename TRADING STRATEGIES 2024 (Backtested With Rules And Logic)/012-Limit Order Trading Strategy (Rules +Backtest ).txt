@@ -1,0 +1,61 @@
+標題: Limit Order Trading Strategy (Rules +Backtest )
+URL: https://www.youtube.com/watch?v=7b9dU8tDYtQ&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:03:45
+
+=== 字幕內容 ===
+
+[00:01] different order types can result in
+[00:03] vastly different outcomes which is why
+[00:05] it's important to understand the type of
+[00:07] order you use in this video we show you
+[00:10] how to turn a market order into a limit
+[00:12] order trading strategy you can see the
+[00:15] results of our limit order trading
+[00:17] strategies on the screen so please make
+[00:19] sure you stay until the end what is a
+[00:22] limit order trading strategy a limit
+[00:24] order trading strategy is in order to
+[00:27] buy or sell a security at a specific
+[00:29] price or better
+[00:30] it comes with a specification of the
+[00:32] maximum price to be paid or the minimum
+[00:34] price to be received this is why it's
+[00:37] called a limit price let's go on to back
+[00:40] test two trading strategies to show you
+[00:42] the difference between a market order
+[00:44] and a limit order trading
+[00:46] strategy we start with a basic mean
+[00:48] reversion strategy that buys with a
+[00:50] market order at the close when we back
+[00:54] test the trading strategy on NASDAQ 100
+[00:56] it performs well the average gain per
+[00:59] trade is 89% which equals 10.4%
+[01:02] compounded annually the strategy is
+[01:05] invested only 18% and thus the capital
+[01:08] is idle for long periods of time for
+[01:11] example AC crewing interest mean
+[01:13] reversion is a type of strategy that's
+[01:15] optimal for limit orders because you buy
+[01:18] on weakness and sell on strength with
+[01:21] that in mind let's use the same strategy
+[01:23] but use a limit price for the buy order
+[01:26] we change the trading rules to buy the
+[01:28] day after the signal if today's open is
+[01:31] lower than yesterday's close as expected
+[01:33] the number of Trades dropped
+[01:35] significantly more than half the average
+[01:38] gain per trade goes up from 89% to
+[01:41] 1.12% but this is not enough to offset
+[01:44] the lost profits because of the limit
+[01:46] order and that you enter the next day
+[01:49] annual returns drop to 7.6% from
+[01:53] 10.4% Trading is always about different
+[01:55] trade-offs this is one of them by using
+[01:58] a limit order you miss many profitable
+[02:00] trades but the average gain per trade
+[02:02] might go
+[02:04] up can the strategy be improved or made
+[02:06] different if you have any suggestions
+[02:09] please comment good luck
+[02:13] Trading

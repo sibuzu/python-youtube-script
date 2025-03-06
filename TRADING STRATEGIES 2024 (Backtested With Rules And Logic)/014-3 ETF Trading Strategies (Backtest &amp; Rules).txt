@@ -1,0 +1,200 @@
+標題: 3 ETF Trading Strategies (Backtest &amp; Rules)
+URL: https://www.youtube.com/watch?v=8EmDCJUgnrw&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:03:49
+
+=== 字幕內容 ===
+
+[00:00] welcome to Quantified strategies today
+[00:03] we show you three ETF trading strategies
+[00:06] complete with specific trading rules and
+[00:08] settings so that we can find out how
+[00:10] they've
+[00:11] performed let's jump straight to our
+[00:13] first strategy of this video the
+[00:15] turnaround Tuesday
+[00:17] strategy this strategy has worked in the
+[00:20] stock market for many decades and has
+[00:22] been lwh hanging fruit for many years we
+[00:24] wrote about this strategy on our website
+[00:26] as long back as
+[00:27] 2012 by the way we're always working
+[00:30] hard to create new and exciting content
+[00:32] so your likes and subscriptions really
+[00:34] help us out
+[00:35] thanks so what's this ETF strategy all
+[00:38] about we buy S&P 500 at the close on a
+[00:42] Monday if the close is lower than on
+[00:44] Friday or the last trading day if Friday
+[00:46] was a non-trading day that's it it can
+[00:49] hardly get any simpler than that we sell
+[00:52] on a day when the close ends higher than
+[00:54] yesterday's high or after five trading
+[00:56] days a trade example is shown on the
+[00:58] screen the the Green Arrow shows a
+[01:01] Monday where spy the ETF the tracks S&P
+[01:04] 500 opens up but Falls throughout the
+[01:06] day and ends lower than Friday we buy
+[01:09] and sell 2 days later when spy rallies
+[01:12] and closes above the yesterday's high
+[01:15] the equity curve shows that 100,000
+[01:17] invested in spy in 1993 is worth almost
+[01:21] 2.2 million today if we only trade this
+[01:24] ETF
+[01:25] strategy not too bad for being such a
+[01:28] simple strategy and being invested only
+[01:30] 24% of the time the strategy is beaten
+[01:33] bu and hold with significantly lower
+[01:36] draw Downs of only
+[01:37] 23% even better the strategy can be
+[01:40] improved to increase the average gain
+[01:42] per trade something we did on our
+[01:44] website and for our paying
+[01:47] subscribers let's go to the second ETF
+[01:49] trading strategy this one's also one of
+[01:52] the hundreds of ETF trading strategies
+[01:54] we've published on our website since we
+[01:56] started writing in
+[01:57] 2012 the strategy is called lower lows
+[02:01] and lower highs and was published years
+[02:03] ago it's a mean reversion strategy and
+[02:06] works for many stock
+[02:07] ETFs the trading rules and settings are
+[02:10] pretty straightforward and we buy when
+[02:12] both the low and high of the day is
+[02:14] lower for the third day in a row we buy
+[02:17] on weakness and sell on strength a trade
+[02:20] example in QQQ is shown on the screen
+[02:23] where we buy on the third day of
+[02:24] weakness and we sell 2 days later on an
+[02:27] up day when the close is higher than
+[02:29] yesterday's high
+[02:30] the equity curve is not as good as the
+[02:32] turnaround Tuesday strategy but still
+[02:35] the 100,000 compounds at almost 8%
+[02:38] annually and ends up above
+[02:40] 600,000 the average gain per trade is
+[02:43] almost 1% but the strategy suffers a
+[02:45] draw down of 31% during the bare Market
+[02:48] of 2000 to 2003 but since then it's
+[02:51] performed really
+[02:53] well this ETF trading strategy Works
+[02:56] nicely on other stock ETFs as well even
+[02:58] bonds let's go to the third of our ETF
+[03:01] trading strategies this one's slightly
+[03:04] more complicated and involves three
+[03:06] ETFs the strategy was developed by the
+[03:09] famous podcaster and money manager Meb
+[03:11] Faber and published around
+[03:13] 2015 it's a momentum rotation strategy
+[03:16] for stocks bonds and gold that uses
+[03:18] monthly bars we use the following ETFs
+[03:22] spy for s&p500 GLD for gold and TLT for
+[03:27] bonds at the end of the month we invest
+[03:30] or stay long when the 3-month simple
+[03:32] moving average is above the 10-month
+[03:34] moving average we allocate onethird of
+[03:36] our Capital to each ETF for example if
+[03:39] we get a signal in two ETFs we invest
+[03:42] 66% of our equity and stay 33% in
+[03:47] cash let's back test the
+[03:49] strategy the strategy worked really well
+[03:52] until 2015 when the strategy was
+[03:54] published but since then it's not
+[03:56] performed so well the annual return is
+[03:59] is almost 8% and Max draw down is modest
+[04:02] at only
+[04:04] 18% is the poor performance after 2015
+[04:07] just a temporary setback that's hard to
+[04:10] tell but periods of weak performance is
+[04:12] to be expected the back test that Meb
+[04:15] Faber did goes back to 1971 and it's
+[04:18] likely that any period of less than 10
+[04:20] years will be erratic this is a
+[04:22] long-term momentum and Trend following
+[04:24] strategy and patience is
+[04:26] required we've now shown you three ETF
+[04:29] trading strategies but please be advised
+[04:32] that nothing in this video is investment
+[04:34] advice always do your own research and
+[04:36] make sure you put your strategies in a
+[04:38] demo account for 12 months before you
+[04:39] commit real money we've been running our
+[04:42] website since 2012 and we received many
+[04:45] questions from readers below we've
+[04:47] compiled some of the most typical and
+[04:48] frequently asked questions about ETF
+[04:51] trading what is the best ETF strategy
+[04:54] are there best ETF trading
+[04:57] strategies there is no best ETF F
+[04:59] trading strategy instead you want to
+[05:02] have many trading strategies that trade
+[05:04] different ETFs different time frames and
+[05:06] different Market directions both long
+[05:08] and short the power is in
+[05:10] diversification and strategies that
+[05:12] complement each
+[05:14] other can you swing trade ETFs of course
+[05:17] you can the strategies in this video
+[05:20] show examples of how it can be
+[05:22] done what are the advantages of ETF
+[05:25] trading strategies the main advantage is
+[05:27] that you invest in a basket of stocks
+[05:29] and thus you reduce the chances of
+[05:31] gut-wrenching adverse movements a single
+[05:34] stock can fall 100% And rise unlimited
+[05:37] forcing you to go belly up if you're
+[05:39] short moreover ETFs can also be a great
+[05:42] substitute if you're trading single
+[05:43] stocks ETFs can be used for hedging or
+[05:46] diversification for
+[05:48] example what are the disadvantages of
+[05:51] ETF trading
+[05:52] strategies the disadvantage is that
+[05:54] you're unlikely to have huge winners a
+[05:57] stock can rise 500% but this is unlikely
+[06:00] for an ETF unless you own it for decades
+[06:03] however for most retail Traders the
+[06:05] wisest thing to do is to buy different
+[06:07] asset classes and let time do the
+[06:10] compounding are ETF trading strategies
+[06:12] good for beginners we believe so however
+[06:16] you should always start trading in a
+[06:18] demo account and wait at least 12 months
+[06:20] before you go live with a back tested
+[06:22] ETF strategy we believe it's better to
+[06:24] trade ETFs before you start trading
+[06:27] individual stocks our ETF trading
+[06:30] strategies best for long or short-term
+[06:32] trading we think you should trade both
+[06:35] long and shortterm the next video coming
+[06:38] up called three profitable trading
+[06:39] strategies show you how you can combine
+[06:42] long and short-term ETF trading and
+[06:44] investing you want to diversify into
+[06:46] several strategies that complement each
+[06:49] other what are the best ETF trading
+[06:52] strategies there are no single best ETF
+[06:55] trading strategies you want a
+[06:57] portfolio can you day trade ETF trading
+[07:00] strategies sure but day trading is
+[07:03] harder than swing trading day trading is
+[07:05] noisy meaning it's hard to find
+[07:07] tradeable patterns that last for a long
+[07:09] time we believe the best opportunities
+[07:11] for retail Traders are in using longer
+[07:13] time frames for example daily weekly or
+[07:16] monthly
+[07:17] bars we appreciate you taking the time
+[07:20] to watch our video if you found it
+[07:21] helpful please give it a like And
+[07:23] subscribe to the channel for more
+[07:25] content like this if you have any
+[07:27] questions or feedback please leave a
+[07:29] comment comment below we love hearing
+[07:30] from you that was all for today and we
+[07:33] hope you like it and stay tuned for the
+[07:35] next video coming up showing three
+[07:37] profitable trading
+[07:39] [Music]
+[07:58] strategies

@@ -1,0 +1,32 @@
+標題: 3 Swing Trading Strategies 2024 (Rules &amp; Backtest)
+URL: https://www.youtube.com/watch?v=lKzoUptU2io&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:05:51
+
+=== 字幕內容 ===
+
+[00:03] let's show you swing trading strategies
+[00:05] for S&P 500 with trading rules and
+[00:08] performance this is the first one today
+[00:11] is Monday it's the second day in a row
+[00:14] with lower close sell when the close is
+[00:17] higher than yesterday's high the second
+[00:20] swing strategy reads like this the close
+[00:23] sets a new 5day low the IBS indicator
+[00:26] must be lower than
+[00:28] 025
+[00:30] sell when the close is higher than
+[00:32] yesterday's high the third swing trading
+[00:35] strategy has the following rules today's
+[00:38] intraday high must be lower than the
+[00:40] previous day's 10day High the IBS must
+[00:43] be lower than
+[00:46] .15 exit when today's close is higher
+[00:49] than yesterday's high if we combine all
+[00:52] three swing trading strategies into a
+[00:54] portfolio we get a pretty decent result
+[00:58] much better than Buy and Hold despite
+[00:59] only investing 27% of the time you find
+[01:03] hundreds of similar swing trading
+[01:05] strategies on our
+[01:11] website

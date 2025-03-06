@@ -1,0 +1,30 @@
+標題: Closed-End Fund Strategy: Lower Risk, Higher Reward
+URL: https://www.youtube.com/watch?v=qL9gnzI5Akc&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:06:09
+
+=== 字幕內容 ===
+
+[00:00] [Music]
+[00:03] let's show you a profitable closed end
+[00:05] fund strategy it spends less time in the
+[00:07] market compared to buy and hold and
+[00:09] hence dramatically reduces draw downs we
+[00:12] do that by trading on The Daily
+[00:13] differences between the price and the
+[00:15] net asset value we make a ratio that
+[00:18] divides the price of the fund on the net
+[00:21] asset value the trading rules read like
+[00:24] this when the 2-day relative strength
+[00:26] index of the ratio crosses below 10 we
+[00:29] go long at the close when the 2-day
+[00:32] relative strength index of the ratio
+[00:34] crosses above 60 we sell at the close we
+[00:37] back test the fund with the ticker code
+[00:40] EtG and get the following Equity curve
+[00:43] it's 212 trades and the average gain is
+[00:46] 48% time spent in the market is only
+[00:49] 133% and Max draw down is 26% compared
+[00:53] to buy and hold
+[00:54] 74% you find hundreds of similar swing
+[00:57] trading strategies on our website

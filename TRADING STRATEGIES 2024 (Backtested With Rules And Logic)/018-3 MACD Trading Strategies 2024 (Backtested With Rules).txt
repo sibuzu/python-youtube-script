@@ -1,0 +1,155 @@
+標題: 3 MACD Trading Strategies 2024 (Backtested With Rules)
+URL: https://www.youtube.com/watch?v=9h46J1xanfk&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:03:58
+
+=== 字幕內容 ===
+
+[00:00] today we show you three macd trading
+[00:02] strategies complete with trading rules
+[00:04] and back tests all backtests are based
+[00:07] on S P 500 and the ETF with the ticker
+[00:10] code s by and the best strategy comes
+[00:13] last so make sure you stick around until
+[00:15] the end by the way we appreciate your
+[00:17] support if you want to help our channel
+[00:19] to grow please give this video a like
+[00:21] and consider subscribing to our Channel
+[00:23] let's get straight to it and present the
+[00:26] first strategy the first trading
+[00:28] strategy is based on the macd histogram
+[00:31] the macd histogram is the fast line
+[00:34] subtracted from the slower signal Line
+[00:36] This is a mean reversion strategy and
+[00:38] the trading rules are on the screen we
+[00:40] do this by buying when the macd
+[00:42] histogram drops four days in a row from
+[00:45] a level that was below zero four days
+[00:47] ago the equity is growing nicely upward
+[00:50] but the annual returns of 5 fail to beat
+[00:53] the buy and hold of the S P 500 but that
+[00:56] is explained by the load time spent in
+[00:58] the market only five percent
+[01:01] considering this we believe the strategy
+[01:03] is decent because the low investment
+[01:05] time frees up time to trade other
+[01:07] complementary strategies the positive is
+[01:10] that the strategy has a very high win
+[01:12] rate of 89 and a low drawdown of 16
+[01:16] let's go to the second back-tested macd
+[01:19] strategy which uses a Bollinger band of
+[01:22] the macd histogram we enter a long
+[01:25] position when the histogram crosses
+[01:27] below the lower Bollinger band and we
+[01:29] sell when the histogram crosses above
+[01:31] the upper band The 100 000 invested
+[01:34] grows to 1.15 million today which equals
+[01:38] an annual return of 8.4 percent the
+[01:41] strategy's performance is mixed the
+[01:43] positive takeaway is a solid win rate
+[01:46] because we believe the win rate is
+[01:48] crucial for most traders to stick to a
+[01:50] strategy however the negative is the
+[01:53] huge drawdown of 44 with such a drawdown
+[01:56] We Believe most Traders would abandon
+[01:58] the strategy even though the strategy
+[02:01] forms almost as well as Buy and Hold
+[02:03] despite being invested just 64 percent
+[02:05] of the time now the third strategy is
+[02:08] the best one unfortunately we only
+[02:10] reveal its trading rules for our members
+[02:12] but we can indicate that the RSI
+[02:15] indicator is involved the strategy has
+[02:17] only one trading rule to buy and one to
+[02:20] sell the 100 000 invested compounds
+[02:23] gradually without major hiccups along
+[02:25] the way and we end up with 1.5 million
+[02:28] today this strategy has three positives
+[02:31] it spends only 21 invested has a max
+[02:34] drawdown of only 15 percent and the
+[02:36] annual return is almost as good as Buy
+[02:38] and Hold It has many trades and the
+[02:41] average is 0.56 per trade but it should
+[02:44] be plenty of margin to pay for slippage
+[02:46] and commissions the risk-adjusted return
+[02:48] is 43 this number is the annual return
+[02:52] divided by the time spent invested which
+[02:55] is 0.21 we have now shown you three macd
+[02:59] strategies let's discuss why why we use
+[03:01] the trading rules and settings we did we
+[03:04] have been trading full time for 20 years
+[03:05] and we have learned a lot by using the
+[03:07] macd indicator for some of our
+[03:09] strategies first what is the best macd
+[03:12] strategy for trading and is macd good
+[03:15] for trading the macd indicator is not
+[03:17] the best indicator for trading we
+[03:19] believe that is the RSI indicator but
+[03:21] the strategies in this video show that
+[03:24] may CD can be very useful please also
+[03:27] see the next video coming up about three
+[03:29] RSI trading strategies the optimal
+[03:32] approach to utilizing macd is by
+[03:34] employing it as a mean reversion
+[03:36] strategy similar to the three strategies
+[03:38] outlined in this video The Objective is
+[03:41] to purchase assets when the market is
+[03:44] oversold and the price has fallen and to
+[03:47] sell them when the macd readings are
+[03:49] high this approach follows the
+[03:51] conventional notion of identifying
+[03:54] oversold and overbought conditions
+[03:56] although the macd indicator cannot
+[03:58] predict the future it provides a
+[04:00] probability assessment historically the
+[04:03] macd indicator has demonstrated
+[04:05] Effectiveness in certain asset classes
+[04:08] especially stocks making it suitable for
+[04:11] short-term trading now let's address the
+[04:13] question of which markets macd performs
+[04:15] best in the answer is quite
+[04:17] straightforward macd tends to work well
+[04:19] in stocks particularly stock ETFs
+[04:22] however its efficiency diminishes when
+[04:25] applied to other types of assets the
+[04:27] explanation is straightforward the stock
+[04:29] market has a tendency to exhibit mean
+[04:31] reversion this implies that oversold
+[04:34] macd readings indicate the likelihood of
+[04:37] better returns in the upcoming days
+[04:38] whereas High readings suggest lower
+[04:41] returns compared to the average
+[04:43] during the past 35 years most Western
+[04:46] Stock markets have exhibited
+[04:48] characteristics of mean reversion
+[04:49] nevertheless it is important to note
+[04:52] that there is no guarantee that this
+[04:54] pattern will persist in the future
+[04:56] determining the most effective macd
+[04:58] settings is relatively straightforward
+[05:00] optimal results are achieved with a look
+[05:03] back period of just a few days daily
+[05:06] bars serve as the best time frame for
+[05:08] analysis although weekly bars can also
+[05:10] yield satisfactory outcomes when it
+[05:13] comes to day trading macd is not
+[05:16] particularly suitable it performs best
+[05:18] in swing trading scenarios using daily
+[05:20] or weekly bars as for the best
+[05:22] combination with macd incorporating one
+[05:25] additional variable might improve the
+[05:27] results but please make sure you are not
+[05:29] curve fitting your strategies on our
+[05:32] website we provide a couple of
+[05:33] strategies that incorporate another
+[05:35] indicator resulting in improved
+[05:37] performance that's all for today we hope
+[05:40] you got some value out of it please help
+[05:42] us grow on YouTube YouTube by giving the
+[05:44] video a like comment or subscribing it
+[05:47] helps us a lot with the YouTube
+[05:49] algorithm please keep in mind that
+[05:51] nothing in this video is investment
+[05:53] advice
+[05:54] foreign
+[05:57] [Music]

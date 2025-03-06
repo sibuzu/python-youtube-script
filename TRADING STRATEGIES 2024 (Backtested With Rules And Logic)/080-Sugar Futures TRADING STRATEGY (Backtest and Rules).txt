@@ -1,0 +1,29 @@
+標題: Sugar Futures TRADING STRATEGY (Backtest and Rules)
+URL: https://www.youtube.com/watch?v=sH70Ldu5YOQ&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:06:23
+
+=== 字幕內容 ===
+
+[00:01] sugar is one of the most important
+[00:04] Commodities all of us eat it every day
+[00:06] and the result is diabetes and it looks
+[00:09] like too much sugar training can cause
+[00:11] equal harm to your finances Commodities
+[00:14] are hard to trade and our experience is
+[00:16] that this applies to Sugar particularly
+[00:18] and if something is hard to trade
+[00:21] perhaps the best thing to do is to avoid
+[00:22] it personally we are not trading any
+[00:25] sugar strategy anyway here's the best
+[00:28] sugar strategy we found after running
+[00:30] hundreds of our trading rules
+[00:33] buy when the price breaks above the
+[00:35] 350-day moving average plus a seven day
+[00:38] ATR sell when the price breaks below the
+[00:42] 350-day moving average deducted a seven
+[00:45] day ATR this strategy returns this
+[00:48] Equity curve
+[00:50] this is not what we would like to trade
+[00:52] we recommend having a look at our
+[00:54] website quantifiedstrategies.com

@@ -1,0 +1,62 @@
+標題: SECTOR ROTATION Trading Strategy (Backtest And Rules)
+URL: https://www.youtube.com/watch?v=yOvQBxyqX2E&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:06:36
+
+=== 字幕內容 ===
+
+[00:00] welcome to qualified strategies where we
+[00:03] help Traders turn data into profitable
+[00:05] insights in this video we'll be
+[00:07] discussing our sector rotation trading
+[00:10] strategy a proven method for generating
+[00:12] consistent returns in the market
+[00:15] before we dive into the specifics of the
+[00:17] strategy let's talk about the importance
+[00:19] of back testing
+[00:21] at Quantified strategies we believe that
+[00:23] proof is essential when it comes to
+[00:25] trading that's why we rigorously test
+[00:28] all of our strategies using historical
+[00:30] data to ensure their effectiveness
+[00:33] our sector rotation trading strategy is
+[00:35] no exception
+[00:37] so what is sector rotation
+[00:39] it's a trading technique that involves
+[00:42] rotating in and out of different sectors
+[00:44] of the stock market based on their
+[00:46] performance
+[00:47] in the case of our sector trading
+[00:49] strategy we focus on four different
+[00:51] sectors S P 500 spy long-term bonds TLT
+[00:58] International developed stocks EFA and
+[01:02] emerging market stocks eem
+[01:05] now let's take a closer look at the
+[01:07] rules of the strategy
+[01:08] we start by calculating the relative
+[01:11] strength of each sector based on their
+[01:13] price performance over the past month
+[01:15] we then select the top performing sector
+[01:18] and invest in the corresponding exchange
+[01:21] traded fund ETF
+[01:23] we hold this position for one month and
+[01:26] then repeat the process rotating into
+[01:28] the new top performing sector or ETF
+[01:32] the beauty of this strategy is that it
+[01:34] takes emotions out of the equation we're
+[01:37] not trying to predict the market or beat
+[01:39] it we're simply following the data and
+[01:42] the data shows that our sector rotation
+[01:44] trading strategy has performed well
+[01:46] in conclusion if you're looking for a
+[01:48] data driven proven method for sector
+[01:50] trading our sector trading rotation
+[01:53] strategy is worth considering at
+[01:55] Quantified strategies we believe that
+[01:57] proof is essential when it comes to
+[01:59] trading and our back testing results
+[02:02] show that this strategy works
+[02:05] if you like this video you'll probably
+[02:07] like this video about a very profitable
+[02:10] range trading strategy
+[02:12] thank you for watching and happy Trading

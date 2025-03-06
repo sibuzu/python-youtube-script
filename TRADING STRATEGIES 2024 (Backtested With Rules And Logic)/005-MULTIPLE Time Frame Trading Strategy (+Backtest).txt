@@ -1,0 +1,52 @@
+標題: MULTIPLE Time Frame Trading Strategy (+Backtest)
+URL: https://www.youtube.com/watch?v=2fASgIgUPrw&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:03:29
+
+=== 字幕內容 ===
+
+[00:00] multiple time frame trading strategy how
+[00:02] do you make a multiple time frame
+[00:04] trading strategy we'll show you how and
+[00:06] provide an example with specific trading
+[00:08] rules and back-tested results first
+[00:11] let's define what a multiple time frame
+[00:13] trading strategy is for example you can
+[00:15] use a weekly time frame to determine the
+[00:17] longer Trend daily bars to find the
+[00:20] medium Trend and finally an intraday
+[00:22] time frame to make the entry the main
+[00:24] idea could be for example to trade with
+[00:26] the long-term Trend but enter on
+[00:28] short-term pullbacks we are sure you get
+[00:30] the idea so let's make a strategy that
+[00:31] tries to ride the long-term Trend but
+[00:33] enter on pullbacks we make the following
+[00:36] trading rules one we use a long-term
+[00:38] Trend filter the close must be higher
+[00:40] than the close 250 days ago two we use
+[00:43] an intermediate Trend filter the close
+[00:45] must be higher than the close 22 days
+[00:47] ago three we use a short-term pullback
+[00:49] the close today must be a three-day low
+[00:51] of the close four if one three is true
+[00:54] then go long at the close five we sell
+[00:57] at the close when the close is higher
+[00:59] than yesterday's close we get the
+[01:01] following Equity curve on xlp the ETF
+[01:03] that tracks Consumer Staples the trading
+[01:05] statistics and performance metrics read
+[01:07] like this number of Trades 316 average
+[01:10] gain per trade 0.28 percent win rate 73
+[01:14] percent max drawdown minus ten percent
+[01:16] profit Factor two it works reasonably
+[01:19] well albeit the average per trade as
+[01:21] perhaps a tad too low as usual code and
+[01:24] more detailed info about all of our
+[01:25] strategies on our YouTube channel can be
+[01:27] found on our website or you can just
+[01:29] contact us Link in the description
+[01:31] thanks for watching and do not forget to
+[01:33] give our video a like And subscribe if
+[01:36] you want us to continue making these
+[01:37] kinds of videos

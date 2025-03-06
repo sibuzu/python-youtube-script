@@ -1,0 +1,58 @@
+標題: Relative Vigor Index (RVI) Strategy (Backtest)
+URL: https://www.youtube.com/watch?v=zLFujYKDyGA&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:06:43
+
+=== 字幕內容 ===
+
+[00:01] today we present you a trading indicator
+[00:03] that is rarely used relative Vigor index
+[00:06] abbreviated
+[00:08] rvi please stay tuned because we'll show
+[00:10] you one trading strategy that shows the
+[00:12] potential of the indicator as shown by
+[00:15] the curve you see on the
+[00:17] screen first what is the relative Vigor
+[00:20] index and what does it
+[00:22] indicate the relative Vigor index is a
+[00:24] technical indicator that measures the
+[00:26] momentum of price Movement by comparing
+[00:28] the closing price to its trade range it
+[00:31] uses a simple moving average to smooth
+[00:33] the results called the signal line it is
+[00:36] based on the tendency of the price to
+[00:37] close higher than it opens in an uptrend
+[00:40] and close lower than it opens in a
+[00:43] downtrend how is the relative volatility
+[00:46] index
+[00:47] calculated to calculate the relative
+[00:49] Vigor index you need to follow a
+[00:51] four-step process first calculate the
+[00:55] numerator second calculate the
+[00:58] denominator third you calculate the
+[01:01] rvi and finally you end the process by
+[01:05] calculating the signal line now let's
+[01:07] show you a relative Vigor index trading
+[01:09] strategy we back tested the relative
+[01:12] Vigor index on GLD the ETF tracking the
+[01:15] gold price and the results are pretty
+[01:17] good the trading rules are simple yet
+[01:19] effective we use a 5-day lookback period
+[01:22] and we buy GLD when the rvi crosses
+[01:25] above the signal line we also add a
+[01:27] second condition the 5-day RS I of the
+[01:30] relative Vigor index must be below 50 we
+[01:33] sell when the signal line crosses above
+[01:35] the rvi the results are pretty good and
+[01:38] there are many trades the average gain
+[01:41] per trade is
+[01:42] 0.44% and the win rate is a moderate
+[01:46] 51% however the winners are on average
+[01:49] much bigger than the average
+[01:51] losers does the strategy work on other
+[01:54] assets no it doesn't work well on the
+[01:57] S&P 500 or bonds for example however
+[02:00] that doesn't mean the strategy is
+[02:01] curve-fitted all assets move differently
+[02:05] if you like this video please like And
+[02:07] subscribe

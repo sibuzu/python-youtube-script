@@ -1,0 +1,77 @@
+標題: Currency Trading Strategies - &quot;From Carry Trades to Curve Trades&quot;
+URL: https://www.youtube.com/watch?v=9ZuBES1XZ4k&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:03:56
+
+=== 字幕內容 ===
+
+[00:01] welcome to this episode where we'll
+[00:03] explore a research paper that could
+[00:04] transform the way we approach currency
+[00:06] trading
+[00:07] strategies the research paper titled
+[00:10] from carry trades to curvy trades
+[00:12] authored by Ferdinand Dre Johan grob and
+[00:14] Thomas Kasa introduces a novel approach
+[00:17] to currency trading strategies called
+[00:19] curvy trades unlike traditional carry
+[00:22] trade strategies that rely solely on
+[00:23] differences in short-term interest rates
+[00:25] curvy trades incorporate additional
+[00:27] information from yield curves
+[00:30] specifically the Nelson seagull
+[00:32] factors traditional carry trade
+[00:34] strategies have been a staple in the
+[00:35] currency trading world but they often
+[00:37] neglect valuable information embedded in
+[00:39] yield curves This research paper
+[00:42] proposes a new strategy based on the
+[00:44] relative curvature Factor derived from
+[00:46] the Nelson seagull factors which
+[00:48] summarize the yield curve the study's
+[00:51] findings are interesting curvy trades
+[00:53] yield higher sharp ratios meaning better
+[00:55] risk adjusted returns and exhibit a
+[00:57] smaller return skewness compared to
+[00:59] traditional care trade strategies this
+[01:02] translates to more consistent and less
+[01:04] volatile returns moreover curvy trades
+[01:07] build less upon typical carry currencies
+[01:09] like the Japanese Yen and the Swiss
+[01:11] frank making them less susceptible to
+[01:13] crash risk this is a significant
+[01:15] Advantage as traditional carry trades
+[01:17] can be vulnerable to sudden Market
+[01:19] reversals interestingly the study
+[01:22] reveals that standard pricing factors
+[01:24] used to explain traditional carry trade
+[01:26] returns such as exchange rate volatility
+[01:28] failed adequately explain curvy trade
+[01:31] returns within a linear asset pricing
+[01:34] framework this suggests that curvy
+[01:36] trades may be driven by different market
+[01:38] dynamics the paper's findings align with
+[01:41] recent interpretations of the curvature
+[01:43] factor a relatively High curvature
+[01:45] Factor signals a relatively higher path
+[01:47] of future short-term rates over the
+[01:49] medium term putting upward pressure on
+[01:51] the currency this Insight could
+[01:54] potentially revolutionize currency
+[01:56] trading strategies and open up new
+[01:58] opportunities for investors
+[02:00] in conclusion the research paper from
+[02:02] carry trades to curvy trades introduces
+[02:04] a paradigm shift in currency trading
+[02:06] strategies by leveraging yield curve
+[02:09] information curvy trades offer higher
+[02:11] risk adjusted returns reduced return
+[02:13] skewness and lower susceptibility to
+[02:15] crash risk as investors seek Innovative
+[02:18] approaches to navigate the everchanging
+[02:20] financial markets This research could
+[02:22] pave the way for a new era in currency
+[02:25] trading thank you for watching and don't
+[02:27] forget to like subscribe and share this
+[02:29] video with anyone interested in currency
+[02:31] trading or quantitative Finance

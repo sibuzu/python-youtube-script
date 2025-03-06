@@ -1,0 +1,182 @@
+標題: 4 Bond Trading Strategies (Rules and Backtest)
+URL: https://www.youtube.com/watch?v=N7PnyY132fk&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:04:35
+
+=== 字幕內容 ===
+
+[00:00] despite being much larger than the stock
+[00:02] market the bond market gets much less
+[00:04] attention from short-term Traders that's
+[00:06] a shame because bonds are great trading
+[00:08] Vehicles this article will provide you
+[00:10] with four specific bond trading
+[00:12] strategies we'll explore bonds and argue
+[00:15] why you should trade bonds bonds are a
+[00:17] great trading tool because they are
+[00:19] complementary to stock trading
+[00:21] strategies so let's get started
+[00:23] first is bond trading profitable that
+[00:26] depends on the strategy you need to back
+[00:29] test and verify your strategies before
+[00:30] you commit money and this includes the
+[00:33] examples in this video we provide no
+[00:35] investment advice
+[00:37] second what is a bond when a bond is
+[00:40] issued by a company or sovereign state
+[00:42] the borrower receives funds from
+[00:44] investors which are lenders the borrower
+[00:46] promises to pay interest on a fixed
+[00:48] schedule for a specific duration and to
+[00:50] repay the principal when the bond
+[00:52] reaches maturity and the capital is
+[00:54] returned to the lenders thus a bond is
+[00:57] different than a share of a company in
+[00:59] case of bankruptcy bondholders are paid
+[01:02] before shareholders and thus bonds are
+[01:04] less risky than stocks also Shares are
+[01:07] generally deemed riskier than bonds
+[01:08] because swings in price are more severe
+[01:11] thus bond trading should be less risky
+[01:14] than stock trading because of less risk
+[01:16] bonds have not performed as well as
+[01:18] stocks however there are different types
+[01:21] of bonds municipal bonds government
+[01:23] bonds corporate bonds junk bonds Etc
+[01:27] the bonds are not equal for example some
+[01:30] junk bonds behave muck like stocks and
+[01:32] are the exception government bonds are
+[01:34] the safest thus we regard bonds as safer
+[01:37] than stocks in this article we only look
+[01:40] at long-term U.S treasury bonds what
+[01:42] makes the price of bonds move that
+[01:44] depends on credit risk interest rate
+[01:46] risk and inflation risk when interest
+[01:48] rates go up the price of the bond goes
+[01:50] down
+[01:51] why would you trade bonds and is bond
+[01:54] trading profitable
+[01:55] treasury bonds for example are less
+[01:57] volatile than stocks but the advantage
+[01:59] of investing in them is that they
+[02:01] typically have a low correlation with
+[02:03] stocks making them a complementary asset
+[02:06] class in the chart the red line shows
+[02:09] the 25-day rolling correlation between S
+[02:11] and P 500 and long-term U.S treasury
+[02:14] bonds while the black line represents
+[02:17] the 200-day moving average as shown the
+[02:20] correlation fluctuates over time but the
+[02:22] black line remains close to the blue
+[02:24] line which indicates zero indicating a
+[02:27] lack of correlation let's look at some
+[02:29] bond trading examples with specific
+[02:31] trading rules
+[02:33] although the following strategies have
+[02:34] been back tested using the ETF that
+[02:37] tracks 20-year treasury bonds the ticker
+[02:39] code is TLT it might be possible to use
+[02:42] the corresponding Futures Contract
+[02:44] provided that you adhere to the same
+[02:46] official trading hours as TLT
+[02:49] our first bond trading strategy was
+[02:51] published a few years ago on our website
+[02:53] but it has performed well since then
+[02:55] the trading rules are simple we buy on
+[02:58] the seventh last trading day of the
+[02:59] month and we sell at the close of the
+[03:02] month this simple seasonal strategy has
+[03:05] worked well and has shown a reasonably
+[03:07] steady rise in the equity curve the
+[03:09] annual return is 5.45 Which is higher
+[03:13] than Buy and Hold including dividends
+[03:15] reinvested this is not bad for being
+[03:17] invested only 28 of the time
+[03:20] but there is a new twist to the strategy
+[03:22] let's make a second back-tested strategy
+[03:25] at the end of the month we reverse our
+[03:27] bond position and go short and we cover
+[03:30] at the close of the seventh last trading
+[03:32] day of the month again we see a steady
+[03:35] rise in our Equity even though TLT has
+[03:37] risen During the back-tested period our
+[03:40] short position made 4.41 annually
+[03:42] despite TLT Rising 4.6 percent
+[03:46] short is very difficult to trade in both
+[03:48] bonds and stocks so this is a very good
+[03:50] result
+[03:51] let's now combine both strategies to
+[03:53] make our third strategy we buy TLT at
+[03:56] the seventh last trading of the month
+[03:57] and we sell and reverse to short at the
+[04:00] end of the month we cover the short
+[04:02] position on the seventh trading day of
+[04:04] the new month when we combine the
+[04:06] strategies the result obviously improves
+[04:08] one hundred zero zero zero grows to
+[04:12] 735000 over the 20-year period We
+[04:16] Believe seasonal patterns are one of the
+[04:18] lowest hanging fruits in trading the
+[04:20] strategy has crushed by and hold you're
+[04:23] invested only 61 percent of the time and
+[04:26] you still get a 10.25 annual return
+[04:29] which is over double Buy and Hold even
+[04:32] better the short position has worked
+[04:34] well the best part is that this result
+[04:36] is most likely non-correlated to stock
+[04:38] market returns if we employ the last
+[04:40] combined strategy on S P 500 we get
+[04:43] Negative returns this is a strong
+[04:45] indication you might want to diversify
+[04:47] your strategies to other assets than
+[04:49] stocks let's now look at the fourth Bond
+[04:52] strategy it's a long Bond strategy where
+[04:54] we buy TLT based on two variables One
+[04:57] Price action variable and one seasonal
+[04:59] variable we exit the position on
+[05:02] strength as you can see it has performed
+[05:04] well
+[05:05] the 227 trades had an average gain of
+[05:10] 0.44 which equals 4.8 percent annual
+[05:14] returns
+[05:15] also please notice the Low Max drawdown
+[05:18] from an equity Peak we are not revealing
+[05:21] the trading rules because it's part of
+[05:22] our membership program the four
+[05:24] strategies are examples of how you can
+[05:26] make money trading bonds but one of the
+[05:29] main reasons for including bonds is
+[05:31] diversification they are complementary
+[05:33] to many other assets let's show you an
+[05:36] example of our membership strategies the
+[05:38] equity curve shows the return of three
+[05:40] different S P 500 strategies combined
+[05:43] into one portfolio of strategies the
+[05:46] average gain per trade is 0.7 percent
+[05:49] and the annual unleveraged return is
+[05:52] 11.5 percent
+[05:54] this is good but we can improve it by
+[05:56] adding bond trading strategies to the
+[05:58] mix by incorporating complementary bond
+[06:01] trading strategies the annual returns
+[06:03] rise from 11.5 percent to 19.2 percent
+[06:07] while also reducing drawdowns however
+[06:10] there is no guarantee that the future
+[06:12] replicates the past
+[06:14] nevertheless our video demonstrates that
+[06:16] Bond strategies provide diversification
+[06:18] to a portfolio
+[06:20] furthermore integrating bond trading
+[06:22] strategies might decrease drawdowns
+[06:24] stocks might be more profitable than
+[06:27] bonds but combining them is the most
+[06:29] rational thing a Trader can do
+[06:31] coming up is a video about three mean
+[06:33] reversion strategies in the stock market
+[06:35] that can provide you with some trading
+[06:37] ideas that's all for today and don't
+[06:40] forget this is no investment advice
+[06:42] please do your due diligence and last
+[06:45] don't forget to like And subscribe
+[06:49] foreign
+[06:53] [Music]

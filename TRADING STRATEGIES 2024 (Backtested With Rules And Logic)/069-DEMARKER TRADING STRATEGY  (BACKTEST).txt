@@ -1,0 +1,28 @@
+標題: DEMARKER TRADING STRATEGY  (BACKTEST)
+URL: https://www.youtube.com/watch?v=o_rgI0h9Qs8&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:05:58
+
+=== 字幕內容 ===
+
+[00:00] all right today we practice the the
+[00:03] marker indicator
+[00:04] which indicates over bought and oversold
+[00:07] levels as you can see here
+[00:11] so we did an optimization of the
+[00:13] indicator on spider
+[00:15] and optimal look back period was five
+[00:18] days and we used a buy threshold of five
+[00:21] and we sold when the indicator hits a
+[00:25] level of 80. and this is how the equity
+[00:28] curve like
+[00:30] not exactly perfect because of all this
+[00:33] sharp and certain drawdowns so we made
+[00:36] that a change to the to the cell room
+[00:39] so instead of using the indicator we
+[00:42] sell on strength and we sell when the
+[00:45] close is higher than yesterday's high
+[00:48] and
+[00:49] and the equity curve is here and as you
+[00:52] can see
+[00:53] the strategy instantly improved

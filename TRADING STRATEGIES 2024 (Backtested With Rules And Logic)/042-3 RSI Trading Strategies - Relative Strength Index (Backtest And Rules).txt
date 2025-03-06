@@ -1,0 +1,134 @@
+標題: 3 RSI Trading Strategies - Relative Strength Index (Backtest And Rules)
+URL: https://www.youtube.com/watch?v=Qo62oiT0xdg&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:04:54
+
+=== 字幕內容 ===
+
+[00:00] today we show you three RSI trading
+[00:03] strategies complete with trading rules
+[00:05] and back tests let's get straight to it
+[00:07] and present the first strategy the first
+[00:09] trading strategy has the following
+[00:11] trading rules we buy when the two-day
+[00:14] RSI crosses below 10 and we sell when
+[00:16] the two-day RSI crosses Above 80. This
+[00:19] is called the two periods RSI strategy
+[00:21] we backtested on S P 500 by using the
+[00:25] ETF with the ticker code spy and we
+[00:28] enter and exit at the close before we
+[00:30] show you the equity curve please be
+[00:32] advised that nothing in this video is
+[00:34] investment advice okay let's return to
+[00:37] the two-day RSI strategy which shows
+[00:40] decent results our starting capital of
+[00:42] 100 000 grows to 1.2 million after about
+[00:46] 30 years which is 8.5 annually this is
+[00:50] not too bad for being invested only 27
+[00:52] of the time however we can make a second
+[00:55] and improved strategy let's change the
+[00:58] cell Criterion and sell when and the
+[01:00] close is higher than the highest price
+[01:02] from yesterday we buy when the two-day
+[01:04] RSI crosses below 10 and we sell when
+[01:07] the close is higher than yesterday's
+[01:09] high if you are familiar with our
+[01:11] website you'll know that this exit is
+[01:13] what we call the Qs exit and is an exit
+[01:16] we have employed for the stock market
+[01:18] for over two decades the starting
+[01:20] capital of a hundred thousand grows to
+[01:22] nine hundred and fifty thousand a bit
+[01:24] short compared to the first strategy but
+[01:27] you experience a smoother ride with
+[01:28] smaller losses we argue the second
+[01:31] strategy is better why because the max
+[01:34] loss from a peak in the equity comes in
+[01:36] at 23 percent but is rarely worse than
+[01:38] 12 percent you suffer less when using
+[01:41] the second strategy the drawdowns in the
+[01:44] first strategy are on the left side and
+[01:46] the second strategy is on the right side
+[01:49] on the right side the losses are both
+[01:51] smaller and shorter resulting in a
+[01:54] better recovery Factor exactly what you
+[01:56] are looking for in a trading strategy
+[01:58] the second strategy spends 10 percent
+[02:01] less time in the market and hence gets a
+[02:03] better risk-adjusted return the the
+[02:06] performance metrics for the first
+[02:07] strategy are on the left and the second
+[02:10] is on the right we are Traders and we
+[02:13] would prefer to trade the strategy with
+[02:15] the best statistics and metrics and that
+[02:17] strategy too on the right side let's
+[02:20] show you our third and last strategy of
+[02:22] the day an RSI trading strategy in
+[02:24] Python called RSI momentum to make an
+[02:27] RSI momentum strategy we first need to
+[02:30] make two indicators as shown on the
+[02:32] screen for this back test we are going
+[02:34] to use the 100 days look back period and
+[02:37] the 14-day RSI the trading rules are
+[02:40] simple when we have established a bull
+[02:43] regime we are long and we are out of the
+[02:45] market when we are not in a bull regime
+[02:48] when we employ the rules on spy we get
+[02:51] the following Equity curve the strategy
+[02:53] does not generate many trading signals
+[02:55] there were 12 signals and only two lost
+[02:58] money however it's a strategy that
+[03:01] doesn't perform as well as the two
+[03:02] previous mean reversion strategies we
+[03:05] have now shown you three RSI strategies
+[03:07] let's discuss why we use the rules and
+[03:10] settings we did we have been trading
+[03:12] full time for 20 years and we have
+[03:14] learned a lot by using the RSI indicator
+[03:16] for some of our strategies first what is
+[03:19] the best RSI strategy for trading and is
+[03:22] RSI good for trading the best way to use
+[03:24] RSI is as a mean reversion strategy like
+[03:27] the two first strategies in this video
+[03:29] you'd like to buy when the market is
+[03:31] oversold and the RSI readings are low
+[03:34] and you want to sell when the readings
+[03:36] are high it's a classical oversold and
+[03:38] overbought indicator the RSI indicator
+[03:41] can't predict the future but it
+[03:43] indicates the odds historically the RSI
+[03:46] indicator has worked well for certain
+[03:48] asset classes and thus RSI is good for
+[03:51] short-term trading second in which
+[03:53] markets do RSI work best that one is
+[03:56] easy to answer that is on stocks and
+[03:58] especially stock ETFs it's much less
+[04:01] efficient on other assets the reason is
+[04:03] simple the stock market is prone to mean
+[04:05] reversion meaning low RSI readings
+[04:08] signal better returns in the coming days
+[04:10] while high readings equal lower returns
+[04:13] than average most Western Stock markets
+[04:15] have been mean reverting over the last
+[04:17] 35 years although there is no guarantee
+[04:19] it continues being so third which RSI
+[04:23] settings work best that one is also easy
+[04:25] to answer the best setting is a look
+[04:27] back period of just a few days the two
+[04:30] and three day settings work best for
+[04:31] stocks also the best time frame is daily
+[04:34] bars even though weekly bars also work
+[04:36] fourth is RSI good for day trading no it
+[04:40] works best for swing trading using daily
+[04:42] bars or candlesticks fifth what is the
+[04:45] best combination with RSI RSI is more
+[04:47] powerful by adding one variable on our
+[04:50] website we have a couple of strategies
+[04:51] that add another indicator which makes
+[04:54] the strategy perform better that's all
+[04:56] for today but please don't forget all
+[04:58] next video about three mean reversion
+[05:01] strategies and please like And subscribe
+[05:04] if you like our material
+[05:06] thank you
+[05:10] [Music]

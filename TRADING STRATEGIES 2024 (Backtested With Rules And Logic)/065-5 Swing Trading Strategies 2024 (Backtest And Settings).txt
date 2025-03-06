@@ -1,0 +1,252 @@
+標題: 5 Swing Trading Strategies 2024 (Backtest And Settings)
+URL: https://www.youtube.com/watch?v=kWgUlIFAwqg&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:05:49
+
+=== 字幕內容 ===
+
+[00:00] is one video you won't want to miss
+[00:02] before we start we remind you that you
+[00:04] find our best strategies on our webpage
+[00:06] mind you even though the strategies in
+[00:08] this video are great they are not our
+[00:10] best okay let's get back to our five
+[00:12] free and proven swing strategies first
+[00:14] let's start by explaining swing trading
+[00:16] swing trading is a dynamic strategy that
+[00:18] involves holding a tradable asset for
+[00:20] one or more days with the aim of
+[00:22] profiting from price changes or swings
+[00:24] that's right we're talking about
+[00:25] capitalizing on short-term price
+[00:27] movements in this video we only look at
+[00:30] the stock market and we back test the
+[00:32] ETF that tracks S P 500 spy you can most
+[00:35] likely also trade the Futures Contract
+[00:37] unlike day trading where positions are
+[00:39] opened and closed within the same day
+[00:41] swing trading positions are held for
+[00:43] longer periods but not quite as long as
+[00:45] Buy and Hold investment strategies so
+[00:48] you get the best of both worlds the
+[00:50] potential for big gains without the
+[00:51] stress of constantly monitoring the
+[00:53] markets we aim to exploit the long-term
+[00:55] Rising Trend in the stock market but we
+[00:57] buy on short-term weakness and panics
+[00:59] the art shows you an example we want to
+[01:02] buy when the price deviates from the
+[01:04] longer Trend and sell when the market is
+[01:06] strong we buy weakness and sell strength
+[01:08] okay now let's jump to the trading rules
+[01:10] of our first strategy in the first
+[01:12] strategy we want to enter when the price
+[01:14] has dropped from a recent High we
+[01:16] calculate a band that is based on the 25
+[01:18] day average of the difference of the
+[01:20] daily highs and lows when spy closes
+[01:23] below the ban deducted from the 10-day
+[01:25] high and IBS is lower than 0.3 we go
+[01:29] long we have explained the IBS indicator
+[01:31] in a separate video which contains three
+[01:33] free strategies we also need to make a
+[01:36] rule for the exit because we want to
+[01:38] sell on strength to exploit the mean
+[01:39] reversion effect we sell when today's
+[01:41] close is above yesterday's high let's
+[01:44] show you a trade example the red line in
+[01:46] the chart shows the 10-day High the blue
+[01:49] line is calculated by using the average
+[01:51] range of high and low and deduct it from
+[01:53] the 10-day High the lower pain in the
+[01:55] chart shows the IBS indicator we buy
+[01:58] when spy closes below the blue line and
+[02:00] when the IBS indicator is below 0.3
+[02:03] green arrows show when we buy and red
+[02:05] arrows when we sell let's find out how
+[02:08] the strategy performed from 1993 until
+[02:10] today we've back tested the strategy and
+[02:13] Amy broker and our starting capital of
+[02:14] 100
+[02:15] 000 in year 1993 grows to 175 million in
+[02:19] 2023. this is an annual return of 10
+[02:22] slightly better than Buy and Hold
+[02:24] despite being invested just 18 percent
+[02:26] of the time because of less time spent
+[02:28] in the market the max drawdown is also
+[02:30] substantially lower at 23 percent versus
+[02:32] buy and holds 55 percent thus we might
+[02:35] also argue the risk-adjusted return is
+[02:37] 55 percent we calculate The
+[02:39] risk-adjusted Return by taking the
+[02:41] annual return of 10 percent and divide
+[02:43] it by zero eighteen which is the
+[02:45] percentage of time spent in the market
+[02:47] let's go to our second strategy for the
+[02:49] day and its trading rules we buy at the
+[02:51] close on Monday if the close is lower
+[02:53] for the second day in a row we exit when
+[02:55] the close is higher than yesterday's
+[02:57] high the name of the strategy is perhaps
+[02:59] better known as his turnaround Tuesday
+[03:01] because the market often rallies on
+[03:03] Tuesdays after a week Monday let's look
+[03:05] at some trade samples the green arrows
+[03:07] show Mondays where the closest down for
+[03:09] the second time in a row and the red
+[03:11] arrows are when we sell on strength all
+[03:13] five trades shown here are profitable
+[03:15] but it is of course not always the case
+[03:17] because trading also involves losing
+[03:19] trades let's look at the bigger picture
+[03:21] and look at the equity curve of the
+[03:23] strategy since 1994 until today a 100
+[03:27] 000 investment would have compounded
+[03:28] annually at 8.2 percent from 1993 until
+[03:31] today the equity curve Rises steadily
+[03:34] and the equity would have grown to 1.058
+[03:36] Million by today not too bad for such a
+[03:39] simple strategy there are 271 trades
+[03:42] that on average is invested just four
+[03:43] days thus making you invested just 11
+[03:45] percent of the time and hence avoiding
+[03:47] the worst drawdowns Max drawdown is at
+[03:50] only 16 percent again the risk-adjusted
+[03:52] return is very high at 74 percent let's
+[03:55] go to our third proven swing strategy we
+[03:57] buy spy when the close is lower than the
+[03:59] low of the pre previous five trading
+[04:01] days that's it we buy on a five day low
+[04:03] as usual we sell when the close ends
+[04:06] higher than yesterday's high in this
+[04:07] slide we see five trading examples all
+[04:10] of them winners obviously not all turn
+[04:12] out to be winners but the win rate is
+[04:14] very high as is typical for mean
+[04:16] reversion strategies if we look at the
+[04:19] equity curve of the strategy it's hard
+[04:21] not to be impressed of such a simple
+[04:22] strategy you started with one hundred
+[04:24] thousand in 1993 and end up with 1.4
+[04:27] million today despite being invested
+[04:29] just 21 percent of the time as you can
+[04:32] see the trading performance is really
+[04:34] good you are invested only 21 of the
+[04:36] time and you still get a return that
+[04:38] equals buy and hold you take advantage
+[04:40] of the ebb and flow in the market to get
+[04:42] a risk-adjusted return of 43 percent
+[04:44] again it shows that Simplicity works in
+[04:46] the stock market as a matter of fact
+[04:48] Simplicity trumps complexity let's go to
+[04:51] today's fourth strategy this one is a
+[04:53] bit different compared to the first
+[04:55] three because it's mainly based on
+[04:56] volatility and to a lesser extent mean
+[04:59] reversion these are the trading rules we
+[05:02] buy when today's range is lower than the
+[05:04] daily range the previous six trading
+[05:06] days and the close must be above the
+[05:09] 200-day moving average the 200-day
+[05:12] moving average serves as a trend filter
+[05:14] we only want to take trades when the
+[05:16] market is bullish yet again we exit when
+[05:19] today's close ends above yesterday's
+[05:21] high the Green Arrow shows a day when
+[05:23] the daily range is lower than the
+[05:24] previous six trading days and above the
+[05:27] 200-day moving average thus we go long
+[05:30] at the close the next day S P 500
+[05:33] rallies and the close is higher than
+[05:35] yesterday's high we exit at the close
+[05:37] for a nice 0.58 percent gain let's look
+[05:40] at how your Equity would have grown if
+[05:42] you traded all signals from 1993 until
+[05:44] today we start with a hundred thousand
+[05:46] USD in 1993 and let it compound until
+[05:48] today as you can see the equity shows an
+[05:51] upward slope there are a few setbacks
+[05:53] along the way but overall the strategy
+[05:54] performs pretty well the statistics are
+[05:57] not as good as the previous three
+[05:58] strategies but as you'll see at the end
+[06:00] of the video the strategy complements
+[06:02] the other strategies well let's go to
+[06:04] our last back-tested and proven swing
+[06:06] trading strategy our last strategy is
+[06:09] somewhat different than the others this
+[06:10] is a strategy we made six years ago and
+[06:13] it has lately worked better than ever
+[06:15] the trading rules are very simple
+[06:17] today's high must be higher than the
+[06:19] high of the last 10 days and the IBS
+[06:21] indicator must be below 0.15 if both are
+[06:25] true we buy the clothes we use the same
+[06:28] sell signal as in all the four other
+[06:29] strategies when the close is higher than
+[06:32] yesterday's high let's show you a few
+[06:34] trade examples the seven trades turn out
+[06:36] five profitable ones in our sample we
+[06:39] buy on a weekday when spy closes in the
+[06:41] bottom of its daily range but it still
+[06:43] managed to set a new 10-day High earlier
+[06:46] in the trading session the equity curve
+[06:48] is pretty good right it's the strategy
+[06:49] with the fewest trades but the slope is
+[06:51] up it was only 161 trades and the
+[06:54] average gain was 0.6 percent per trade
+[06:57] you were invested less than a week on
+[06:59] average and the annual return was 3.24
+[07:02] percent but that low number is due to
+[07:04] being invested only seven percent of the
+[07:06] time however the strategy has the lowest
+[07:08] drawdown at only eight percent we have
+[07:11] now presented you five free and proven
+[07:13] swing strategies but let's go on to do
+[07:15] the final back test of the day we trade
+[07:18] all strategies at the same time but we
+[07:20] allocate one hundred percent of the
+[07:21] equity to one position thus ignoring buy
+[07:24] signals if we already have a position
+[07:25] because we use the same sell signal in
+[07:28] all five strategies there are no
+[07:30] conflicts with the exits when we add all
+[07:32] five strategies we get a lot more trades
+[07:34] the trade sample shown here indicates
+[07:36] that you and some periods get many
+[07:38] trades but how do the five strategies
+[07:40] perform together let's back test and
+[07:42] find out your initial one hundred
+[07:44] thousand in 1993 would have grown to 5.3
+[07:47] million that's the beauty of compounding
+[07:49] returns it's snowballs remember the
+[07:51] scale on the right side is logarithmic
+[07:53] not linear and thus we see relative
+[07:55] changes the five strategies combined
+[07:58] would have had only three losing years
+[08:00] 2011 2015 and 2018 were the only losing
+[08:04] years perhaps better in bad years like
+[08:06] 2008 and 2022 for example the strategies
+[08:09] went on to make 20.9 and 14 18.3 percent
+[08:12] we can assure you it feels great to make
+[08:14] money when the market is down and our
+[08:15] strategies only trades from the long
+[08:17] side believe us a bear Market is not
+[08:19] only good for short strategies but also
+[08:21] short-term long trades tend to improve
+[08:23] because of the increased volatility
+[08:25] let's sum up the statistics for all five
+[08:27] strategies combined the 1131 trades
+[08:30] returned an average of 0.38 percent and
+[08:32] it amounts to a compounding return of
+[08:34] 14.1 percent that is significantly
+[08:36] better than Buy and Hold even though the
+[08:39] strategies in total are invested only
+[08:40] half the time this shows the power of
+[08:43] combining strategies and perhaps even
+[08:45] better the results can be improved but
+[08:48] that is for another video we stop here
+[08:50] for today and hope you like And
+[08:51] subscribe and visit our website to find
+[08:53] hundreds of other strategies for many
+[08:55] other asset classes good luck Trading

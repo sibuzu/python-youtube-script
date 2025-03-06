@@ -1,0 +1,99 @@
+標題: Golden Cross Trading Strategy (Guide+Backtest)
+URL: https://www.youtube.com/watch?v=okJHlykwQYo&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:06:03
+
+=== 字幕內容 ===
+
+[00:00] howdy howdy Traders today we have
+[00:01] something truly exciting in store for
+[00:03] you we'll be sharing a trading strategy
+[00:05] that I think you will be interested in
+[00:07] and excited about this particular
+[00:09] strategy is designed to not only
+[00:11] minimize your losses during bear markets
+[00:13] but also maximize your gains and bullish
+[00:15] ones at the end of the video we are also
+[00:18] sharing an additional system that will
+[00:20] complement this one perfectly but first
+[00:22] in this video we'll be taking a closer
+[00:24] look at the well-known Golden Cross
+[00:26] indicator and sharing our back testing
+[00:28] results on the S P 500 before we dive in
+[00:31] let's take a step back and make sure
+[00:33] we're all on the same page what exactly
+[00:36] is the Golden Cross indicator the Golden
+[00:38] Cross is a chart pattern in which a
+[00:40] short-term moving average crosses above
+[00:42] a long-term moving average typically the
+[00:45] Golden Cross uses the 50-day moving
+[00:47] average as the short-term moving average
+[00:49] and the 200-day moving average as the
+[00:51] long-term moving average we are going to
+[00:53] use this in our example today but why
+[00:55] would you use the Golden Cross indicator
+[00:57] well the stock market tends to be in a
+[00:59] long-term uptrend due to inflation and
+[01:01] productivity gains and the Golden Cross
+[01:03] strategy aims to exploit this upward
+[01:06] bias while reducing losses in Bear
+[01:08] markets in fact the Golden Cross can
+[01:10] help you stay out of a major bear market
+[01:11] and while the strategy is prone to
+[01:13] whipsaw signals the few Big Winners can
+[01:15] make up for it so how do you use the
+[01:17] Golden Cross indicator the rules are
+[01:19] simple when the 50-day moving average
+[01:21] crosses above the 200-day moving average
+[01:23] it signals a bullish breakout and you
+[01:26] buy conversely when the 50-day moving
+[01:28] average crosses below the 200-day moving
+[01:31] average it signals a bearish breakout
+[01:33] and you sell your position let's take a
+[01:35] look at a trade example in this example
+[01:37] the 50-day a moving average broke above
+[01:39] the 200-day moving average signaling a
+[01:42] bullish breakout you could have bought
+[01:43] the S P 500 in July 2020 at 28.67 and
+[01:47] ridden the trend until you sold in March
+[01:49] 2022 at 41.73 for a nice 32.4 percent
+[01:54] gain of course not all trades turn out
+[01:56] this well but how does the Golden Cross
+[01:58] strategy perform over the long term we
+[02:01] backtested the strategy on the S P 500
+[02:03] since 1960 and you can see the full
+[02:05] trade list here the strategy primarily
+[02:08] involves minimal activity resulting in a
+[02:10] small number of Trades specifically 32
+[02:12] in total each trade is held for
+[02:14] approximately 350 days we found that 78
+[02:18] percent of the trades were winners with
+[02:20] an average trade gain of 15.4 percent
+[02:22] and an annual return of 6.6 percent
+[02:24] while this doesn't beat buy and hold's
+[02:27] annual return of 6.9 percent we have to
+[02:29] consider that our strategy was only
+[02:31] invested 69 percent of the time however
+[02:33] the Golden Cross strategy had
+[02:35] substantially lower drawdowns compared
+[02:37] to buy and hold with only a 33 drawdown
+[02:40] versus buy and holds 56 percent thus the
+[02:43] risk-adjusted return is better at 9.5
+[02:46] percent which we calculated by dividing
+[02:48] the annual return of 6.6 by the time
+[02:51] spent in the market 0.69 so there you
+[02:54] have it a powerful trading strategy that
+[02:56] can help reduce your losses in Bear
+[02:58] markets and ride the bull markets if you
+[03:00] want to know the code we use for this
+[03:02] strategy you can find that and hundreds
+[03:04] of more on our website perhaps you want
+[03:07] even more trading and investing tips be
+[03:09] sure to check out our website
+[03:10] quantifiedstrategies.com where we have
+[03:12] plenty if you like this strategy you
+[03:14] will probably be as excited about this
+[03:16] system here our short-term nr7 strategy
+[03:19] don't forget to subscribe to our channel
+[03:21] for more trading insights and updates
+[03:23] thanks for watching

@@ -1,0 +1,71 @@
+標題: A SIMPLE Trading Strategy With A 91.03% Win Rate
+URL: https://www.youtube.com/watch?v=shgOIrJdj8s&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:06:25
+
+=== 字幕內容 ===
+
+[00:00] today we're looking at a strategy which
+[00:03] has a 91 win rate the name of the
+[00:06] strategy is triple RSI trading strategy
+[00:10] we called it RSI trading strategy
+[00:12] because it's based on the relative
+[00:14] strength indicator here you can see the
+[00:18] equity curve or the back test we did we
+[00:21] will come back to the back test
+[00:24] so what's the strategy about
+[00:26] well the trading strategy is about
+[00:29] exploiting pullbacks in the long-term
+[00:32] Rising Trend because the stock market
+[00:34] normally goes up because of inflation
+[00:37] and productivity gains
+[00:40] and here we have put in a chart for you
+[00:43] which shows the U.S stock market from
+[00:46] 1850 until today
+[00:49] however nothing is linear and as you can
+[00:52] see here you have
+[00:54] some panics along the way
+[00:57] and the strategy looks for short-term
+[00:59] pullbacks where we're invested just a
+[01:01] few days per trade
+[01:04] let's look at the trading rules so we
+[01:07] are interested in back testing the stock
+[01:09] market and as a proxy for the stock
+[01:11] market we use S P 500 and the ETF with
+[01:14] the ticker code spy
+[01:17] and this one is called spider
+[01:21] the trading rules are like this
+[01:24] the five-day RSI is below 30. the 5-day
+[01:29] RSI reading is down for the third day in
+[01:32] a row the five-day RSI was below 63
+[01:37] trading days ago and the close is higher
+[01:40] than the 200-day moving average
+[01:43] and the last rule is
+[01:46] we put in as a filter for Trend we only
+[01:50] want to have it when it's in a rising
+[01:52] Trend and the 200-day moving average is
+[01:56] pretty good at filtering this so the
+[01:58] exit is when the 5-day RSI is above 50.
+[02:03] let's look at a trade example
+[02:06] and you can see here this line which is
+[02:09] the 200-day moving average
+[02:12] and here you can see the the Green Arrow
+[02:15] which is a Buy Signal and the red arrow
+[02:18] which is the cell signal
+[02:21] now let's switch to Amy broker where we
+[02:24] did the back test here you can see the
+[02:27] trade list
+[02:29] so it's not many trades it's it's just
+[02:32] 78 78 trades over this time period
+[02:37] so let's end this video with the back
+[02:39] test results there are 78 trades since
+[02:42] 1993 so it's not money the average gain
+[02:46] per trade is 1.4 percent
+[02:49] 91 of the trades are winners and you are
+[02:52] invested on average just six days per
+[02:55] trade
+[02:56] so overall we would say this this is a
+[02:59] pretty good result
+[03:00] if you want more trading strategies we
+[03:02] have hundreds of them on our webpage
+[03:04] quantifiedstrategies.com

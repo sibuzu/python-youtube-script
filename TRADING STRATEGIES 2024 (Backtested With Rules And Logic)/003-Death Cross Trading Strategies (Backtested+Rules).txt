@@ -1,0 +1,125 @@
+標題: Death Cross Trading Strategies (Backtested+Rules)
+URL: https://www.youtube.com/watch?v=12al7KQInww&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:03:25
+
+=== 字幕內容 ===
+
+[00:00] welcome to this YouTube video about the
+[00:02] death cross trading strategy
+[00:04] we'll provide you with examples of death
+[00:06] crossers and the historical significance
+[00:08] of the death cross indicator strategy
+[00:12] how does the death cross indicator work
+[00:14] the death cross is a technical indicator
+[00:16] that strikes fear into the hearts of
+[00:18] Traders and for good reason it turns out
+[00:21] stick until the end if you want to find
+[00:23] out how much damage a death cross makes
+[00:25] it's accurate to pinpoint when you don't
+[00:28] get poor results by being invested in
+[00:30] stocks in this video we'll be exploring
+[00:33] what the death cross trading strategy
+[00:34] actually is how it works some death
+[00:37] cross examples and most importantly why
+[00:40] it signals a kiss of death for equities
+[00:43] while it doesn't signal a bearish market
+[00:46] it shows that you get poor returns after
+[00:48] a death cross so sit tight and get ready
+[00:50] to learn all about the death cross and
+[00:53] how to avoid getting caught in its
+[00:54] deadly grip
+[00:56] let's start with explaining what a death
+[00:58] cross is how to calculate it and how you
+[01:01] can identify this bearish indicator
+[01:04] a death cross involves two moving
+[01:06] averages one short and one long
+[01:09] when the short moving average crosses
+[01:11] below the long one a death cross is
+[01:13] formed
+[01:14] which time frame is used for the death
+[01:16] cross and is it a lagging or leading
+[01:18] indicator
+[01:19] we only use daily bars for the death
+[01:22] cross normally the 50 and 200-day moving
+[01:25] averages the death cross is a lagging
+[01:27] indicator meaning it reacts to events
+[01:29] after the price action has taken place
+[01:31] thus when the 50-day moving average the
+[01:35] red line breaks below the 200-day moving
+[01:37] average the Blue Line a death cross is
+[01:40] formed
+[01:41] let's move more systematically into the
+[01:43] death cross moving averages and back
+[01:45] test to see how accurate the trading
+[01:47] strategy and indicator is
+[01:50] so how well does it perform in a back
+[01:52] test
+[01:53] when we put in the trading rules in our
+[01:55] platform we get the following Equity
+[01:57] curve since 1960 for the death cross
+[01:59] pattern
+[02:01] okay so what are the implications of a
+[02:03] death cross indicator for the stock
+[02:04] market and how long does a death cross
+[02:07] typically last
+[02:09] the performance is flat indicating you
+[02:11] had made almost no money since 1960 even
+[02:14] though you're invested 30 percent of the
+[02:16] time and stocks have compounded at 10
+[02:19] annually
+[02:21] can we determine now if the death cross
+[02:23] can predict market downturns and how
+[02:25] often does the death cross occur
+[02:27] there have only been 32 death crosses
+[02:30] since 1960 but it proves that a death
+[02:32] cross is a temporary kiss of death for
+[02:35] equities which means it's a bad time for
+[02:37] stocks
+[02:38] what are the limitations of the death
+[02:40] cross indicator
+[02:42] the drawback of a death cross indicator
+[02:44] strategy is that it's not a sure thing
+[02:46] and you might want to be careful of
+[02:48] staying outside the stock market for a
+[02:50] long time because of the long-term
+[02:52] positive trend
+[02:53] is the death cross indicator more
+[02:56] effective in specific markets
+[02:58] you might wonder if the death cross
+[02:59] strategy can be applied to other asset
+[03:01] classes such as stocks ETFs
+[03:03] cryptocurrencies Bitcoin cfds Forex or
+[03:07] Futures and the answer is yes however
+[03:10] you need to back test each asset first
+[03:14] are there other indicators that
+[03:15] complement a death cross
+[03:17] not really the death cross is simple but
+[03:20] we've backtested other ideas and we've
+[03:22] not managed to improve it in trading
+[03:25] doing it simple is most of the time the
+[03:27] best thing to do
+[03:28] some readers might also wonder what the
+[03:30] historical success rate is for the death
+[03:32] cross indicator
+[03:34] despite being a signal of weak future
+[03:36] performance until the 50-day moving
+[03:38] average crosses the 200-day moving
+[03:40] average the success rate or win rate if
+[03:43] you like is pretty high at 75 percent
+[03:46] but this shows that success rate is not
+[03:49] really that relevant what matters is the
+[03:51] average gain per trade not success rate
+[03:54] the opposite of the death cross is the
+[03:56] golden cross a topic we've covered in
+[03:58] the next video coming up right after
+[03:59] this one
+[04:00] you might pay attention because the
+[04:02] Golden Cross is exactly what it says
+[04:05] namely golden
+[04:07] please like comment and subscribe if you
+[04:09] like this video and want more similar
+[04:11] videos it helps us grow our Channel
+[04:14] good luck Trading
+[04:17] foreign
+[04:22] [Music]

@@ -1,0 +1,82 @@
+標題: Martingale Trading Strategy (Backtest &amp; Rules)
+URL: https://www.youtube.com/watch?v=VlvO82W6QlA&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:05:13
+
+=== 字幕內容 ===
+
+[00:00] hey everyone welcome to Quantified
+[00:02] strategies today we're going to be
+[00:04] talking about the Martingale trading
+[00:06] strategy this is a popular strategy but
+[00:08] it's also very risky so before you use
+[00:11] it we want to make sure you understand
+[00:12] how it works and the risks involved
+[00:15] in this video we make a back-tested
+[00:18] example to show you how it works and why
+[00:20] it's not a good idea
+[00:22] the Martingale trading strategy is a
+[00:24] gambling strategy that involves doubling
+[00:26] your bed size after each loss the idea
+[00:29] is that if you keep doubling your bed
+[00:31] size you're eventually bound to win a
+[00:33] trade and recoup all your losses
+[00:36] let's say you start with a bed size of a
+[00:38] hundred dollars if you lose that trade
+[00:40] you double your bed size to 200 for the
+[00:43] next trade if you lose that trade too
+[00:45] you double your bet size again to 400
+[00:47] and so on
+[00:49] theoretically this strategy will work if
+[00:51] the probability of winning a trade is 50
+[00:53] percent
+[00:54] that means that you're just as likely to
+[00:57] win as you are to lose so if you keep
+[00:59] doubling your bed size you're eventually
+[01:01] bound to win a trade and recoup all your
+[01:03] losses
+[01:04] however there are a few problems with
+[01:06] this strategy in the financial markets
+[01:08] first the probability of winning a trade
+[01:10] is rarely fifty percent if you trade
+[01:12] long enough you'll have many losers in a
+[01:14] row even with the best strategies which
+[01:16] can wipe out your account
+[01:18] second even if you do win a trade you
+[01:20] may not recoup all of your losses this
+[01:23] is because you'll need to win a trade
+[01:25] that's twice as big as your biggest loss
+[01:27] in order to break even
+[01:29] so as the Martingale trading strategy a
+[01:31] good idea
+[01:32] let's make a practical example and back
+[01:35] test the trading strategy on s p 500. we
+[01:38] make the following trading rules to
+[01:40] create a base test to compare against
+[01:43] the strategy performs well and returns
+[01:45] 8.7 percent annually despite being
+[01:47] invested a small fraction of the time
+[01:50] now let's assume you want to change the
+[01:52] strategy so that you employ only 33
+[01:55] percent of your Equity when the 4-day
+[01:57] RSI crosses below 30 and you add the
+[02:00] rest 66 percent when it crosses below
+[02:02] 20.
+[02:03] this is Martingale in practice
+[02:06] at least for one doubling
+[02:08] unfortunately it gets worse as the chart
+[02:11] indicates compared to the original
+[02:12] strategy the total gain is reduced see
+[02:15] the right chart because less capital is
+[02:18] put to use they're on the sidelines
+[02:19] waiting to get martingaled and a few
+[02:22] rare losers make losses bigger you get
+[02:26] the worst of both
+[02:27] so to sum up the Martingale strategy is
+[02:30] a bad idea for Traders it's a very risky
+[02:33] strategy that can easily wipe out your
+[02:34] account and you need to have capital on
+[02:37] the sidelines waiting
+[02:38] you better look for another approach to
+[02:40] make money Martingale was meant for
+[02:42] gambling and that's where it belongs

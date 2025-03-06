@@ -1,0 +1,43 @@
+標題: Gold Trading Strategy (Rules &amp; Backtest)
+URL: https://www.youtube.com/watch?v=mic1SPbN7cA&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:05:55
+
+=== 字幕內容 ===
+
+[00:03] would you like to make money in
+[00:05] strategies that are invested less than
+[00:07] 24 hours in this video we'll show you a
+[00:10] strong positive trading Edge in gold and
+[00:12] the gold minor sector it happens from
+[00:15] the close until the open the next day
+[00:18] let's show you how this chart shows the
+[00:21] equity curve of GDX the ETF that tracks
+[00:24] gold miners when you're invested from
+[00:26] the close until the next open the upward
+[00:29] slope is pretty
+[00:30] stable opposite if you buy at the open
+[00:33] and sell at the close the same day you
+[00:36] lose money likewise we see the same
+[00:38] pattern in GLD the ETF that tracks the
+[00:41] gold price this chart shows the gains
+[00:44] from the close until tomorrow's open the
+[00:47] gains have beaten by and hold because
+[00:49] the return from the open to the close
+[00:51] have been slightly negative the
+[00:53] overnight Edge is not big enough to be
+[00:55] tradable on its own but it's an edge and
+[00:58] a great starting point if you add one or
+[01:00] two other variables you might have
+[01:02] something that works for example we made
+[01:05] the following gold overnight strategy
+[01:07] for GL by adding two
+[01:09] variables the strategy shows a rising
+[01:12] slope and has been consistent for almost
+[01:14] two decades these are the kind of
+[01:17] strategies that we provide to our paying
+[01:19] subscribers so please have a look at our
+[01:21] web page if this is of interest to you
+[01:24] that's all for today if you like this
+[01:25] video please like And subscribe good
+[01:28] luck Trading

@@ -1,0 +1,58 @@
+標題: Coppock Curve Trading Strategy (Backtest &amp; Rules)
+URL: https://www.youtube.com/watch?v=tnUZLLUGpo8&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:06:27
+
+=== 字幕內容 ===
+
+[00:00] the Copic curve strategy a 60-year-old
+[00:02] investment secret revealed have you ever
+[00:04] heard of the Copic curve strategy it's a
+[00:06] little known investment strategy that's
+[00:08] been around for over 60 years and it has
+[00:10] a track record of success it was
+[00:13] invented by an economist named Copic
+[00:15] hence the name in the 1960s in this
+[00:18] video we're going to reveal the secret
+[00:19] to the Copic curve strategy and show you
+[00:21] how to use it to generate profits in the
+[00:23] stock Mark what is the Copic curve
+[00:25] strategy the Copic curve strategy is a
+[00:28] momentum indicator that's used to
+[00:30] identify long-term trends in the stock
+[00:32] market it's calculated using a weighted
+[00:34] moving average of two sum of two
+[00:36] different rate of change values 11 and
+[00:38] 14 Copic chose these two rate of change
+[00:41] values because he believed that they
+[00:43] represented the two different stages of
+[00:45] a market cycle the early uptrend and the
+[00:47] late uptrend let's look at the trading
+[00:50] rules of the Copic curve strategy the
+[00:52] Copic curve strategy is very simple to
+[00:54] use one buy when the Copic curve crosses
+[00:57] above its 10-month moving average two
+[00:59] sell when the Copic curve crosses below
+[01:02] its 10-month moving average however if
+[01:04] you want to know more about the trading
+[01:05] rules please click on the link below
+[01:07] this video let's look at the performance
+[01:10] we back tested the Copic curve strategy
+[01:12] on the S&P 500 Index from 1960 to 2023
+[01:16] the results were good the strategy
+[01:18] generated an average annual return of
+[01:21] 6.11% which is slightly lower than the
+[01:23] S&P 500's average annual return of
+[01:27] 7.03% however the Copic curve strategy
+[01:30] had a much lower maximum draw down
+[01:33] 3.16% versus 52.5 6% and a higher risk
+[01:37] adjusted return
+[01:39] 8.29% versus
+[01:42] 7.03% conclusion the Copic curve
+[01:44] strategy is a simple and effective
+[01:46] investment strategy that can help you
+[01:48] generate profits in the stock market
+[01:50] while reducing your risk if you're
+[01:52] looking for a long-term investment
+[01:54] strategy we recommend checking out the
+[01:56] Copic curve strategy

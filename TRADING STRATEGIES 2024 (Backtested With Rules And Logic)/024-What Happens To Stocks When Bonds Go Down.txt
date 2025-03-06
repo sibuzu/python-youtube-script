@@ -1,0 +1,104 @@
+標題: What Happens To Stocks When Bonds Go Down?
+URL: https://www.youtube.com/watch?v=Dw1pit-dC8Y&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:04:12
+
+=== 字幕內容 ===
+
+[00:00] what happens to stocks when bonds go
+[00:02] down in this video we'll show you a
+[00:04] proven and back-tested strategy based on
+[00:06] the relationship between bonds and
+[00:07] stocks you'll find out what happens to
+[00:09] stocks when bonds go down however before
+[00:12] we dive into the details of this
+[00:13] back-tested approach let's first explore
+[00:15] why it's crucial for stock investors to
+[00:17] keep a close eye on the bond market
+[00:19] Financial Theory revolves around the
+[00:21] relationship between stocks and interest
+[00:23] rates because interest rates determine
+[00:25] the value of stocks High interest rates
+[00:27] discourage investors from owning risky
+[00:29] assets like stocks unless they are
+[00:31] adequately compensated for taking on
+[00:33] that risk conversely when interest rates
+[00:36] decline it becomes more attractive to
+[00:38] own riskier assets like stocks gold and
+[00:41] Bitcoin let's take a quick look at bonds
+[00:43] a bond pays the same coupon annually
+[00:46] until it matures for example a bond with
+[00:48] a five percent coupon pays five percent
+[00:50] each year until it matures which could
+[00:52] be 20 years or more however during the
+[00:55] Bond's life interest rates fluctuate
+[00:57] significantly if interest rates decrease
+[00:59] the 5 percent coupon becomes more
+[01:01] attractive and investors bid up the
+[01:03] bonds price to reflect the falling rates
+[01:05] as a result stocks and interest rates
+[01:07] have an inverse relationship it's worth
+[01:10] noting that stocks are riskier than
+[01:11] bonds this is because if a company goes
+[01:14] bankrupt bondholders receive their money
+[01:16] back before Equity holders therefore
+[01:18] bonds are less risky than stocks our
+[01:21] hypothesis is that a falling bond market
+[01:23] is not good for stocks because interest
+[01:25] rates rise which makes it less
+[01:27] attractive to own stocks let's back test
+[01:29] what happens to stocks when bonds go
+[01:31] down we are long stocks spy when bonds
+[01:34] TLT are below the end-day moving average
+[01:36] and we sell when it's above the end day
+[01:39] moving average for example when TLT
+[01:41] crosses below its 15-day moving average
+[01:43] we buy spy at the close when the close
+[01:46] of TLT crosses above its 15-day moving
+[01:49] average we sell spy and are out of the
+[01:50] market until TLT later crosses below its
+[01:53] 15-day moving average what are spy and
+[01:55] TLT spy is the ETF that tracks the S P
+[01:58] 500 and TL T is the ETF that tracks U.S
+[02:02] 20-year treasury bonds when TLT goes up
+[02:04] in price the interest rates go down and
+[02:06] vice versa to conduct our back testing
+[02:08] We performed an optimization test that
+[02:10] involved analyzing a range of moving
+[02:12] averages from five days up to 100 days
+[02:14] in intervals of five days this resulted
+[02:17] in a total of 20 back tests here are the
+[02:19] results the First Column displays the
+[02:22] number of days in the moving average
+[02:23] while the subsequent columns show the
+[02:25] trading outcomes for each specific
+[02:27] number of days in the moving average the
+[02:29] third column is particularly significant
+[02:31] as it indicates the average gain per
+[02:33] trade notably the average is listed in
+[02:36] column 3 were lower for all rows
+[02:38] compared to any random day let's look at
+[02:40] a specific back test we chose the 15-day
+[02:43] moving average this is what the equity
+[02:45] curve looks like from 2003 as you can
+[02:47] see spy's performance is weak spy
+[02:49] increased 9.8 percent annually in this
+[02:51] period and our strategy returned less
+[02:53] than one percent annually in our
+[02:55] analysis we conducted 355 trades with an
+[02:57] average gain of zero to row 16 percent
+[02:59] per trade an annual return of 0.86
+[03:02] percent and a maximum drawdown of 50
+[03:04] percent so we can conclude that we
+[03:06] hardly make money in stocks when bonds
+[03:08] go down interestingly when we reverse
+[03:10] the buy and sell signals we observed
+[03:12] much better results however we'll delve
+[03:15] into that further in our next video
+[03:16] where we explore the effects of rising
+[03:18] Bond markets on stocks stay tuned we
+[03:21] stop here for today and hope you like
+[03:22] And subscribe and visit our website to
+[03:24] find hundreds of other strategies for
+[03:26] many other asset classes good luck
+[03:28] Trading

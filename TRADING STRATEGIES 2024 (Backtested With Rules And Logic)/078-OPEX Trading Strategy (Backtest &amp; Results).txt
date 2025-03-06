@@ -1,0 +1,179 @@
+標題: OPEX Trading Strategy (Backtest &amp; Results)
+URL: https://www.youtube.com/watch?v=sDOfLm6Y6G4&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:06:18
+
+=== 字幕內容 ===
+
+[00:00] welcome to Quantified strategies
+[00:03] today we're talking about the options
+[00:05] expiration week effect often abbreviated
+[00:07] Opex week and the term we'll mostly use
+[00:10] in this video
+[00:11] what is it when is it and can you make
+[00:13] money during this week
+[00:15] stick around and we'll answer all these
+[00:17] questions for you in this video that
+[00:19] contains three back-tested trading
+[00:21] strategies
+[00:22] by the way we're always working hard to
+[00:24] create new and exciting content so your
+[00:26] likes and subscriptions really help us
+[00:28] up
+[00:29] let's start by showing the performance
+[00:31] of s p 500 during any Opex week
+[00:34] as a proxy for S P 500 we use the ETF
+[00:37] with the ticker code spy
+[00:40] the trading rules are simple
+[00:42] we buy the Monday open of the Opex week
+[00:44] and we sell at the close of the Opex day
+[00:48] the result is not a straight line but
+[00:50] it's sloping upwards by being invested
+[00:53] only during the options expiration week
+[00:55] you more than double your Capital over
+[00:57] the period you made 153 percent
+[01:01] the cagr which is the compound annual
+[01:03] growth rate during the options
+[01:05] expiration week is 3.1 percent and the
+[01:08] average gain is 0.3 percent per week
+[01:10] higher than any other random week
+[01:13] based on this we can argue that there is
+[01:15] an Opex weak effect
+[01:17] keep in mind that you're invested only
+[01:19] around 18 of the time and the average
+[01:21] number of bars in a trade is slightly
+[01:23] less than five while it may not be a
+[01:26] Surefire way to get rich quick it's
+[01:28] still a promising option in our opinion
+[01:30] so there you have it folks our back test
+[01:32] confirms that there's an options
+[01:34] expiration week effect and while it's
+[01:36] not a standalone strategy it can be used
+[01:38] in conjunction with other parameters to
+[01:40] make profitable trades
+[01:42] we'll now show you an example of a
+[01:44] strategy that's based on the options
+[01:46] expiration week but has one added
+[01:48] variable but before we continue let's
+[01:51] briefly explain what the options
+[01:52] expiration week is all about
+[01:54] once a month us options expire on the
+[01:57] third Friday of the month because
+[01:59] options have a finite life they stop
+[02:01] trading at certain dates
+[02:03] this chart illustrates the OPEC cycle
+[02:05] it's the countdown to each Opex day
+[02:08] options expire because they're
+[02:10] derivatives and they stop Trading
+[02:13] some Traders will lose money some will
+[02:15] gain and the last trading days leading
+[02:17] up to the third Friday of the month can
+[02:18] sometimes be nerve-wracking for those
+[02:20] Traders involved this creates
+[02:22] opportunities because Traders need to
+[02:24] reconsider their positions
+[02:26] because of this trading activity and
+[02:28] options can have a direct and measurable
+[02:30] effect on stock prices especially on the
+[02:33] last trading day before expiration
+[02:34] something called pen risk
+[02:37] now let's show you a specific Opex
+[02:39] trading strategy that only takes trades
+[02:41] on the Monday open of an options
+[02:43] expiration week and exits at the close
+[02:45] of the Opex day
+[02:47] however we've added one extra simple
+[02:49] rule but the strategy is exclusive for
+[02:52] our paying members and subscribers the
+[02:54] strategies for the ETFs with the ticker
+[02:56] codes XLV and xlu which are defensive
+[02:59] Healthcare and utility stocks
+[03:02] as you can see the performance is good
+[03:04] with an upward sloping Equity curve the
+[03:07] annual returns are 4.5 percent despite
+[03:09] being invested less than 10 percent of
+[03:11] the time
+[03:12] the average gain per trade is 0.72
+[03:15] percent which provides a huge margin of
+[03:17] safety for slippage and commissions
+[03:19] which are very low for such liquid
+[03:20] instruments
+[03:22] let's show a third and last options
+[03:24] expiration week strategy the performance
+[03:26] on the Opex day
+[03:28] the trading rules are simple we short
+[03:30] spy at the open of any options
+[03:32] expiration day and we cover at the close
+[03:34] this is a day trade and shows that the
+[03:37] Opex day is a pretty consistent losing
+[03:39] day for the Bulls the average gain for
+[03:42] this short trade is 0.16 percent and it
+[03:44] can be improved by adding a variable
+[03:46] however that's for another video
+[03:48] we've shown you three back-tested
+[03:50] trading strategies based on the options
+[03:52] expiration week effect that said if you
+[03:55] want to trade during the options
+[03:56] expiration day or week you might want to
+[03:58] get a better understanding of what's
+[03:59] happening and why Thus We've provided
+[04:02] some frequently asked questions
+[04:04] what happens when a call option expires
+[04:07] an option resides within two states in
+[04:10] the money or out of the money
+[04:12] in the out of money scenario the option
+[04:14] reaches its expiration with no value
+[04:16] resulting in a loss of the initial
+[04:18] investment for the owner conversely the
+[04:21] seller retains the premium in this
+[04:22] situation
+[04:24] when the stock price surpasses the
+[04:26] strike price prior to the call options
+[04:27] expiration the option holder has the
+[04:30] choice to either execute the option
+[04:31] acquiring the underlying shares or to
+[04:34] sell the calls within the market
+[04:37] what is penresk pen risk comes from the
+[04:40] uncertainty surrounding the potential
+[04:42] exercise or assignment of an options
+[04:43] contract this occurs specifically when
+[04:46] the expiration price of the underlying
+[04:48] security aligns closely with the option
+[04:50] strike price
+[04:51] this phenomenon is termed pinning a
+[04:54] stripe
+[04:55] for instance if the XYZ stock concludes
+[04:57] at 50 upon expiration the strike price
+[05:00] of fifty dollars would be considered
+[05:02] penned
+[05:04] what is quadruple witching day
+[05:07] quad witching day is when all derivative
+[05:09] contracts expire all options and Futures
+[05:11] contracts expire on this particular day
+[05:13] this is in March June September and
+[05:16] December four times per year
+[05:19] is the Opex day a volatile day yes for
+[05:23] example this chart shows the volatility
+[05:25] of any random day Opex day and quadruple
+[05:28] witching day these statistics show that
+[05:30] quadruple days are the most volatile
+[05:32] followed by Opex days and random days
+[05:36] can options be exercised after hours no
+[05:39] exercising beyond the official trading
+[05:42] hours is not possible nevertheless there
+[05:45] might be a possibility if your broker
+[05:46] grants such an allowance however
+[05:48] exercise caution as trading activity
+[05:51] tends to be limited outside these
+[05:52] designated hours
+[05:55] do options expire at open or close
+[05:58] in the U.S it's done at the close not at
+[06:00] the open at the expiration day however
+[06:03] OTC options might have different
+[06:05] expiration times
+[06:07] that was all for today and we hope you
+[06:09] like it and stay tuned for the next
+[06:11] video coming up showing three profitable
+[06:13] trading strategies and by the way don't
+[06:15] forget to subscribe and like so we can
+[06:17] keep delivering free videos

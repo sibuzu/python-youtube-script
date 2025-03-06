@@ -1,0 +1,73 @@
+標題: Williams %R Strategy: (Rules Revealed + Backtest))
+URL: https://www.youtube.com/watch?v=7hrpH-b_2es&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:03:47
+
+=== 字幕內容 ===
+
+[00:00] Williams percentage R the best trading
+[00:03] indicator hey guys Welcome to our
+[00:05] Channel today we're going to be talking
+[00:07] about the Williams percentage R trading
+[00:09] strategy an indicator that's proven to
+[00:11] work in the stock market we'll show you
+[00:14] how and back it by years of back testing
+[00:17] results so if you're looking for a
+[00:19] trading strategy that might help you
+[00:20] make some money the Williams percentage
+[00:22] R trading strategy is a great option to
+[00:25] consider what is Williams percentage R
+[00:29] Williams percentage jar is a technical
+[00:31] indicator that measures the current
+[00:32] close relative to the highest high over
+[00:35] a recent period of time it's calculated
+[00:38] using the following formula on the
+[00:41] screen the indicator ranges from 0 to
+[00:44] minus 100 the reading of zero indicates
+[00:46] that the price is at the highest of the
+[00:48] look back period while a reading of
+[00:50] minus 100 indicates that the price is at
+[00:53] the lowest low of the look back
+[00:55] period how do you use the Williams
+[00:57] percentage R Williams percentage R can
+[01:00] be used to identify overbought and
+[01:02] oversold conditions in the market a
+[01:05] reading above minus 20 is considered
+[01:07] overbought while a reading below minus
+[01:09] 80 is considering
+[01:11] oversold however you need to back test
+[01:13] to find the hot spot of the best look
+[01:15] back period and the best thresholds for
+[01:17] when to buy and
+[01:19] sell let's look at an example of a 2-day
+[01:22] Williams percentage R trading strategy
+[01:25] we use the following trading rules on a
+[01:27] two-day look back period one we enter a
+[01:30] long position when the indicator crosses
+[01:32] below -90 to exit the long position when
+[01:35] the indicator crosses above -30 or when
+[01:38] the close is higher than yesterday's
+[01:41] high we back test S&P 500 from 1993
+[01:45] until today the results show that the
+[01:48] Williams percentage R trading strategy
+[01:50] generated an annual return of 11.5% over
+[01:53] 580 trades which is pretty impressive
+[01:57] this is better than Buy and Hold despite
+[01:59] being invested just 22% of the time
+[02:01] because you're mostly on the sidelines
+[02:03] Max draw down is a moderate
+[02:06] 177% however keep in mind that slippage
+[02:08] and commissions are not included worth
+[02:11] noting is that the strategy performed
+[02:13] particularly well during the financial
+[02:14] crisis of 2008 and the co 19 pandemic in
+[02:19] 2008 the strategy returned
+[02:22] 98.9% and in 2020 it returned
+[02:26] 43.3% what about 2022 when stock markets
+[02:29] dropped yet again it performed well with
+[02:31] a
+[02:32] 15.7% return We believe that the
+[02:35] Williams percentage R trading strategy
+[02:37] is a simple but effective way to trade
+[02:39] the stock
+[02:41] markets

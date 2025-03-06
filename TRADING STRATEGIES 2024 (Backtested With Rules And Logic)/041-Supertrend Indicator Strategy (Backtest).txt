@@ -1,0 +1,93 @@
+標題: Supertrend Indicator Strategy (Backtest)
+URL: https://www.youtube.com/watch?v=PvPsrjGW2tI&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:04:52
+
+=== 字幕內容 ===
+
+[00:01] the super Trend indicator has a
+[00:03] promising name does it live up to its
+[00:05] name and can we make a profitable super
+[00:08] Trend indicator
+[00:09] strategy our back test reveals that the
+[00:12] indicator can catch most of the returns
+[00:14] while avoiding the worst draw Downs thus
+[00:16] giving good risk adjusted
+[00:18] returns let's show you what the super
+[00:21] Trend indicator is and how it performs
+[00:24] as you can see on the screen its
+[00:25] performance has been pretty good first
+[00:28] off what is the super trend indicator
+[00:30] the super Trend indicator is a trend
+[00:32] following indicator and its trading
+[00:34] rules are simple the chart on the screen
+[00:37] shows how the super Trend indicator
+[00:39] works when the price is above the
+[00:41] indicator you're long and you sell or
+[00:43] reverse when it drops below before we
+[00:46] present the trading rules in our back
+[00:48] test let's briefly explain how the super
+[00:51] Trend indicator is
+[00:52] calculated the indicator consists of a
+[00:55] median price added and deducted the
+[00:57] average true range of a specific look
+[00:59] back period period despite using two
+[01:02] bands the supertrend indicator has only
+[01:04] one signal line this is because the
+[01:07] lower band can't decrease and the upper
+[01:09] Band Can't increase thus the super Trend
+[01:12] indicator takes on the values of both
+[01:14] the lower and upper bands
+[01:16] alternatively when the close of a bar
+[01:19] crosses the value of the super Trend
+[01:21] indicator from the previous period the
+[01:23] indicator begins to follow the opposite
+[01:24] band leading to a reversal in the trend
+[01:27] a trade example is shown on the screen
+[01:30] for S&P
+[01:31] 500 the Buy Signal was triggered on the
+[01:34] 29th of May 2020 at 3044 and the sell
+[01:38] signal triggered on the 21st of January
+[01:40] 2022 at
+[01:42] 4397 resulting in a nice gain of
+[01:46] 44% because the indicator is quite
+[01:48] technical we recommend reading our
+[01:50] linked article below the video for
+[01:52] further
+[01:53] explanation the super trend is a trend
+[01:55] following indicator and it requires a
+[01:57] long-term mindset we've backed tested it
+[02:00] using short-term data but it works best
+[02:02] on very long time frames let's show you
+[02:05] a super Trend trading strategy with
+[02:07] specific trading rules we buy when the
+[02:10] price breaks above the indicator and
+[02:12] sell when it closes below we use weekly
+[02:15] bars with a 10 bar look back period and
+[02:17] a multiplier of three you can of course
+[02:20] try other values and we strongly
+[02:22] encourage you to back test yourself we
+[02:25] have the code for the indicator on our
+[02:26] web page we back test SN P 500 from 1960
+[02:31] until today and it Returns the equity
+[02:33] curve shown on the screen 100,000
+[02:36] invested in 1960s worth almost 4 million
+[02:40] today it's only 38 trades since 1960 so
+[02:43] it doesn't trade often the annual return
+[02:45] is almost 6% not considering reinvested
+[02:49] dividends please note that Max draw down
+[02:51] is significantly lower compared to buy
+[02:53] and hold 24% versus
+[02:56] 56% because you're invested only 63% of
+[03:00] the time we might argue that the risk
+[03:01] adjusted return is
+[03:03] 9.4% significantly higher than buy and
+[03:06] hold of about
+[03:08] 7% we calculated risk adjusted return by
+[03:11] dividing the annual return by the time
+[03:13] spent in the market it's a simple
+[03:15] formula but we believe it's a very good
+[03:17] proxy for risk and
+[03:19] return that's all for today and good
+[03:21] luck trading and
+[03:25] investing

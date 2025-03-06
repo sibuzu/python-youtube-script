@@ -1,0 +1,98 @@
+標題: Bullish Harami Candlestick: Definition, Trading Backtest
+URL: https://www.youtube.com/watch?v=NWK8JPbD2P0&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:04:45
+
+=== 字幕內容 ===
+
+[00:01] today we're diving into the world of
+[00:03] technical analysis with a look at the
+[00:04] bullish harami Candlestick pattern this
+[00:07] pattern can be a helpful tool for
+[00:09] identifying potential reversals in the
+[00:11] downtrend we described the pattern and
+[00:14] we back test it on the S&P 500 how
+[00:17] profitable is the bullish harami stick
+[00:19] to the end and you'll find
+[00:21] out what is the bullish harami the
+[00:24] bullish harami is a two candle pattern
+[00:26] that appears during a
+[00:28] downtrend the first Candlestick is a big
+[00:31] bearish candle with a long red body
+[00:33] signifying strong selling pressure this
+[00:36] is followed by a small bullish candle
+[00:38] often a dogee which is completely
+[00:40] engulfed by the body of the first candle
+[00:43] the dogee represents indecision in the
+[00:45] market with the opening and closing
+[00:47] prices being very
+[00:49] close how do you identify a bullish
+[00:52] harami you identify a bullish harami by
+[00:55] following this breakdown one downtrend
+[00:58] the pattern should appear during a down
+[01:00] Trend where the price has been generally
+[01:02] falling two large bearish candle the
+[01:06] first candle is a big black candle
+[01:08] showing strong selling pressure three
+[01:11] small bullish candle the second candle
+[01:14] is a small candle often a DOI completely
+[01:16] contained within the body of the first
+[01:19] candle what does a bullish harami mean
+[01:23] the bullish harami suggests a potential
+[01:25] reversal in the downtrend the large
+[01:27] bearish candle represents the Bears
+[01:29] sellers in control however the small
+[01:32] bullish candle especially if it's a doe
+[01:35] indicates indecision and a possible
+[01:37] shift in
+[01:38] momentum the Bulls buyers might be
+[01:40] starting to step in here are some things
+[01:43] to keep in mind about the bullish harami
+[01:46] confirmation the bullish harami alone
+[01:48] isn't a guaranteed reversal signal of
+[01:50] course you might want to look for
+[01:52] confirmation such as a price move higher
+[01:54] on the next candle to strengthen the
+[01:56] bullish case false signals like any
+[02:00] technical indicator the bullish harami
+[02:02] can provide false signals the market
+[02:04] doesn't always follow these
+[02:06] patterns combine with other tools use
+[02:09] the bullish harami in conjunction with
+[02:11] other technical indicators and Analysis
+[02:13] for a more well-rounded trading strategy
+[02:16] for example the RSI indicator can you
+[02:19] make money on the bullish harami there's
+[02:22] only one way to find out if you can make
+[02:23] money on the bullish harami and that's
+[02:25] by back testing we coded the bullish
+[02:27] harami and made the following Trading
+[02:29] rul rules a bullish arami is formed and
+[02:32] the 5day RSI level is below 40 if both
+[02:36] are true then we buy at the close and
+[02:38] hold for end days we include the RSI
+[02:41] rule because we want to buy in a
+[02:43] downtrend when we apply the trading
+[02:45] rules on the S&P 500 from 1993 until
+[02:48] today we get the tables shown on the
+[02:50] screen for example the first column in
+[02:53] row 10 shows that the average gain per
+[02:55] trade is 0.95% if you sell after 10
+[02:58] trading days something which is about
+[03:00] twice the return on any random period of
+[03:02] the same length if you sell after 10
+[03:05] trading days you get the equity curve on
+[03:07] the screen it's not a straight line but
+[03:09] it's
+[03:10] decent what is the win rate of the
+[03:12] bullish harami the win rate is from 55
+[03:15] to 70% depending on the holding time the
+[03:18] longer you hold the better the win rate
+[03:20] which happens because of the rising
+[03:21] stock prices over time in the comments
+[03:24] below let us know what other Candlestick
+[03:26] patterns you'd like to learn
+[03:28] about if you found this video helpful
+[03:30] leave a like And subscribe for more
+[03:32] content on similar trading strategies
+[03:34] and chart patterns

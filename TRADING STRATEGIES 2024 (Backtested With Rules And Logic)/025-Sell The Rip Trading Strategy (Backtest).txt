@@ -1,0 +1,54 @@
+標題: Sell The Rip Trading Strategy (Backtest)
+URL: https://www.youtube.com/watch?v=EHj846zWHLY&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:04:14
+
+=== 字幕內容 ===
+
+[00:01] the financial Market Moves In Waves it
+[00:04] rises and Falls which is why you hear
+[00:05] slogans like buy the dip and sell the
+[00:08] rip today we focus on the sell the rip
+[00:12] trading strategy and show you how you
+[00:13] can improve a trading strategy by using
+[00:15] an improved sell the rip signal let's
+[00:18] start by showing you a typical mean
+[00:20] reversion trading strategy when the
+[00:23] 3-day RSI drops below 30 we go long and
+[00:27] we sell when it reaches 70 when we back
+[00:30] test this strategy on S&P 500 we get the
+[00:32] following Equity curve since 1993 until
+[00:36] today the 391 trades return 61% per
+[00:41] trade but the growth is pretty erratic
+[00:43] with many huge draw Downs draw Downs
+[00:46] reached 35% twice and most Traders would
+[00:49] abandon the strategy by then thus it's
+[00:51] not
+[00:52] tradable we believe we can improve the
+[00:54] strategy by implementing a sell signal
+[00:57] that's slightly better at selling the
+[00:59] rip this is a sell signal we've used
+[01:01] ourselves for two decades and aims to
+[01:04] sell a stock when its price has risen to
+[01:06] a level considered
+[01:07] overvalued we change the sell signal and
+[01:10] sell when the close ends higher than
+[01:12] yesterday's high the new sell the rip
+[01:15] signal improves the strategy a lot as
+[01:18] you can see both returns and draw Downs
+[01:20] improve compared to the original trading
+[01:22] strategy only twice are draw Downs more
+[01:24] than 20% Which is a huge Improvement the
+[01:28] annual return is almost as good as Buy
+[01:30] and Hold but you're invested only 27% of
+[01:33] the time based on this we argue this is
+[01:35] a good trading strategy unfortunately
+[01:38] the sell the rip trading strategy
+[01:40] doesn't work for all markets for example
+[01:43] for Commodities in Forex it's been
+[01:45] inefficient those markets tend to Trend
+[01:47] more than stocks and you'll often end up
+[01:49] selling prematurely a back test normally
+[01:52] solves the best approach for each market
+[01:55] good luck
+[01:57] Trading

@@ -1,0 +1,223 @@
+標題: 3 Bollinger Band Trading Strategies (+Backtest)
+URL: https://www.youtube.com/watch?v=ZErni3FA24w&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:05:20
+
+=== 字幕內容 ===
+
+[00:00] are you tired of using trading
+[00:01] indicators that don't work
+[00:03] do you want to learn how to trade with
+[00:05] one of the most powerful and versatile
+[00:06] tools available
+[00:08] in this video you'll discover everything
+[00:10] you need to know about Bollinger Bands
+[00:12] what they are how they work how you can
+[00:15] use it its best settings how accurate
+[00:18] the indicator is the best trading rules
+[00:20] and all backed by back tests we also
+[00:23] include how to avoid the biggest mistake
+[00:25] Traders make and three practical trading
+[00:27] techniques that can help you identify
+[00:29] explosive moves time your entries and
+[00:32] ride Trends in the market
+[00:33] welcome to Quantified strategies
+[00:36] in this video we are going to show you
+[00:38] how to use the Bollinger Bands one of
+[00:40] the most popular trading indicators and
+[00:42] used by Traders all around the world
+[00:44] Bollinger Bands are used to identify
+[00:46] Trends measure volatility and find
+[00:49] potential breakouts in the market the
+[00:51] bands can also be used for mean
+[00:53] reversion strategies as you will learn
+[00:55] there are many ways you can use the
+[00:57] indicator we will dive into a few
+[00:59] practical trading techniques that we
+[01:00] hope can help you improve your results
+[01:02] and take your trading to a higher level
+[01:04] we also present you a very profitable
+[01:06] Bollinger band mean reversion strategy
+[01:08] for S P 500 at the end of the video to
+[01:12] understand Bollinger Bands you need to
+[01:14] know that they have three components the
+[01:16] middle band which is a simple end day
+[01:18] moving average for example 10 days on
+[01:20] both sides of the moving average there
+[01:22] are two bands the upper and lower bands
+[01:24] which are X standard deviations away
+[01:26] from the mean normally two standard
+[01:28] deviations standard deviation is a
+[01:31] statistical measure of how much the
+[01:32] price deviates from the average and it
+[01:34] helps to measure volatility when the
+[01:36] bands are widening it means volatility
+[01:38] is picking up and it's shrinking when
+[01:40] the bands get tighter
+[01:42] the bands can also be used to find
+[01:43] overbought and oversold conditions but
+[01:46] it doesn't necessarily mean that the
+[01:47] market will reverse immediately
+[01:50] one of the typical mistakes Traders make
+[01:52] is blindly shorting or going long just
+[01:54] because the price is at the outer band
+[01:56] without considering the trend
+[01:58] let's look at a back test to illustrate
+[02:00] our point and test the following
+[02:01] strategy
+[02:03] when the share price closes two standard
+[02:05] deviations below the 10-day average we
+[02:08] go long
+[02:09] we exit when it crosses above the 10-day
+[02:11] average
+[02:12] applied to S P 500 the equity curve
+[02:14] looks like this and this is not a very
+[02:16] inspiring curve
+[02:18] the sharp drops in value make this
+[02:20] strategy untradable in our opinion
+[02:22] let's look at another way to use
+[02:24] Bollinger Bands The Squeeze let's talk
+[02:27] about a Bollinger band squeeze
+[02:29] one other way to use Bollinger Bands is
+[02:31] by paying attention to the Bollinger
+[02:32] band squeeze which occurs when the bands
+[02:34] get Tighter and Tighter indicating that
+[02:36] the Market's volatility is shrinking in
+[02:39] the blue rectangle we can clearly see
+[02:41] that the bands shrink because volatility
+[02:43] drops what does this mean this might
+[02:46] indicate an explosive move is about to
+[02:48] happen at least that is the theory we
+[02:50] backtested many variations of a
+[02:52] Bollinger band squeeze and we didn't
+[02:54] find it much useful no matter the asset
+[02:56] we looked on the equity curve shows the
+[02:58] best asset and that was on Pepsi Cola
+[03:00] which managed an annual return of 12.5
+[03:03] percent slightly below Buy and Hold
+[03:05] however this was among the best we could
+[03:08] find
+[03:09] how about timing your entries
+[03:12] another way to use Bollinger Bands is by
+[03:14] timing your entries better when the
+[03:16] market is trending John Bollinger its
+[03:18] inventor argued the bands tend to retest
+[03:20] the moving average in the middle before
+[03:22] continuing in the direction of the trend
+[03:24] as indicated on the chart we have not
+[03:27] back-tested this method of using the
+[03:28] Bollinger Bands though because of the
+[03:30] slightly complex rules needed to be used
+[03:33] next part in this video is about writing
+[03:35] Trends one other way to use Bollinger
+[03:38] Bands frequently mentioned on blogs and
+[03:40] social media is by writing Trends in the
+[03:42] market
+[03:43] for example you can buy a breakout from
+[03:46] the upper band and stay in the trade
+[03:47] Until It Breaks below the lower band
+[03:50] this way you can increase your chances
+[03:52] of making significant profits but does
+[03:54] it work
+[03:55] let's back test it to find out we use
+[03:58] the trading rules on the screen and we
+[04:00] backtest S P 500 from 1960 until today
+[04:04] we get the following result
+[04:06] it's only 81 trades since 1960 and you
+[04:09] get four percent annual returns by being
+[04:11] invested 56 of the time
+[04:13] the bonus is that you have the drawdowns
+[04:15] compared to buy and hold to only 26
+[04:17] percent
+[04:18] our final back test of the day is
+[04:20] slightly different but we include it to
+[04:22] show you a very good Bollinger band
+[04:24] strategy that is based on mean reversion
+[04:26] we use a five-day moving average and
+[04:28] reduce the bands to 1.5 standard
+[04:30] deviations we buy on weakness when S and
+[04:33] P 500 closes below the lower band and we
+[04:36] sell on a day with strength when the
+[04:38] close ends higher than yesterday's high
+[04:39] hence this is a Bollinger band mean
+[04:42] reversion strategy since 1993 this
+[04:46] strategy has performed well as the
+[04:47] equity curve indicates the annual return
+[04:50] is nine percent which is just half a
+[04:52] percent lower than Buy and Hold despite
+[04:54] being invested only 25 percent of the
+[04:56] time
+[04:57] there are 500 trades since 1993 and the
+[05:00] average gain per trade is 0.5 percent
+[05:03] for being invested five trading days per
+[05:05] trade the win rate is 76 percent and
+[05:08] thus the strategy is pretty accurate
+[05:10] advantages and disadvantages of using
+[05:12] Bollinger Bands
+[05:14] as with any trading indicator the
+[05:16] Bollinger Bands have its pros and cons
+[05:17] also what are some common mistakes that
+[05:20] Traders make when using Bollinger Bands
+[05:22] the biggest Advantage is that the bands
+[05:24] are easy to understand and interpret and
+[05:26] gives a clear understanding of the
+[05:28] volatility it might also indicate future
+[05:30] Trend directions and as you saw in our
+[05:32] last back test we used Bollinger Bands
+[05:35] to create a very good strategy however
+[05:37] if you are making trading rules based on
+[05:39] the upper and lower bands you might get
+[05:41] large drawdowns as with any indicator
+[05:44] one size doesn't fit all every asset is
+[05:47] different and you might need to use
+[05:49] Bollinger differently on for example
+[05:50] Commodities compared to stocks
+[05:53] we believe the biggest mistake is that
+[05:55] Traders are looking for trading rules
+[05:56] that fit all asset classes but you can
+[05:59] expect this to work because assets move
+[06:01] and behave differently
+[06:02] are there different types of Bollinger
+[06:04] Bands and how do they differ from each
+[06:06] other
+[06:07] here are some examples of alternative
+[06:09] bands
+[06:10] percentage Bollinger Bands Bollinger
+[06:12] bandwidth and double Bollinger Bands
+[06:15] we will not go into details about these
+[06:17] in this video
+[06:18] we also frequently get asked about how
+[06:20] Traders can use Bollinger Bands in
+[06:22] conjunction with other technical
+[06:23] indicators the answer is yes that might
+[06:26] be a good idea
+[06:27] but as always we recommend back testing
+[06:30] your idea to find out if your idea works
+[06:32] or not so there you have it three
+[06:35] practical trading techniques to help you
+[06:37] master Bollinger Bands and improve your
+[06:38] results remember don't blindly short or
+[06:41] go long just because the price is at the
+[06:43] outer band without considering the trend
+[06:45] you should always back test your ideas
+[06:47] please stay tuned for our next video
+[06:49] that includes our favorite trading
+[06:50] indicator coming up right after this
+[06:52] video the IBS indicator if you want to
+[06:55] learn more about our trading approach
+[06:56] methodology and strategy please head
+[06:59] over to our website and look at the
+[07:01] hundreds of free trading strategies we
+[07:02] offer in conclusion Bollinger Bands can
+[07:05] be a powerful tool to help you identify
+[07:07] Trends volatility mean reversion and
+[07:10] potential breakouts in the market
+[07:12] however the good is frequently in the
+[07:14] absence of the bad so make sure you back
+[07:16] test
+[07:17] thank you for watching and if you have
+[07:19] any questions or feedback please leave
+[07:21] them in the comments section below don't
+[07:24] forget to hit the like button and
+[07:25] subscribe to our channel to stay up to
+[07:27] date on future videos

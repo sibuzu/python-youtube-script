@@ -1,0 +1,67 @@
+標題: CANDLESTICKS Patterns Trading Strategies - Which One Is Best?
+URL: https://www.youtube.com/watch?v=G6kvcga6zPQ&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:04:17
+
+=== 字幕內容 ===
+
+[00:00] Welcome to our video on candlesticks
+[00:02] candlesticks are a popular way to
+[00:04] visualize price movements in financial
+[00:05] markets but do candlesticks actually
+[00:08] work can you make money by using
+[00:10] Candlestick patterns it turns out you
+[00:12] can please stick to the end and we'll
+[00:14] show you how profitable they are because
+[00:16] all Candlestick analysis is based on
+[00:18] anecdotal evidence and random charts
+[00:20] that normally exclude the bad trades we
+[00:22] decided to quantify all the Candlestick
+[00:25] patterns make a back test and rank the
+[00:27] patterns the results are summarized in a
+[00:30] table you can play with yourself and
+[00:31] additionally we have compiled all the
+[00:33] patterns into easy to test Amy broker
+[00:35] and tradestation code thus you can trade
+[00:37] Candlestick patterns live if you so wish
+[00:40] let's look at the performance of s p 500
+[00:43] by using the 10 best Candlestick
+[00:44] patterns that had at least 50 trades
+[00:46] over the last 30 years we rank the
+[00:49] patterns based on the profit factor a
+[00:51] metric that measures performance and we
+[00:53] got the following Equity curve as you
+[00:55] can see it's pretty impressive results
+[00:57] it was a 20 bagger over the period
+[00:59] something that is one percentage Point
+[01:01] better than Buy and Hold even better you
+[01:03] get this result by spending just 28
+[01:05] percent of the time invested but what
+[01:07] about drawdowns and losses the graph
+[01:10] shows the losses from a recent peak in
+[01:12] the equity and it's less than 15 percent
+[01:14] for comparison S P 500 had a Max
+[01:16] drawdown of 55 During the period how do
+[01:19] Candlestick patterns perform in a
+[01:21] recession or falling markets the table
+[01:23] shows only one losing year and thus we
+[01:25] can safely say that the candlesticks
+[01:27] have provided uncorrelated returns
+[01:29] compared to buy and hold for example
+[01:31] 2008 was a terrible year for stocks yet
+[01:34] our candlesticks went on to make 23.7
+[01:36] percent Returns the recent bear Market
+[01:38] of 2022 was also positive but less so at
+[01:41] 2.2 percent returns our back Test shows
+[01:44] that Candlestick patterns work we offer
+[01:46] the research for a moderate fee and it
+[01:48] includes logic in plain English and
+[01:50] trading results for all 75 Candlestick
+[01:52] patterns you can add Amy broker or
+[01:55] tradestation code if you like that's all
+[01:57] for now but don't forget the next video
+[01:59] coming up that contains three free Trend
+[02:02] following strategies good luck trading
+[02:05] and please like And subscribe to help us
+[02:06] provide more Quantified and specific
+[02:08] research

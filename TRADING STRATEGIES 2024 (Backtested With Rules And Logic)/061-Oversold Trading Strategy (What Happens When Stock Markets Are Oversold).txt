@@ -1,0 +1,92 @@
+標題: Oversold Trading Strategy (What Happens When Stock Markets Are Oversold?)
+URL: https://www.youtube.com/watch?v=few_gh6Td8E&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:05:39
+
+=== 字幕內容 ===
+
+[00:00] what happens when stock markets are
+[00:01] oversold unlocking the secret to stock
+[00:04] market success requires an understanding
+[00:06] of the concept of oversold in this video
+[00:08] we will show you why you must understand
+[00:10] this concept what it means and what kind
+[00:13] of return can you expect when the stock
+[00:14] market is considered oversold stay tuned
+[00:17] and we'll answer all in this video
+[00:19] before we start we remind you that you
+[00:21] find our best strategies on our webpage
+[00:23] we share tips and tricks for both
+[00:25] trading and investing first to navigate
+[00:28] the Market's complexities you must grasp
+[00:30] the principle of mean reversion the main
+[00:32] principle to understand the term
+[00:34] overbought in statistical terms this
+[00:37] means that strong deviations from the
+[00:39] trend will eventually revert to the mean
+[00:41] and move in the opposite direction so
+[00:43] what exactly is oversold it's when the
+[00:45] market has experienced a week period
+[00:47] with falling prices which could be days
+[00:49] weeks or months the exact duration is up
+[00:51] to you but it's crucial to have a clear
+[00:53] definition if you use a daily time frame
+[00:56] in trading for instance a period of five
+[00:57] days could be considered oversold
+[00:59] depending on how much the stock market
+[01:01] fell during that time at Quantified
+[01:03] strategies we like to rely on numbers to
+[01:05] illustrate our points therefore we will
+[01:07] use the RSI indicator to prove our Point
+[01:09] by formulating a trading strategy to
+[01:11] identify oversold conditions hopefully
+[01:14] with this knowledge you can make better
+[01:15] decisions and Achieve improved returns
+[01:17] in the market let's find out what
+[01:19] happens when the stock market is
+[01:21] oversold we back test we make the
+[01:23] following trading rules one we buy S P
+[01:26] 500 at the close when the three-day RSI
+[01:29] is below 20. two we sell at the close
+[01:32] after end days this is a simple strategy
+[01:34] but we make it simple to prove our point
+[01:36] the relative strength indicator RSI is
+[01:39] used because it goes from oversold to
+[01:41] overbought conditions constantly and it
+[01:43] measures the velocity of those moves
+[01:45] when values are low it indicates a
+[01:47] depressed Market our back test is
+[01:49] summarized in this table the First
+[01:51] Column shows when we exit Row one is
+[01:53] exiting after one day row after two days
+[01:56] and so on column three shows that the
+[01:58] returns in from the second day in onward
+[02:00] are high higher than any random period
+[02:02] which is about 0.04 percent per day
+[02:05] however as time goes on the returns
+[02:07] gravitate toward the long-term averages
+[02:09] as expected let's make a back test with
+[02:12] the following trading rules we buy at
+[02:14] the close when the three-day RSI is
+[02:16] below 20 and we sell when the close is
+[02:18] higher than yesterday's high let's look
+[02:20] at the results the equity growth shows a
+[02:22] steady upward growth and our Equity
+[02:24] grows from one hundred zero zero zero to
+[02:27] 1.3 million During the period not bad
+[02:30] for such a simple strategy even better
+[02:32] the drawdowns are small as indicated in
+[02:34] the lower pane the annual return is 9.14
+[02:37] percent even though we are invested just
+[02:40] 16.8 percent of the time thus the
+[02:42] risk-adjusted return is 54 we find
+[02:46] risk-adjusted return by dividing 9.14 by
+[02:50] 0.1681 which is time spent in the market
+[02:53] so to conclude our back Test shows that
+[02:56] we can expect higher returns in the
+[02:58] short term than any random day when we
+[03:00] have an oversold condition that's all
+[03:02] for today thanks for tuning in and we'll
+[03:04] see you in the next one and by the way
+[03:06] don't forget to subscribe and like so we
+[03:09] can keep delivering free video

@@ -1,0 +1,95 @@
+標題: Turnaround Tuesday Trading Strategy (Trading Rules &amp; Backtest)
+URL: https://www.youtube.com/watch?v=HClGJJgzv4U&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:04:21
+
+=== 字幕內容 ===
+
+[00:00] welcome to Quantified strategies and
+[00:02] today's video about the turnaround
+[00:04] Tuesday trading strategy a strategy we
+[00:07] covered on our website as early as
+[00:09] 2012 we'll show you how this simple
+[00:11] strategy is beaten by and hold with
+[00:13] significantly smaller draw downs and
+[00:15] less time spent invested in the market
+[00:18] will reveal its trading rules and
+[00:20] settings so stay tuned Until the End by
+[00:23] the way we're always working hard to
+[00:25] create new and exciting content so your
+[00:27] likes and subscriptions really help us
+[00:28] out thanks
+[00:31] but first what's the turnaround strategy
+[00:33] all about it's a seasonal effect in the
+[00:35] stock market that's been around for
+[00:37] decades in short the logic behind the
+[00:39] strategy is that the direction of a
+[00:41] Monday is frequently reversed on a
+[00:43] Tuesday as shown on the screen hence the
+[00:46] name for example if Monday is a down day
+[00:48] we can expect significantly higher
+[00:50] Returns the next day than if it happened
+[00:52] on any other day of the week as
+[00:54] indicated on the screen the gains from
+[00:56] Monday's close to Tuesday's close is 24%
+[00:59] % if Monday's a down day and this is
+[01:02] many times higher than the other days of
+[01:04] the week opposite if Monday's an up day
+[01:07] the return the next day is low let's
+[01:10] back test a simple trading strategy that
+[01:12] takes good use of the turnaround Tuesday
+[01:15] effect we make the following very simple
+[01:17] trading rules if today is Monday and the
+[01:19] close is lower than Friday we buy at the
+[01:22] close we use the Qs exit as sell signal
+[01:26] which is when the close is higher than
+[01:27] yesterday's high or after five trading
+[01:29] days
+[01:30] when we back test the strategy on spy
+[01:33] the ETF that tracks S&P 500 we get a
+[01:36] pretty impressive Equity curve just as
+[01:39] impressive is the relatively small draw
+[01:41] Downs of short duration the Max draw
+[01:43] down is 24% but is shortlived apart from
+[01:47] that draw Downs are in the single digits
+[01:49] the turnaround Tuesday strategy is
+[01:51] beaten Buy and Hold the strategy
+[01:53] returned 10.6% annually compared to
+[01:55] 99.8% if you bought spy in 1993 and held
+[02:00] it until today you would also suffer a
+[02:02] pretty devastating draw down of 55% if
+[02:05] you bought and hold on to
+[02:06] spy if we compare Buy and Hold to the
+[02:09] turnaround Tuesday strategy we clearly
+[02:11] see the almost spectacular performance
+[02:14] of this simple strategy the ride is
+[02:17] significantly more linear than Buy and
+[02:19] Hold the strategy is even more
+[02:21] impressive if we consider that you're
+[02:23] only invested 24% of the time in other
+[02:26] words you spend 76% of the time in cash
+[02:30] this cash you can employ for other
+[02:32] complimentary strategies in the meantime
+[02:34] can the turnaround Tuesday strategy be
+[02:36] improved it can for our paying
+[02:39] subscribers we made a small tweak and
+[02:41] results and metrics
+[02:43] improved please also remember that we
+[02:45] have hundreds of both free and paid
+[02:48] trading strategies on our website so
+[02:50] make sure to check it out but please
+[02:52] also do your own research to make sure a
+[02:54] strategy fits your financial goals
+[02:56] nothing in this video is investment
+[02:58] advice we appreciate you taking the time
+[03:01] to watch our video if you found it
+[03:02] helpful please give it a like And
+[03:04] subscribe to the channel for more
+[03:05] content like this if you have any
+[03:08] questions or feedback please leave a
+[03:10] comment below we love hearing from you
+[03:12] that was all for today and we hope you
+[03:14] liked it and stay tuned for the next
+[03:16] video coming up showing three profitable
+[03:19] trading
+[03:20] strategies

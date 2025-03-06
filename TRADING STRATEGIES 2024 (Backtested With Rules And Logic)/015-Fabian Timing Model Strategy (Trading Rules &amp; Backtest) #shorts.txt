@@ -1,0 +1,61 @@
+標題: Fabian Timing Model Strategy (Trading Rules &amp; Backtest) #shorts
+URL: https://www.youtube.com/watch?v=8gH33k5W334&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:03:52
+
+=== 字幕內容 ===
+
+[00:00] do you wish you could time the market
+[00:02] and buy low and sell High if so then you
+[00:05] need to learn about the Fabian timing
+[00:07] model strategy the Fabian timing model
+[00:09] is a quantitative Trend following
+[00:11] strategy which means that it's based on
+[00:13] mathematical rules and was developed by
+[00:15] Richard Fabian in the mid-1960s
+[00:18] the strategy is based on the idea that
+[00:20] the S P 500 the Dow Jones Industrial
+[00:23] Average and the utility sector tend to
+[00:25] move together
+[00:27] when these three markets are all
+[00:28] trending in the same direction the
+[00:30] Fabian timing model signals a buy for
+[00:32] the s p 500. when at least two are
+[00:35] trending in the opposite direction the
+[00:37] model signals to sell s p 500.
+[00:41] let's summarize the trading rules for
+[00:43] the Fabian timing model
+[00:45] buy when the S P 500 the Dow Jones
+[00:48] Industrial Average and the utility
+[00:49] sector are all above their respective
+[00:51] 39-week moving averages
+[00:54] sell sby if two or more of the indices
+[00:57] are trading under their respective
+[00:59] 39-week moving average
+[01:01] let's backtest it from year 2000 by
+[01:04] using the ETF that tracks the S P 500
+[01:07] spy
+[01:09] the results show that the model is
+[01:11] beaten by and hold handily seven percent
+[01:13] versus five percent excluding dividends
+[01:15] despite being invested only 56 percent
+[01:18] of the time
+[01:19] please keep in mind that this is a
+[01:21] long-term strategy and not designed to
+[01:23] generate short-term profits
+[01:26] the Fabian timing model is not a get
+[01:28] rich quick scheme it takes time and
+[01:30] patience to make money with this
+[01:31] strategy it's been shown to be
+[01:34] profitable over the long term and it
+[01:36] might help you improve your investment
+[01:37] returns
+[01:39] if you're interested in learning more
+[01:40] about the Fabian timing model we
+[01:42] encourage you to read the article that
+[01:44] we Linked In the description you can
+[01:46] also find more information on our
+[01:47] website we have hundreds of strategies
+[01:49] for you to enjoy and learn from
+[01:52] thank you for watching and don't forget
+[01:54] to like And subscribe

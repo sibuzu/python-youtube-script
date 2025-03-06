@@ -1,0 +1,27 @@
+標題: CARRY TRADE Strategy (Backtest &amp; Rules)
+URL: https://www.youtube.com/watch?v=PqE3eM2eJio&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:04:50
+
+=== 字幕內容 ===
+
+[00:00] today we're going to talk about the
+[00:01] carry trade strategy and what it is so
+[00:04] for example in Forex it involves
+[00:06] borrowing in a currency with a low
+[00:09] interest rate and you convert that
+[00:12] borrow amount into another currency with
+[00:14] a higher interest rate so the main idea
+[00:18] is to make money on the interest rate
+[00:19] differential and to make money you need
+[00:22] lots of Leverage but as we know leverage
+[00:26] can backfire because here as you can see
+[00:28] this is the Japanese Yen and the dollar
+[00:31] currencies can actually move a lot
+[00:34] so a typical carry trade it has many
+[00:37] small big Winners and a wrap like here
+[00:40] and a random big losers so we can uh we
+[00:46] can say that this is a negatively skewed
+[00:48] distribution this is what Nasim taleb
+[00:51] would call tail risk because it's prone
+[00:53] to random shocks

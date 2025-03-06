@@ -1,0 +1,207 @@
+標題: 6 Larry Connors Trading Strategies
+URL: https://www.youtube.com/watch?v=gX8FjjKR7ec&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:05:41
+
+=== 字幕內容 ===
+
+[00:00] today we explain and show you six
+[00:02] trading strategies developed by Larry
+[00:05] Connors and his team they are all taken
+[00:07] from his books called high probability
+[00:10] ETF trading and short-term trading
+[00:12] strategies that work but we have
+[00:14] slightly changed the trading rules and
+[00:16] improved the strategies just like we did
+[00:18] in our articles on the website years ago
+[00:21] all strategies were developed before
+[00:23] 2010 and thus we can find out if they
+[00:26] have stood the test of time
+[00:28] all strategies come with complete
+[00:30] trading rules and back tests and all
+[00:32] back tests are for S P 500 and its ETF
+[00:35] with the ticker code spy by the way we
+[00:39] appreciate your support if you want to
+[00:41] help our channel to grow please give
+[00:43] this video a like and consider
+[00:45] subscribing to our Channel without
+[00:46] further Ado we go straight at it and
+[00:49] show you the first strategy Larry
+[00:51] Connor's double seven trading strategy
+[00:53] however we rephrase it to double five
+[00:56] trading strategy Connors originally used
+[00:58] seven trading days in the settings but
+[01:01] we only use five days to get more trades
+[01:03] when the close is above the 200-day
+[01:05] moving average and closes at a five-day
+[01:08] low we buy we sell when the close is at
+[01:11] a five-day High the rules are simple and
+[01:13] the produce the following Equity curve
+[01:15] as shown on the screen our modified
+[01:17] strategy produces more trades than
+[01:19] Connor's original strategy 352 in total
+[01:22] and thus more total profits the average
+[01:25] gain per trade is 0.65 percent and the
+[01:28] drawdowns are moderate at Max 14 and
+[01:31] they are short-lived we'd like to
+[01:33] mention that the strategy works on a
+[01:34] wide range of stock ETFs and Futures but
+[01:37] they tend to be correlated let's go to
+[01:39] the second Larry Connor's strategy Larry
+[01:42] Connors multiple days up and multiple
+[01:44] days down strategy we buy when the close
+[01:46] is above the 200-day moving average the
+[01:49] close must be below the five-day moving
+[01:50] average and must have dropped at least
+[01:52] four days out of the last five trading
+[01:54] days we sell when the close is higher
+[01:57] than yesterday's high the equity curve
+[01:59] for S P 500 is sloping upwards with an
+[02:03] average gain per trade of 0.55 percent
+[02:06] and an annual return of four percent the
+[02:10] latter is not that high but the strategy
+[02:12] is invested only 10 of the time again
+[02:15] because we use the 200-day moving
+[02:17] average to filter a bullish environment
+[02:19] the max drawdown is only 13
+[02:22] our third Larry Connor's strategy has
+[02:25] the cryptic name of percent B strategy a
+[02:27] name to derived from the Bollinger band
+[02:29] indicator percent B is an indicator that
+[02:32] measure where the close is relative to
+[02:34] the upper and lower Bollinger Bands as
+[02:36] indicated on the chart we use a five-day
+[02:39] lookback period and two standard
+[02:41] deviations for the Bollinger Bands when
+[02:44] the close is in the lower range of the
+[02:45] indicator it signals a buying
+[02:47] opportunity opposite it signals a
+[02:50] potential good exit when it's in the
+[02:52] high end of the range the calculation of
+[02:55] percent B is shown on the screen and it
+[02:57] resembles the IBS indicator an indicator
+[03:00] we have covered in a separate video and
+[03:02] is perhaps the most useful indicator for
+[03:04] stocks the rules for buying is when the
+[03:07] percent B is lower than 0.2 for the
+[03:10] third consecutive day and the close is
+[03:13] above the 200-day moving average we sell
+[03:16] when the close is higher than
+[03:17] yesterday's high the equity indicates
+[03:19] it's not many trades only 55 for S and P
+[03:23] 500 but the few trades make an average
+[03:26] gain per trade of almost one percent
+[03:28] and the win rate is 87 which is very
+[03:31] respectable considering that the average
+[03:33] winners and losers are about the same
+[03:35] size however time spent invested is very
+[03:38] low at 2.5 percent let's go to our
+[03:41] fourth Larry Connors strategy which is
+[03:43] called the R3 trading strategy the r
+[03:46] stands for the relative strength
+[03:48] indicator abbreviated RSI the trading
+[03:51] rules of the R3 strategy is simple the
+[03:54] close must be above the 200-day moving
+[03:57] average to make sure we are in a bullish
+[03:59] Trend the two-day RSI must have fallen
+[04:01] for three days in a row and today's
+[04:03] value must be below 20. we sell when the
+[04:06] two-day RSI rises above 70. with these
+[04:10] rules we get a steady Rising Equity
+[04:12] curve for S P 500 but there are only 94
+[04:15] trades but those 94 trades have very few
+[04:19] losers the win rate is 88 and the
+[04:22] average gain per trade is 1.16 the
+[04:26] strategy has a market exposure of only
+[04:29] 4.57 percent meaning you spend 95
+[04:32] percent of the time in cash ready for
+[04:34] other complementary strategies let's go
+[04:36] to our fifth strategy this one is called
+[04:39] RSI 30 and RSI 50 and is obviously based
+[04:43] on the relative strength index we have
+[04:45] modified the trading rule somewhat but
+[04:47] we enter a position when the close is
+[04:50] above the 200-day moving average and the
+[04:52] 5-day RSI must be below 30. we sell when
+[04:57] the 5-day RSI crosses above 50. the
+[05:00] rules might be simple but the strategy
+[05:02] has performed well and managed annual
+[05:05] returns of 6.1 percent despite being
+[05:08] invested less than 12 percent of the
+[05:10] time
+[05:10] if we divide the annual return of 6.1
+[05:13] percent by the time invested in the
+[05:15] market we get a risk-adjusted return of
+[05:18] almost 52 percent this is yet another
+[05:21] strategy with a high win rate and the
+[05:23] winners are even slightly bigger than
+[05:25] the average loser
+[05:27] let's present our sixth and last
+[05:28] strategy three-day high low strategy
+[05:32] the close must be above the 200-day
+[05:35] moving average and both today's high and
+[05:37] low must be lower for the third
+[05:39] consecutive day
+[05:40] this last strategy also trades
+[05:43] relatively seldom but it still manages
+[05:45] an acceptable return 3.6 percent
+[05:49] we think that's decent because you spend
+[05:51] most of the time on the sidelines the
+[05:53] average gain per trade is almost 0.8
+[05:56] percent and yet again we have a solid
+[05:58] win rate of 79 and Low Max drawdown of
+[06:02] only 14 we have now covered six improved
+[06:05] Larry Connor strategies what can we
+[06:08] learn from them what are the main
+[06:09] takeaways our first lesson is that mean
+[06:12] reversion strategies have worked well
+[06:14] for S P 500 and stocks it has paid off
+[06:17] to buy the dip it has been like this
+[06:20] since 1985 but of course we don't know
+[06:22] how long it will continue the second
+[06:25] main takeaway is that the 200-day moving
+[06:27] average works well to lower Max
+[06:29] drawdowns it's a very good filter to
+[06:31] separate Bull and Bear markets something
+[06:33] the next video shows when we explain the
+[06:36] 200-day moving average strategy Max
+[06:38] drawdown for all six strategies is only
+[06:41] 14 and all drawdowns don't last long we
+[06:44] recover fast from A Loss this is good
+[06:47] because it makes it easier to trade and
+[06:49] faith in the systems because we are less
+[06:51] exposed to trading biases third you
+[06:54] might be tempted to trade the systems
+[06:56] with Futures instead of ETFs we
+[06:58] backtested only spy the ETF that tracks
+[07:01] S P 500 but we assume the strategies
+[07:04] work well for futures however it's
+[07:07] crucial you back test yourself the
+[07:09] fourth takeaway is that the strategies
+[07:11] stay most of the time on the sidelines
+[07:13] thus you can trade other strategies as
+[07:16] well to increase Market exposure can you
+[07:19] trade all six strategies as a portfolio
+[07:21] unfortunately that is not a good idea
+[07:24] thus the fifth lesson is perhaps the
+[07:27] most important one you can't trade all
+[07:30] six strategies as a portfolio of
+[07:32] strategies because they are pretty
+[07:33] similar and doesn't complement each
+[07:35] other well if we trade all six
+[07:38] strategies as one portfolio the average
+[07:40] return is 6.3 percent and we still are
+[07:43] invested only 23.8 percent of the time
+[07:45] the win ratio is high at 76 percent but
+[07:49] the average winning trade goes down and
+[07:51] the losing trades become worse as a
+[07:53] portfolio of strategies that's all for
+[07:56] today we hope you got some value out of
+[07:58] it please help us grow on YouTube by
+[08:00] geeing the video a like comment or
+[08:03] subscribe it helped us a lot with
+[08:05] YouTube's algorithm please keep in mind
+[08:07] that nothing in this video is investment
+[08:09] advice please do you own due diligence
+[08:13] foreign
+[08:17] [Music]

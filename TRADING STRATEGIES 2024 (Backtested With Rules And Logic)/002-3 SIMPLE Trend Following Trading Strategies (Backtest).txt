@@ -1,0 +1,169 @@
+標題: 3 SIMPLE Trend Following Trading Strategies (Backtest)
+URL: https://www.youtube.com/watch?v=0kJ_fWP5fKU&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:03:23
+
+=== 字幕內容 ===
+
+[00:00] have you ever heard of trend following
+[00:01] strategies in investing in this video
+[00:04] we're going to dive deeper into what
+[00:06] trend following is by proving three
+[00:08] specific strategies and their historical
+[00:11] performance
+[00:12] finally in the end of the video we'll
+[00:15] wrap things up by examining the pros and
+[00:17] cons of trend following and whether it's
+[00:19] a viable strategy for you to consider so
+[00:22] sit back relax and get ready to learn
+[00:24] how you can improve your trading game
+[00:27] before we start we remind you that you
+[00:29] find our best strategies on our web page
+[00:31] we have hundreds of trading strategies
+[00:33] proven with back tests and statistics at
+[00:36] its core Trend following is all about
+[00:38] capturing extended moves in the
+[00:40] financial markets whether they're going
+[00:42] up or down but here's the thing Trend
+[00:45] followers aren't trying to predict the
+[00:47] future they're not trying to predict
+[00:49] tops and bottoms or anything else for
+[00:51] that matter they're simply looking to
+[00:53] take advantage of moves in different
+[00:55] asset classes and capture as much of
+[00:57] them as possible
+[00:59] let's look at our Trend following
+[01:01] strategies the first strategy uses
+[01:03] monthly bars on S P 500 and the trading
+[01:07] rules are simple
+[01:08] when the close of the current month
+[01:10] crosses above the 12-month simple moving
+[01:12] average we go long
+[01:14] when the close of the current month
+[01:16] crosses below the 12-month simple moving
+[01:18] average we sell and stay in cash until
+[01:21] we get a Buy Signal
+[01:23] we backtested the strategy on S P 500
+[01:26] since 1960 and got the following Equity
+[01:29] curve the annual return is 6.6 percent
+[01:32] not including reinvested dividends and
+[01:35] this is just a tad lower than buy and
+[01:37] holds return of seven percent however
+[01:40] the trend following strategy has
+[01:42] significantly lower drawdowns at 26
+[01:45] percent to see how good the strategy is
+[01:47] we zoom in and look at the performance
+[01:49] of spy the ETF that tracks S and P 500
+[01:53] since its Inception in 1993. the red
+[01:57] line is our Trend following strategy and
+[01:59] you can clearly see you avoid much of
+[02:01] the drawdowns if we factor in that the
+[02:04] strategy was invested just 68 of the
+[02:06] time we might argue the risk-adjusted
+[02:08] return is significantly better at 9.6
+[02:11] percent we find The risk-adjusted Return
+[02:14] by dividing The Return by the time spent
+[02:16] in the market let's go to our second
+[02:18] strategy the golden cross the rules are
+[02:22] simple when the 50-day moving average
+[02:24] crosses above the 200-day moving average
+[02:26] it signals a bullish breakout and you
+[02:29] buy conversely when the 50-day moving
+[02:32] average crosses below the 200-day moving
+[02:35] average it signals a bearish breakout
+[02:37] and you sell your position let's show
+[02:40] you an example in this example the
+[02:42] 50-day moving average broke above the
+[02:45] 200-day moving average signaling a
+[02:47] bullish breakout you could have bought
+[02:49] the S P 500 in July 2020 at 2867 and
+[02:54] ridden the trend until you sold in March
+[02:56] 2022 at
+[02:58] 4173 for a nice 32.4 percent gain of
+[03:02] course not all trades turn out this well
+[03:05] the Golden Cross strategy perform over
+[03:07] the long term we back-tested the
+[03:10] strategy on the S P 500 the 32 trades
+[03:13] since 1960 returned this Equity curve
+[03:16] the annual return was 6.6 percent and
+[03:19] again this is slightly below buy and
+[03:21] holds of seven percent but the return is
+[03:23] managed with significantly less
+[03:25] drawdowns because the strategy is
+[03:27] invested just 69 of the time
+[03:30] golden cross's results are impressive if
+[03:33] we factor in the risk-adjusted return at
+[03:35] 9.5 percent which we calculate by
+[03:38] dividing the annual return of 6.6 by the
+[03:41] time spent in the market 0.69
+[03:45] today's last Trend following strategy is
+[03:47] based on the super Trend indicator which
+[03:50] is based on weekly bars the super Trend
+[03:52] indicator calculates a median price of a
+[03:54] candle and adds bans above and below the
+[03:57] median price the bands use a 10-week
+[04:00] look back period and three times the
+[04:02] average true range the super Trend
+[04:04] indicator takes on the values of both
+[04:06] the lower and upper bands alternatively
+[04:08] but with the condition that the lower
+[04:10] band cannot decrease and the upper band
+[04:13] cannot increase
+[04:14] if this happens the super Trend
+[04:16] indicator takes on the value of the
+[04:18] relative band of the previous period
+[04:20] when the closing price of a candle
+[04:23] crosses the value of the super Trend
+[04:24] indicator from the previous period the
+[04:27] indicator begins to follow the opposite
+[04:29] band leading to a reversal in trend
+[04:32] let's backtest and we use the following
+[04:34] trading rules for S and P 500 buy when
+[04:37] the close of a bar crosses above the
+[04:39] previous value of the super Trend
+[04:41] indicator sell when the close of a bar
+[04:43] crosses below the previous value of the
+[04:46] super Trend indicator the example on the
+[04:48] screen shows a trade example of 44 but
+[04:51] of course not all trades turn out so
+[04:53] well any Trend following strategy is
+[04:56] dependent on a few big gains so it's
+[04:58] Paramount you don't cut winners short
+[05:00] when we back test on S P 500 we get the
+[05:03] following Equity curve the 38 trades
+[05:06] made annual gains of almost six percent
+[05:08] which is one percentage Point lower than
+[05:11] Buy and Hold but again the strategy is
+[05:13] invested only 62 percent of the time and
+[05:16] thus we can argue the risk-adjusted
+[05:18] return is 9.5 percent
+[05:21] you have now seen a few Trend following
+[05:23] strategies and let's sum up the
+[05:25] advantages of trend following the
+[05:27] strategies we showed you today are all
+[05:29] incredibly simple and they don't require
+[05:31] much time to manage furthermore you are
+[05:34] not timing the market and buy and sell
+[05:36] signals are determined by the market
+[05:38] however keep in mind that Trend
+[05:41] followers have disadvantages because
+[05:43] Trends are prone to sudden reversals you
+[05:45] must expect to get whipsawed a lot the
+[05:48] win rate is low and you must accept
+[05:50] frequent losing trades most likely just
+[05:53] a few trades make most of the gains and
+[05:55] hence you need to fight the urge to cut
+[05:57] winners short that's all for today if
+[06:00] you are interested in code or to dig
+[06:02] deeper into these Trend following
+[06:04] concepts you can always find more
+[06:06] strategies and articles on our website
+[06:08] also if you like this video I highly
+[06:11] recommend our video about swing trading
+[06:13] strategies that will complement a
+[06:14] portfolio of trend following strategies
+[06:17] perfectly you can find that here thanks
+[06:19] for tuning in and we'll see you in the
+[06:21] next one and by the way don't forget to
+[06:24] subscribe and like the video it means a
+[06:26] lot to us and helps our channel to grow

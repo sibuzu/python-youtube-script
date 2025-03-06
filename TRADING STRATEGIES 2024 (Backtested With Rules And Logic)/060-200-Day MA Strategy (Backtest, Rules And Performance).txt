@@ -1,0 +1,92 @@
+標題: 200-Day MA Strategy (Backtest, Rules And Performance)
+URL: https://www.youtube.com/watch?v=dEZ6Wy_EYmU&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:05:36
+
+=== 字幕內容 ===
+
+[00:01] the famous investor Paul tutor Jones
+[00:03] once said that the 200 day moving
+[00:05] average is the first indicator he looks
+[00:07] at why is that in this video we tell you
+[00:11] why tutor Jones looks at the 200 day
+[00:14] moving average and why it's a useful
+[00:16] trading indicator we show you Trend
+[00:18] following trading strategies as shown on
+[00:20] the screen and how you can use the 200
+[00:23] day moving average is a filter for
+[00:25] short-term mean reversion strategies
+[00:28] first let's show you how the average
+[00:29] looks on on a chart the red line is the
+[00:32] 200 day moving average and it moves up
+[00:34] after the price has gone up thus it's a
+[00:37] lagging indicator we also spot that
+[00:39] there are many whipsaws when the price
+[00:41] moves sideways which is a problem for
+[00:43] all moving averages now let's look at
+[00:46] why tutor Jones uses the 200 day moving
+[00:48] average as a trend filter we're only
+[00:51] invested when S&P 500 are over its 200
+[00:54] day moving average and we sell when it
+[00:56] ends below the average since 19 60 this
+[01:00] simple strategy is performed well
+[01:02] excluding dividends the return is
+[01:05] 6.75% compared to buy and hold
+[01:08] 7% what makes the strategy good is that
+[01:10] you have smaller draw Downs compared to
+[01:12] buy and hold Max draw down is only 28%
+[01:16] compared to buy and holds
+[01:18] 56% the reason for the reduced risk is
+[01:21] that you avoid some of the worst bare
+[01:23] markets for example the chart on the
+[01:25] screen shows how you sold out in late
+[01:27] 2007 and avoided the bare Market 2008
+[01:30] until you re-entered in 2009 you avoided
+[01:34] a 55% loss when the dust settles you
+[01:37] start compounding from a higher level
+[01:40] this is why Paul tutor Jones uses the
+[01:42] 200 day moving average if the price is
+[01:45] above it's a bull market and when the
+[01:47] price is below it's a bare Market it's a
+[01:50] simple concept but in trading and
+[01:52] investing Simplicity helps you a long
+[01:54] way let's look at how you can use the
+[01:57] 200 day moving average to filter out
+[01:59] when to take short short-term trades we
+[02:01] use a standard mean reversion strategy
+[02:04] to buy when the 5-day RSI is below 35
+[02:07] and sell when it rises above 50 we back
+[02:11] test the ETF the tracks S&P 500 spy
+[02:14] since its Inception until today albeit a
+[02:17] rising curve you would have experienced
+[02:19] pretty tough setbacks the trading
+[02:22] metrics are not bad but Max draw down is
+[02:24] pretty high at
+[02:26] 29% we suspect most Traders would have
+[02:28] quit the strategy after such a loss what
+[02:31] happens if we add a 200 day moving
+[02:33] average filter the strategy is the same
+[02:36] but the close needs to be above the 200
+[02:38] day moving average to generate a signal
+[02:41] adding the trend filter Smooths the
+[02:43] returns the 200 day average filters out
+[02:45] volatility and makes it easier to follow
+[02:48] the
+[02:48] strategy the number of Trades go down
+[02:51] but the average gain per trade and win
+[02:53] rate go up the win rate is an important
+[02:56] metric because of the human bias to
+[02:58] suffer more from A Loss than an equal
+[03:00] win if we turn the trend filter upside
+[03:03] down and only take trades that are below
+[03:05] the 200 day moving average we clearly
+[03:07] see that the performance is more erratic
+[03:09] compared to when it's above that makes
+[03:12] sense because history shows that
+[03:14] volatility is twice as high under the
+[03:16] 200 day moving average than when it's
+[03:19] above can the 200 day moving average
+[03:21] strategy be improved or made different
+[03:24] please comment if you have
+[03:26] suggestions good luck
+[03:28] Trading

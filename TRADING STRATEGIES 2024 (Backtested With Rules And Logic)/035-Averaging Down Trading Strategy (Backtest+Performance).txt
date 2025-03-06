@@ -1,0 +1,83 @@
+標題: Averaging Down Trading Strategy (Backtest+Performance)
+URL: https://www.youtube.com/watch?v=NBOGY39woyA&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:04:38
+
+=== 字幕內容 ===
+
+[00:01] have you ever bought a stock and watched
+[00:02] its price plummet leaving you frustrated
+[00:05] if so you're not alone many Traders
+[00:07] experience this pain but there's a
+[00:09] strategy that can help you turn the
+[00:10] tables and potentially profit from
+[00:12] falling stock prices it's called the
+[00:15] averaging down trading strategy a
+[00:17] strategy we've explained on our website
+[00:20] in this video we'll show you two trading
+[00:22] strategies each with specific trading
+[00:24] rules the first one is a regular trading
+[00:27] strategy while the second strategy shows
+[00:29] how you might improve it by averaging
+[00:31] down what do we mean by averaging down
+[00:35] it involves buying more shares of a
+[00:37] stock as the price declines this may
+[00:39] seem counterintuitive but it can
+[00:41] actually be a sound decision if done
+[00:43] correctly here's how it works imagine
+[00:46] you buy a hundred shares of stock at $10
+[00:49] per share the price then Falls to $8 per
+[00:52] share if you believe the stock is a good
+[00:54] investment you could buy another 100
+[00:56] shares at the lower price so bring your
+[00:59] average cost per share down to $9 per
+[01:01] share if the stock then recovers to $10
+[01:05] per share you'd have made a profit of
+[01:06] 10% on your total investment however
+[01:09] when averaging down it's important to
+[01:11] understand that it needs to be a
+[01:12] rational reason for doing so let's show
+[01:15] you two trading strategies to find out
+[01:17] how you can average down first we back
+[01:20] test a trading strategy that buys when
+[01:22] the 5-day RSI drops below 35 and we keep
+[01:26] the position until it rises above
+[01:28] yesterday's highest price
+[01:30] this is a classical mean reversion
+[01:32] strategy but the equity curve shows it's
+[01:34] performed well on S&P 500 since 1993
+[01:38] until today the trading statistics are
+[01:41] good but let's turn it into an average
+[01:43] down trading strategy we employ 50% of
+[01:47] our Capital when the 5-day RSI drops
+[01:49] below 50 and we add the remaining 50%
+[01:52] when the daily RSI drops at least five
+[01:55] points and is still below 50 we use the
+[01:58] same cell trigger as in the first
+[02:00] strategy in practice we're averaging
+[02:03] down our Capital compound slightly less
+[02:06] compared to the first strategy but the
+[02:07] trading statistics are better on the
+[02:10] screen you see the statistics for the
+[02:12] averaging down trading strategy on the
+[02:14] right side while the overall profits are
+[02:17] slightly less the averaging down
+[02:19] strategy reduces Max loss and increases
+[02:21] the relationship between wins and losses
+[02:24] shown by The Profit Factor because the
+[02:26] average down strategy only starts with
+[02:28] 50% of the Capital the capital spent
+[02:31] invested goes down this means that the
+[02:34] risk adjusted return is better for the
+[02:36] averaging down trading strategy 55%
+[02:39] versus
+[02:40] 39% at the end of the day it's all about
+[02:43] preferences while we'd like to use the
+[02:45] average down strategy you might think
+[02:47] the opposite we remind you that we have
+[02:49] hundreds of other trading strategies on
+[02:51] our website at Quantified strategies.com
+[02:54] if you like this video please like
+[02:57] subscribe and comment to help us provide
+[02:59] more free videos like
+[03:02] this

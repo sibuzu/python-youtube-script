@@ -1,0 +1,93 @@
+標題: 3 Top Bitcoin Trading Strategies (Backtest Results)
+URL: https://www.youtube.com/watch?v=cSHNnwcMIO8&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:05:34
+
+=== 字幕內容 ===
+
+[00:01] in this video we're going to reveal
+[00:03] three profitable Bitcoin trading
+[00:05] strategies you can see the results on
+[00:08] the screen so make sure you stick Until
+[00:09] the End we've published many Bitcoin
+[00:12] trading strategies on our website
+[00:14] Quantified strategies.com over the years
+[00:17] and let's find out if they're still
+[00:18] performing well let's go straight to the
+[00:21] first of our Bitcoin trading strategies
+[00:24] the first Bitcoin trading strategy is
+[00:26] based off the macd
+[00:28] indicator macd consists of three
+[00:31] components the macd line the signal line
+[00:34] and the
+[00:35] histogram the macd line is the
+[00:38] difference between the 26 and 12-day
+[00:40] moving average while the signal line is
+[00:43] the 9-day exponential moving average of
+[00:45] the macd line but in this strategy we
+[00:48] use the macd histogram in our trading
+[00:51] rules which is the difference between
+[00:52] the macd line and the signal line the
+[00:56] trading rules for the strategy we're
+[00:57] going to back test are very simple when
+[01:00] the histogram turns positive we buy and
+[01:03] sell when it turns negative we suspect
+[01:06] the strategy might work because of
+[01:08] bitcoin's momentum when it starts going
+[01:11] we coded the strategy in Python and we
+[01:13] got the equity curve shown on the screen
+[01:16] if we followed the strategy we would
+[01:17] have beaten Buy and Hold with a lot less
+[01:19] temporary draw Downs the annual return
+[01:22] was 77% versus only 61% if we bought
+[01:26] Bitcoin in 2015 and held it until today
+[01:30] even better you accomplished this with
+[01:32] being invested only 54% of the time
+[01:35] because of less time invested you
+[01:37] suffered less
+[01:38] losses let's look at the second Bitcoin
+[01:41] trading strategy this one is also a
+[01:43] momentum strategy that seeks to gain on
+[01:45] the explosive moves in Bitcoin when it
+[01:47] starts moving the trading rules are
+[01:50] pretty simple if the price breaks higher
+[01:53] than the close 25 days ago we buy and we
+[01:56] sell when the price breaks below the
+[01:58] close 25 days ago
+[02:00] a very successful trade is shown on the
+[02:02] screen signaled with the green buy arrow
+[02:05] and the red sell Arrow Bitcoin gained
+[02:08] 42% in 43 days of course not all trades
+[02:12] are as good as that but if we look at
+[02:14] all the trades since 2015 until today
+[02:16] Bitcoin has had a pretty solid growth
+[02:18] based on these trading rules the returns
+[02:21] are significantly higher than HL even
+[02:24] though the win rate is as low as 43% and
+[02:26] you're invested only 56% of the time
+[02:30] that means 57% of the trades produce a
+[02:33] loss but still the strategy makes solid
+[02:35] gains let's go to our third and last
+[02:38] Bitcoin trading strategy this one's
+[02:40] different it's a seasonal pattern that's
+[02:42] worked well in the stock market and it
+[02:44] turns out it's worked well for Bitcoin
+[02:46] as well we buy Bitcoin on the fifth to
+[02:49] last trading day of the month and we'll
+[02:51] sell on the third trading day of the new
+[02:53] month most of the trades end up
+[02:55] profitable like the one on the screen
+[02:57] which had a 6.6% gain
+[03:00] if we look at all trades we see that the
+[03:02] strategy has performed really well but
+[03:05] it's flattened lately the average gain
+[03:07] per trade is 3.2% and you make almost
+[03:10] 41% annually while being invested only
+[03:13] 23% of the time we've shown you three
+[03:16] Bitcoin trading strategies but we remind
+[03:18] you that we have many more Bitcoin
+[03:20] strategies on our website Quantified
+[03:22] strategies.com if you like this video
+[03:26] please like subscribe and comment to
+[03:28] help us provide more free
+[03:31] videos

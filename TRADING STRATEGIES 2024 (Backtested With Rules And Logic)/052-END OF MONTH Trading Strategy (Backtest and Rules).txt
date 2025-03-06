@@ -1,0 +1,26 @@
+標題: END OF MONTH Trading Strategy (Backtest and Rules)
+URL: https://www.youtube.com/watch?v=XJp8E3HmqG8&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:05:18
+
+=== 字幕內容 ===
+
+[00:01] we made a back test on S P 500 that has
+[00:05] the following trading routes we buy at
+[00:08] the close of the last fifth trading day
+[00:10] of the month
+[00:12] sell at the close of the third Training
+[00:14] Day or the new month
+[00:16] there are no filters
+[00:18] the strategy is invested around 33
+[00:21] percent of the time
+[00:23] and yet it has generated the same return
+[00:25] as a Buy and Hold since 1960 about seven
+[00:30] percent
+[00:31] even better
+[00:32] drawdowns are substantially smaller than
+[00:35] Buy and Hold Max drawdown is just half
+[00:39] the bar and holes drilled on
+[00:42] and you can see
+[00:44] the equity curve here it has been pretty
+[00:47] consistent all the time since 1960.

@@ -1,0 +1,66 @@
+標題: Crude Oil Trading Strategies (Backtest &amp; Settings)
+URL: https://www.youtube.com/watch?v=xkEKJ7GJnt0&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:06:34
+
+=== 字幕內容 ===
+
+[00:01] [Music]
+[00:03] crude oil is a valuable asset that
+[00:06] Traders should Explore More but the
+[00:08] market can be tricky to navigate because
+[00:09] of the various factors that influence it
+[00:12] to trade it successfully you need to
+[00:14] test it thoroughly first a solid back
+[00:16] test is always important to do before
+[00:18] you start trading a strategy
+[00:20] in this video we'll show you how to
+[00:22] trade a crude oil system and to develop
+[00:24] a winning strategy
+[00:25] we'll also answer some frequently asked
+[00:27] questions about trading crude oil and
+[00:29] show you our results from a back test of
+[00:32] a crude oil trading strategies
+[00:34] let's start with a simple yet effective
+[00:36] crude oil trading strategy the rules are
+[00:38] as follows first calculate the 25-day
+[00:42] average of the daily High minus the low
+[00:43] daily prices
+[00:45] second it must be either Tuesday or
+[00:47] Thursday third the close today must be
+[00:49] lower than yesterday's close minus the
+[00:51] range in number one finally sell at the
+[00:54] close of the next trading day now let's
+[00:56] take a look at the Historical
+[00:58] performance of this strategy using its
+[01:00] Co the Futures Contract as an example
+[01:03] as you can see the strategy has had
+[01:05] impressive results there have been 341
+[01:08] trades with an average gain per trade of
+[01:10] 0.25 this gain is enough to earn a
+[01:14] decent profit the win rate is 58 and the
+[01:17] average winner is larger than the
+[01:19] average loser
+[01:22] so why does back testing crucial
+[01:25] back testing allows you to evaluate a
+[01:28] trading strategy's Effectiveness using
+[01:30] historical data which helps you make
+[01:31] informed trading decisions you can
+[01:34] discover a strategy's weaknesses and
+[01:35] strengths and make modifications if
+[01:37] necessary
+[01:38] this analysis can help you avoid costly
+[01:41] mistakes
+[01:42] therefore it's essential to develop a
+[01:44] trading strategy and test it with
+[01:45] historical data before Trading
+[01:50] in conclusion crude oil is an asset with
+[01:53] a lot of potential for Traders but the
+[01:55] market is complicated
+[01:57] to succeed you must have a
+[01:59] well-researched trading strategy back
+[02:01] testing is an important step in creating
+[02:03] a profitable strategy as a result your
+[02:05] trading decisions will be more informed
+[02:07] and you'll be able to avoid costly
+[02:09] mistakes

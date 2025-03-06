@@ -1,0 +1,123 @@
+標題: Magical RSI Trading Strategy (Backtest &amp; Rules)
+URL: https://www.youtube.com/watch?v=LsLv-m1AAK4&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:04:28
+
+=== 字幕內容 ===
+
+[00:00] today we look at the magical RSI
+[00:03] strategy RSI is an abbreviation for
+[00:07] relative strength index it's probably
+[00:10] the most popular trading indicator but
+[00:13] it also happens to be one of the most
+[00:15] useful ones
+[00:17] here we can see the equity curve and the
+[00:21] strategy has a steady linear growth we
+[00:23] started with 100
+[00:25] 000 in 1993 and ended up with 1.4
+[00:30] million today the chart is log scale
+[00:33] meaning we look at relative changes
+[00:37] the return is 56 per year if you use
+[00:40] risk-adjusted returns the strategy is
+[00:44] invested just a short period of time and
+[00:47] we'll get back to risk adjusted returns
+[00:49] later
+[00:51] what's the strategy about
+[00:54] the trading strategy is all about
+[00:56] exploiting the mean reversion effect in
+[00:59] the stock market
+[01:00] mean reverse means that if an assets
+[01:03] price debates significantly from its
+[01:06] average it is likely to eventually move
+[01:08] back towards that average
+[01:11] this average in the stock market is the
+[01:14] long-term uptrend because of inflation
+[01:16] and productivity gains for example the
+[01:20] U.S stock market has risen about 10
+[01:23] percent annually over the last century
+[01:26] however
+[01:27] nothing is linear and panics do make
+[01:30] prices occasionally go down sometimes
+[01:33] the prices go down a lot like in 2022
+[01:36] and 2008 for example
+[01:40] and these are the situations we are
+[01:42] looking to buy
+[01:44] and we hope to exploit these short-term
+[01:48] pullbacks by buying low and selling High
+[01:50] by being invested just a few days per
+[01:53] trade
+[01:55] so in short we want to buy weakness and
+[01:58] we want to sell strength
+[02:01] why does the stock market revert to the
+[02:03] mean
+[02:04] well no one knows the exact reason but
+[02:07] we assume that program trading is the
+[02:09] major one Miner version didn't work
+[02:11] until 1985 and it was about this time
+[02:14] that program trading started to take
+[02:17] effect
+[02:18] all the reasons might be short covering
+[02:20] Market beers Etc
+[02:23] let's go to the trading rules which are
+[02:26] really really simple so we're looking at
+[02:29] the market which is S P 500 and we are
+[02:33] back testing spider the ETF that tracks
+[02:36] S P 500 but the strategy also works on
+[02:40] other
+[02:42] ETFs for example xlp which is consumer
+[02:45] staple and XLV which I have which is
+[02:47] Healthcare stocks and they assume it
+[02:49] works on other as well
+[02:52] so the entry is when the free day RSI is
+[02:56] below 20. that's it it's just one simple
+[03:00] criteria to enter
+[03:03] and exit is when the free the RSI is
+[03:06] above 60 or today's close is higher than
+[03:11] yesterday's high
+[03:13] and this is all so there are one rule to
+[03:17] enter and there are two rules for the
+[03:20] exit
+[03:22] let's look at some trade examples when
+[03:25] we run the back test in Amy broker we
+[03:28] get the results like this for example
+[03:30] the Green Arrow
+[03:33] indicates a buy and the red arrow
+[03:36] indicates the exit and here for example
+[03:39] you can see here this is the relative
+[03:42] strength index and here the the three
+[03:45] the RSI is below 20 and you buy
+[03:48] the RSI goes up because the price goes
+[03:52] up and you sell
+[03:54] and here you can see the second trade
+[03:56] third trade and fourth trade all with a
+[04:00] decent profits so the so during this
+[04:03] period we had four trades in a row with
+[04:06] a profit
+[04:07] let's look at the back test results and
+[04:10] statistics
+[04:11] we had 351 trades since 1993 and the
+[04:17] average gain per trade is 0.8 percent
+[04:21] the annual return is 9.2 percent versus
+[04:25] Buy and Hold which is 9.7
+[04:28] and 78 percent of the trades are winners
+[04:33] you are invested on average five days
+[04:37] per trade that means you are invested 16
+[04:40] of the time
+[04:43] that means that risk adjusted return is
+[04:46] 56 percent
+[04:49] how to get to this number you simply
+[04:52] take 9.2 percent which is the annual
+[04:56] return of the strategy and you divide it
+[04:58] by 0.16 which is the time spent in the
+[05:02] market
+[05:04] Max drawdown is 23 percent
+[05:08] all in all we would say this is a pretty
+[05:10] good result because you spend such such
+[05:14] a small amount of time in the market and
+[05:17] you still
+[05:18] get the result which is more or less on
+[05:20] par with Buy and Hold
+[05:23] if you want more trading strategies we
+[05:25] have hundreds of them on our webpage
+[05:27] quantifiedstrategies.com
+[05:32] [Music]

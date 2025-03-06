@@ -1,0 +1,119 @@
+標題: Stocks vs Interest Rates Trading Strategy
+URL: https://www.youtube.com/watch?v=ro4ck8Z1rYw&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:06:16
+
+=== 字幕內容 ===
+
+[00:00] what happens to stocks when bonds go up
+[00:03] welcome to this YouTube video where we
+[00:05] reveal a proven and back-tested strategy
+[00:07] that's based on the fascinating
+[00:09] relationship between bonds and stocks
+[00:12] you'll discover the impact of bond
+[00:13] market fluctuations on stock Investments
+[00:16] and how you can benefit from it but
+[00:18] before we delve into the nitty-gritty of
+[00:20] this approach let's understand why
+[00:22] keeping a close eye on the bond market
+[00:24] is crucial for every stock investor out
+[00:26] there
+[00:27] Financial Theory highlights the
+[00:29] importance of bonds because interest
+[00:30] rates directly impact the value of
+[00:33] stocks when interest rates are low
+[00:35] investors are incentivized to invest in
+[00:37] riskier assets like stocks since they
+[00:40] receive higher returns for taking on
+[00:42] that risk however as interest rates rise
+[00:45] the appeal of riskier assets like stocks
+[00:47] gold and Bitcoin declines now let's take
+[00:51] a closer look at bonds
+[00:52] a bond pays a fixed coupon annually
+[00:55] until it matures meaning that a bond
+[00:57] with a five percent coupon will pay five
+[00:59] percent each year until its maturity
+[01:01] date which could be as long as 20 years
+[01:03] or more
+[01:04] however during the Bond's lifetime
+[01:06] interest rates fluctuate significantly
+[01:09] if interest rates increase the Bond's
+[01:12] fixed coupon becomes less attractive
+[01:14] causing its price to decrease to reflect
+[01:16] the increased rates as a result there
+[01:19] exists an inverse relationship between
+[01:21] stocks and interest rates it's important
+[01:23] to note that stocks are generally
+[01:25] considered riskier than bonds because
+[01:27] bondholders receive their money back
+[01:29] before Equity holders in the event of a
+[01:31] company's bankruptcy therefore bonds are
+[01:34] perceived as less risky than stocks our
+[01:36] hypothesis is that a rising bond market
+[01:39] is beneficial for stocks since interest
+[01:41] rates decrease making stocks more
+[01:43] attractive are we correct let's find out
+[01:46] let's back test what happens to stocks
+[01:49] when bonds go up we are long stocks spy
+[01:52] when bonds TLT are above the end-day
+[01:54] moving average and we sell when it's
+[01:56] below the end-day moving average for
+[01:59] example when TLT crosses above its
+[02:01] 15-day moving average we buy spy at the
+[02:04] close when the close of TLT crosses
+[02:07] below its 15-day moving average we sell
+[02:09] spy and are out of the market until TLT
+[02:12] later crosses above its 15-day moving
+[02:14] average
+[02:15] what are spy and TLT spy is the ETF that
+[02:19] tracks the S P 500 and TLT is the ETF
+[02:22] that tracks U.S 20-year treasury bonds
+[02:25] when TLT goes down in price the interest
+[02:28] rates go up and vice versa we're excited
+[02:30] to share with you the results of our
+[02:32] back testing our optimization test
+[02:34] involved analyzing a range of moving
+[02:36] averages from 5 days to 100 days in
+[02:39] five-day intervals resulting in a total
+[02:42] of 20 back tests and here's what we
+[02:44] found the First Column indicates the
+[02:46] number of days in the moving average and
+[02:49] the subsequent columns show the trading
+[02:50] outcomes for each specific number of
+[02:52] days but what's really significant is
+[02:55] the third column which displays the
+[02:57] average gain per trade what's
+[03:00] interesting to note is that the average
+[03:01] is listed in column 3 were consistently
+[03:04] higher across all rows than any random
+[03:07] period this means that almost all of the
+[03:10] gains in S P 500 came when TLT was above
+[03:14] its average
+[03:15] we're thrilled to share these findings
+[03:17] with you and we hope this information
+[03:18] helps you make more informed decisions
+[03:20] when it comes to your Investments now
+[03:23] let's look at a specific back test we
+[03:26] chose the 15-day moving average this is
+[03:28] how the equity curve looks like from
+[03:31] 2003. as you can see spy's performance
+[03:34] is strong Spy increased 9.8 percent
+[03:37] annually in this period and our strategy
+[03:39] returned slightly less at 8.85 annually
+[03:43] despite being invested just 54 percent
+[03:45] of the time
+[03:47] in our analysis we conducted 365 trades
+[03:50] with an average gain of 0.51 per trade
+[03:54] an annual return of 8.85 percent and a
+[03:58] maximum drawdown of 31 percent so we can
+[04:01] conclude that stocks go up when bonds go
+[04:03] up obviously when we reverse the buy and
+[04:06] sell signals we observe much worse
+[04:08] results however we've covered that in
+[04:10] another video called what happens to
+[04:12] stocks when bonds go down stay tuned we
+[04:15] stop here for today and hope you like
+[04:17] And subscribe and visit our website to
+[04:19] find hundreds of other strategies for
+[04:21] many other asset classes good luck
+[04:23] Trading

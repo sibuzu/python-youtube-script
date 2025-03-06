@@ -1,0 +1,24 @@
+標題: Friday 13th Trading Strategy (Backtest)
+URL: https://www.youtube.com/watch?v=22GwTbRFrzE&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:03:27
+
+=== 字幕內容 ===
+
+[00:01] Friday the 13th has long been associated
+[00:03] with bad luck although the exact origin
+[00:06] of the Superstition is not known but is
+[00:09] Friday the 13th an unlucky day in the
+[00:11] stock
+[00:12] market let's make a trading strategy
+[00:14] with specific trading rules so that we
+[00:16] can back test S&P
+[00:18] 500 past data indicates that Friday the
+[00:21] 13th is a pretty erratic day since 1960
+[00:25] even though the average gain is
+[00:28] 0.12% it might be erratic but it's still
+[00:30] better than any random Friday which is
+[00:33] .3% we can safely say that Friday the
+[00:36] 13th is not an unlucky
+[00:38] day that's all for today and good luck
+[00:44] Trading

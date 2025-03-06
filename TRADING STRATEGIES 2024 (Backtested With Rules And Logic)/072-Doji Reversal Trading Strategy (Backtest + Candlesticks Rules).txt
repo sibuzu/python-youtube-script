@@ -1,0 +1,92 @@
+標題: Doji Reversal Trading Strategy (Backtest + Candlesticks Rules)
+URL: https://www.youtube.com/watch?v=p3St7_mOOOI&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:06:05
+
+=== 字幕內容 ===
+
+[00:00] doji candlesticks reversals a secret
+[00:02] trading weapon in this video we'll
+[00:04] demonstrate an effective way to show how
+[00:06] you can use the doji pattern in the
+[00:08] stock market if you don't know what a
+[00:09] doji is don't worry we'll show you what
+[00:12] it is and how you can spot it in the
+[00:13] chart after explaining what a doji is
+[00:15] we'll back test it and tell you exactly
+[00:17] how it performs does the doji pattern
+[00:20] increase the returns compared to any
+[00:21] random period we find out by back
+[00:23] testing this means making specific
+[00:25] trading rules and not using random
+[00:27] anecdotal evidence we will also improve
+[00:29] the doji strategy by making improved
+[00:31] exit rules before we start we'd like to
+[00:33] mention that we have back tested and
+[00:35] coded all Candlestick patterns that
+[00:37] exist you can purchase our research for
+[00:39] a moderate fee on our website including
+[00:41] the back tester code for Amy broker or
+[00:43] tradestation the fact is that the 10
+[00:45] best candlesticks perform very well they
+[00:48] beat Buy and Hold handily despite being
+[00:50] invested just 35 percent of the time
+[00:52] let's return to our dojis doji trading
+[00:55] strategies are popular and the doji
+[00:57] pattern is one of the most famous
+[00:58] Candlestick patterns there are four four
+[01:00] types of dojis neutral doji gravestone
+[01:03] doji dragonfly doji long-legged doji the
+[01:06] four arrows in the chart show each
+[01:07] different type of doji what does a doji
+[01:10] signal doji's have small bodies with
+[01:11] upper and lower Shadows that are of
+[01:13] Greater length than the Candlestick
+[01:14] body's length this presumably represents
+[01:17] indecision between the Bulls and the
+[01:18] Bears however we won't bore you with
+[01:21] explaining doji's that is already done
+[01:23] hundreds of times instead we'll back
+[01:25] test to find out if they work or not we
+[01:27] use the trading code we made which you
+[01:29] can find on our website and we made the
+[01:31] following trading rules
+[01:33] Market S P 500 spy when we spot one of
+[01:37] the four dojis in the chart we buy we
+[01:40] sell in days later the back test
+[01:42] returned the following results the First
+[01:44] Column shows the number of days we are
+[01:45] in the trade for example row number five
+[01:48] shows the results when we sell after
+[01:49] five trading days which is a zero Twenty
+[01:52] Eight percent gain per trade the results
+[01:54] are slightly better than any random
+[01:56] period can we improve it let's try to
+[01:58] add a sell criteria where we sell on
+[02:00] strength to exploit the mean reversion
+[02:02] effect in the market we sell when the
+[02:04] close is higher than yesterday's high
+[02:06] does it improve the equity curve doesn't
+[02:09] show a linear upward slope but the
+[02:11] average of 0.32 percent per trade over a
+[02:14] four-day holding period is still better
+[02:16] than any random period let's try another
+[02:18] twist and we make the following trading
+[02:20] rules
+[02:21] Market S P 500 spy when we spot one of
+[02:26] the four dojis in the chart we buy the
+[02:28] five-day RSI must be below 50. we sell
+[02:31] when the close is higher than
+[02:32] yesterday's high the idea behind the RSI
+[02:35] filter is to buy when the market is
+[02:37] somewhat oversold there are a few trades
+[02:39] only 62 but the average gain per trade
+[02:41] improves to zero fifty four percent
+[02:44] however the equity curve is not
+[02:46] particularly inspiring that's all for
+[02:48] now but if you'd like to know more about
+[02:49] candlesticks and performance we have
+[02:51] plenty more on our website and please
+[02:53] don't forget to like And subscribe to
+[02:55] help us deliver more free videos Good
+[02:57] Luck Trading

@@ -1,0 +1,140 @@
+標題: 3 MEAN REVERSION TRADING STRATEGIES
+URL: https://www.youtube.com/watch?v=UkoTdKV65yk&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:05:09
+
+=== 字幕內容 ===
+
+[00:00] in this video we will be presenting
+[00:02] three mean reversion trading strategies
+[00:04] that could help take your trading game
+[00:06] to the next level
+[00:07] these strategies were published on our
+[00:09] website many years back and now we're
+[00:11] presenting their performance on
+[00:13] different ETFs after seeing the videos
+[00:16] you'll have three great trading ideas
+[00:18] you can test for yourself
+[00:20] we'll also discuss why to mean reversion
+[00:22] works and which markets are best suited
+[00:24] for mean reversion trading strategies
+[00:26] and if that's not enough we'll also take
+[00:29] you through some historical back testing
+[00:31] to give you a sense of the potential
+[00:33] performance of these strategies so get
+[00:36] ready to learn about a new approach to
+[00:37] trading and let's get started
+[00:39] first let's briefly Define mean
+[00:42] reversion the basic premise behind mean
+[00:44] reversion trading is that when a
+[00:46] financial assets price deviates
+[00:48] significantly from its average price it
+[00:50] is likely to eventually revert to its
+[00:52] mean price as can be seen in the chart
+[00:55] an example of mean reversion is when you
+[00:58] buy oversold assets and sell overbought
+[01:00] Assets in this video we quantify
+[01:03] conditions and make trading rules based
+[01:05] on this simple principle is mean
+[01:07] reversion a good strategy yes for most
+[01:10] Global stock markets mean reversion has
+[01:12] worked very well over the last decades
+[01:13] however it's not as good for other asset
+[01:16] classes why does mean reversion work
+[01:18] it's hard to tell but we believe program
+[01:20] trading is a major reason why it seems
+[01:23] to work
+[01:24] let's go straight to our first mean
+[01:26] reversion trading strategy the strategy
+[01:28] was first published on our website in
+[01:30] 2013 and trades the ETF that tracks the
+[01:33] consumer staples sector the ticker code
+[01:36] is xlp and you can see the specific
+[01:38] trading rules on the screen the main
+[01:40] idea is to buy after a drop in the
+[01:42] market and sell on strength one hundred
+[01:45] zero zero zero invested at Inception and
+[01:48] compounded until today has performed
+[01:50] well
+[01:51] the 457 trades returned 0.38 per trade
+[01:55] and annual returns of 6.7 percent this
+[01:59] is a good result compared to buy and
+[02:01] holds is 6.8 percent despite being
+[02:04] invested only 28 of the time the
+[02:06] risk-adjusted return is 23.6 percent
+[02:09] let's go to our second mean reversion
+[02:12] strategy of the day this is a short
+[02:14] strategy And Trades the Chinese markets
+[02:16] we use the very liquid ETF with the
+[02:19] ticker code fxi for the back test it has
+[02:22] shown strong mean reversion Tendencies
+[02:24] over the last decade and the trading
+[02:26] rules have worked pretty well over the
+[02:28] last 15 years the strategy didn't work
+[02:31] prior to 2008 but please also take into
+[02:34] consideration that this is a short
+[02:36] strategy short is much more difficult to
+[02:38] trade than long because of the upward
+[02:40] bias in the stock market
+[02:42] the trading statistics and performance
+[02:44] are good we beat Buy and Hold by a wide
+[02:47] margin
+[02:48] even better this strategy should offer
+[02:51] good diversification to any long
+[02:52] strategies you might have
+[02:54] what is the best mean reversion
+[02:56] indicator this strategy uses the IBS
+[02:59] indicator an indicator we have made a
+[03:01] separate video of
+[03:03] formula is on the screen we consider the
+[03:05] IBS relative strength index and the
+[03:08] Williams percent r as the best mean
+[03:10] reversion indicators let's go to our
+[03:13] third and final strategy of the day
+[03:15] at this stage you might be wondering
+[03:17] what is the best time frame for mean
+[03:19] reversion in all our strategies we use
+[03:22] the daily time frame because our back
+[03:24] tests show that this is the best time
+[03:25] frame the third strategy was published
+[03:28] on our website in 2012 and it trades S P
+[03:31] 500 we use the ETF with the ticker code
+[03:34] spy for our back test which has trading
+[03:37] rules which can hardly get any simpler
+[03:39] we buy on a five-day low and sell when
+[03:41] the close is higher than yesterday's
+[03:43] high or after five trading days
+[03:46] this long strategy has performed well
+[03:49] one hundred zero zero zero compounded
+[03:51] from 1993 until today has produced 8.8
+[03:55] annual returns compared to buy and holds
+[03:58] 9.5 percent
+[04:00] again we need to consider that the
+[04:02] strategy is spending most of the time on
+[04:04] the sidelines and thus reducing risk we
+[04:07] have managed almost the same return as
+[04:09] Buy and Hold despite being invested only
+[04:11] 19 percent
+[04:12] now that we have presented you with
+[04:14] three strategies you are perhaps
+[04:16] wondering when mean reversion works best
+[04:18] believe it or not our back tests reveal
+[04:21] that means reversion works best during a
+[04:23] bear Market it might sound
+[04:24] counter-intuitive but the reason is
+[04:27] increased volatility and perhaps even
+[04:29] more counter-intuitive is that long
+[04:31] works better than short
+[04:33] however the accuracy of any mean
+[04:35] reversion strategy depends on the
+[04:37] trading rules despite this we can't
+[04:40] argue that mean reversion is better than
+[04:42] Trend following strategies for example
+[04:44] however it seems mean reversion is the
+[04:47] low-hanging fruit in the stock market
+[04:48] that's all for today if you want the
+[04:51] code for the strategies you can get them
+[04:53] by becoming a member and last don't
+[04:56] forget to like subscribe and get ready
+[04:58] for our next video that contains three
+[05:01] Trends following strategies

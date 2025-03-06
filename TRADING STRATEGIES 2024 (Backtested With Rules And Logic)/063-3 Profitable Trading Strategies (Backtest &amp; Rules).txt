@@ -1,0 +1,213 @@
+標題: 3 Profitable Trading Strategies (Backtest &amp; Rules)
+URL: https://www.youtube.com/watch?v=j1qjX0Zxpd0&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:05:44
+
+=== 字幕內容 ===
+
+[00:00] welcome to Quantified strategies in this
+[00:03] video about three profitable trading
+[00:05] strategies complete with trading rules
+[00:07] and back tests based on S P 500 and
+[00:10] NASDAQ 100.
+[00:12] we show you one mean reversion trading
+[00:14] strategy one Trend following strategy
+[00:16] and one strategy that combines both
+[00:19] strategies into one profitable trading
+[00:21] strategy
+[00:22] let's get straight to it and present the
+[00:24] first profitable trading strategy the
+[00:27] rubber band strategy
+[00:29] it was presented on our website as long
+[00:31] back as 2013 and thus we have plenty of
+[00:34] data to find out how it's performed
+[00:35] after it was released
+[00:37] the trading rules on the screen indicate
+[00:39] that this is a mean reversion strategy
+[00:42] we buy on weakness and sell on strength
+[00:44] mean reversion has worked very well for
+[00:47] stock since about 1985 although there's
+[00:49] no way of knowing how long it'll last
+[00:52] the strategy is performed well as
+[00:54] indicated by the equity curve but best
+[00:56] before 2015.
+[00:58] the one hundred thousand invested in
+[01:01] 1993 is grown to 870 000 which is an
+[01:04] annual return of 7.4 percent dividends
+[01:07] included
+[01:08] it's not managed to be Buy and Hold but
+[01:11] that's not to be expected because the
+[01:12] strategy is invested only fourteen
+[01:14] percent of the time
+[01:15] if we adjust for the time spent in the
+[01:18] market we might argue the risk-adjusted
+[01:20] return is 51 percent
+[01:22] by the way we appreciate your support if
+[01:24] you want to help our channel to grow
+[01:26] please give this video a like and
+[01:27] consider subscribing to our Channel
+[01:30] let's switch to the second profitable
+[01:32] trading strategy this one can be labeled
+[01:35] Trend following in trades infrequently
+[01:37] the strategy is called the Golden Cross
+[01:39] trading strategy and is based on two
+[01:42] moving averages the shorter 50-day
+[01:44] moving average and the longer 200-day
+[01:46] moving average we use a simple moving
+[01:49] average but it's performed better with
+[01:51] an exponential average
+[01:52] the trading rules which is a crossover
+[01:55] system can hardly get any simpler the
+[01:57] main idea is to avoid long and severe
+[01:59] drawdowns
+[02:01] the capital compounds at 6.6 percent
+[02:03] just a tad lower than Buy and Hold 6.9
+[02:06] percent not including dividends
+[02:08] there are only 33 trades since 1960 but
+[02:11] Max drawdown is reduced dramatically
+[02:13] because you avoid severe drawdowns Max
+[02:16] drawdown is 33 percent compared to buy
+[02:18] and holds 56 percent
+[02:21] we've marked in yellow the most recent
+[02:23] bear markets and you would have avoided
+[02:25] almost all of it any drawdowns more than
+[02:27] 20 percent only last a very short time
+[02:29] and the ride is a much smoother one than
+[02:32] Buy and Hold
+[02:33] the chart shows the bear markets of 1973
+[02:36] to 1974 2000 to 2003 2008 to 2009 and
+[02:42] 2022 were mostly avoided completely
+[02:45] however in a Raging Bull Market this
+[02:47] profitable trading strategy is likely to
+[02:49] underperform
+[02:51] let's show our third and last profitable
+[02:53] trading strategy of the day we combine
+[02:55] the two strategies into one portfolio of
+[02:58] two trading strategies
+[03:00] why do we do that because both trading
+[03:03] strategies are not invested all the time
+[03:05] and profitable short-term mean reversion
+[03:07] strategies have worked well in a bear
+[03:09] Market when S P 500 is trading under its
+[03:12] 200-day moving average
+[03:14] thus we believe the two trading
+[03:16] strategies complement each other
+[03:18] let's make a combined trading strategy
+[03:20] where we trade the rubber band strategy
+[03:22] only when the long 200-day moving
+[03:24] average is above the short 50-day moving
+[03:26] average let's make the following trading
+[03:29] rules
+[03:30] the rules as shown on the screen are
+[03:32] slightly more complex but still
+[03:34] relatively easy to code the main idea is
+[03:36] to trade short-term mean reversion when
+[03:38] we're in a bear market and stay long
+[03:40] when the trend is bullish
+[03:42] let's back test the combined profitable
+[03:44] trading strategy on spy the ETF that
+[03:48] tracks the S P 500 and include
+[03:50] reinvested dividends
+[03:52] the 100 000 grows to over 2.5 million
+[03:55] which equals annual returns of 11.2
+[03:58] percent and Max drawdown is 33
+[04:01] significantly lower than buy and holds
+[04:04] the strategy is highly profitable and is
+[04:07] outperformed by and hold significantly
+[04:10] the number of Trades is 103 and the
+[04:12] average gain is almost 4 percent per
+[04:14] trade but the high average is of course
+[04:16] due to many large Trend following
+[04:18] winners let's backtest the exact same
+[04:20] trading rules on QQQ the ETF that tracks
+[04:23] NASDAQ 100 the equity compounds nicely
+[04:26] at 13.6 percent per year compared to
+[04:29] only 9.1 percent for Buy and Hold
+[04:32] the profitable trading strategy is
+[04:34] invested only 71 percent of the time yet
+[04:37] it's managed solid and consistent
+[04:39] returns with modest and short-lived
+[04:41] drawdowns
+[04:42] the combined trading strategy is not
+[04:44] curve fitted in any way and you can get
+[04:46] better returns by adjusting the settings
+[04:48] this trading strategy indicates that you
+[04:51] can successfully employ two types of
+[04:53] trading strategies with different time
+[04:54] Horizons both long and short term that
+[04:57] complement each other you increase
+[04:59] returns without having larger drawdowns
+[05:01] We Believe diversification is the only
+[05:04] Holy Grail in trading to make profitable
+[05:06] trading strategies many Traders waste
+[05:09] their time trying to make a good
+[05:10] strategy and do a perfect one only to
+[05:12] realize that trading results don't match
+[05:14] the curve fitted back tests making the
+[05:16] trading strategy useless in predicting
+[05:18] the future
+[05:20] but many sub-optimal trading strategies
+[05:22] can potentially be used to make a
+[05:24] portfolio of strategies as strategy 3
+[05:27] indicates the most profitable trading
+[05:29] strategy only exists in theory we
+[05:32] believe it's smart to trade many markets
+[05:34] or asset classes trade different types
+[05:36] of strategies trade both long and short
+[05:38] and finally trade different time
+[05:40] Horizons
+[05:42] there's no sure thing in the financial
+[05:43] markets but it's always wise to trade
+[05:45] Diversified strategies
+[05:47] the trading strategies we used in this
+[05:49] video are just examples and not
+[05:51] investment advice but we hope you get
+[05:53] the idea how to make profitable trading
+[05:55] strategies let's end the article with
+[05:57] some FAQ about how to make a profitable
+[06:00] trading strategy
+[06:01] first what's the best approach to making
+[06:03] a profitable trading strategy
+[06:06] our approach in general is all about
+[06:08] back testing you need to get an idea
+[06:10] make specific trading rules and back
+[06:12] test it to find out if it's performed
+[06:14] well in the past
+[06:15] if it's performed well you put the
+[06:17] strategy in incubation or demo account
+[06:19] for at least 12 months to see if the
+[06:21] strategy is able to make good
+[06:23] predictions
+[06:24] second what's the most profitable
+[06:26] trading strategy
+[06:27] as we indicated earlier in the video
+[06:29] there's no optimal or perfect strategy
+[06:31] we believe the optimal strategic trading
+[06:34] tactic is to trade many strategies that
+[06:36] complement each other the best trading
+[06:39] strategies trade different markets time
+[06:41] frames and Market directions
+[06:43] third how long can you expect a
+[06:45] profitable trading strategy to last
+[06:48] unfortunately a trading strategy in most
+[06:50] cases has a finite life this is one of
+[06:53] the reasons why you want to have many
+[06:55] strategies that trade different markets
+[06:57] time frames and Market directions
+[07:00] you don't want to be dependent on one
+[07:01] single strategy
+[07:03] we also believe that the most profitable
+[07:05] trading strategies are found in stocks
+[07:07] and bonds these two markets have a
+[07:09] long-term tailwind and most strategies
+[07:11] are likely to last longer than in Forex
+[07:14] and commodities for example that was all
+[07:16] for today and we hope you like it and
+[07:18] stay tuned for the next video coming up
+[07:19] showing three different RSI trading
+[07:22] strategies also please check out our
+[07:24] list of trading strategies on our
+[07:26] website we have hundreds of back tested
+[07:28] trading strategies
+[07:31] thank you
+[07:34] [Music]

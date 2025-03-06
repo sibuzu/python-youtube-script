@@ -1,0 +1,75 @@
+標題: What Happens When Stock Markets Are Overbought?
+URL: https://www.youtube.com/watch?v=V8lL3DBl44E&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:05:11
+
+=== 字幕內容 ===
+
+[00:00] unlocking the secret to stock market
+[00:02] success requires an understanding of the
+[00:04] concept of overbought in this video
+[00:06] we'll show you why you must understand
+[00:08] this concept what it means and what kind
+[00:10] of return can you expect when the stock
+[00:12] market is considered overbought stay
+[00:14] tuned and we'll answer all in this video
+[00:16] first to navigate the Market's
+[00:18] complexities you must grasp the
+[00:20] principle of mean reversion the main
+[00:22] principle to understand the term
+[00:23] overbought in statistical terms this
+[00:26] means that strong deviations from the
+[00:28] trend will eventually revert to the mean
+[00:29] and move in the opposite direction when
+[00:32] we say weaker we mean in comparison to
+[00:34] the previous period so what exactly is
+[00:36] overbought it's when the market has
+[00:38] experienced a defined period of growth
+[00:40] which could be days weeks or months the
+[00:42] exact duration is up to you but it's
+[00:44] crucial to have a clear definition if
+[00:46] you use a daily time frame in trading
+[00:48] for instance a period of 15 days could
+[00:50] be considered overbought depending on
+[00:52] how much it Rose during that time at
+[00:55] Quantified strategies we like to rely on
+[00:57] numbers to illustrate our points
+[00:59] therefore we will use the RSI indicator
+[01:01] to prove our Point by formulating a
+[01:03] trading strategy to identify overbought
+[01:05] conditions hopefully with this knowledge
+[01:08] you can make more informed investment
+[01:09] decisions and Achieve greater success in
+[01:11] the market let's find out what happens
+[01:13] when the stock market is overbought we
+[01:16] back test we make the following trading
+[01:18] rules one we buy S P 500 at the close
+[01:21] when the two-day RSI is above 95. two we
+[01:24] sell at the close after end days this is
+[01:27] a simple strategy but we make it simple
+[01:29] to prove our point the relative strength
+[01:31] indicator RSI is used because it goes
+[01:34] from oversold to overbought conditions
+[01:36] constantly and it measures the velocity
+[01:38] of those moves when values are high it
+[01:41] indicates an euphoric Market as it has
+[01:43] risen a lot over the defined look back
+[01:45] period our back test is summarized in
+[01:47] this table the First Column shows when
+[01:49] we exit Row one exiting after one day
+[01:52] row after two days and so on column
+[01:54] three shows that the returns in the
+[01:56] first five days after entry are
+[01:58] significantly lower than the long-term
+[02:00] average which is about zero zero five
+[02:02] percent per day however as time goes on
+[02:04] the returns gravitate toward the
+[02:06] long-term averages as expected so to
+[02:09] conclude our back Test shows that we can
+[02:11] expect lower returns in the short term
+[02:13] than average after reaching an
+[02:14] overbought condition that's all for
+[02:16] today thanks for tuning in and we'll see
+[02:18] you in the next one and by the way don't
+[02:20] forget to subscribe and like so we can
+[02:22] keep delivering free videos

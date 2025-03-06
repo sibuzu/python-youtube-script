@@ -1,0 +1,192 @@
+標題: 3 Index Trading Strategies (Backtest and Rules)
+URL: https://www.youtube.com/watch?v=UURZzdzdxTQ&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:05:06
+
+=== 字幕內容 ===
+
+[00:00] welcome back to Quantified strategies
+[00:02] today we show you three index trading
+[00:04] strategies complete with specific
+[00:06] trading rules and settings so that we
+[00:08] can back test them to find if they have
+[00:10] worked in the past stick to the end and
+[00:13] we'll also answer questions about the
+[00:15] easiest indexes to trade and the best
+[00:17] way to trade them by the way if you find
+[00:20] our videos helpful and enjoyable please
+[00:22] consider giving this video a thumbs up
+[00:24] and subscribing to our Channel your
+[00:27] support means a lot to us as it helps
+[00:29] boost our visibility on YouTube and
+[00:31] enables us to keep creating valuable
+[00:33] content and videos thanks for supporting
+[00:35] us now back to the three index trading
+[00:38] strategies so what is index trading that
+[00:41] is a financial index that tracks
+[00:43] different asset prices for example a
+[00:45] basket of stocks that said and without
+[00:48] further Ado we jump straight to the
+[00:50] first one of our three index trading
+[00:51] strategies the strategy is called the
+[00:54] Commodities to equity ratio trading
+[00:56] strategy it might have a slightly
+[00:58] difficult name but it has has performed
+[01:00] well and we need to use two indexes to
+[01:03] back test it the Commodities to equity
+[01:05] ratio is simply a division between the S
+[01:08] and P Goldman Sachs commodity index and
+[01:11] S and P 500 of course you can also use
+[01:14] another commodity index but Goldman
+[01:16] Sachs is a widely used Benchmark the
+[01:19] ratio indicates which index is
+[01:21] outperforming or underperforming if the
+[01:23] ratio is increasing it suggests that
+[01:25] Commodities are performing better than
+[01:27] stocks opposite a decreasing ratio
+[01:30] implies that stocks are outperforming
+[01:32] Commodities let's back test the strategy
+[01:35] in Python and we use the following
+[01:37] trading rules as shown on the screen the
+[01:39] idea is to take advantage of the asset
+[01:41] class performing better at any given
+[01:44] time the equity curves show that the
+[01:46] strategy beats buying and holding S P
+[01:49] 500 although it's a bumpy ride it's a
+[01:52] pretty volatile strategy but the results
+[01:54] are inspiring the strategy returns
+[01:57] almost nine percent annually which is
+[01:59] more than 1 percentage Point better than
+[02:01] S P 500 not including reinvested
+[02:04] dividends you might wonder we why chose
+[02:06] a moving average of 21 days is that an
+[02:09] optimized setting no it's not the
+[02:11] optimal setting the strategy works best
+[02:14] with a short moving average and it gets
+[02:16] less efficient the more days in the
+[02:18] average let's go to the second of our
+[02:20] three index trading strategies this one
+[02:22] is also a rotation strategy where we are
+[02:25] invested in a growth or value index ETF
+[02:27] depending on the performance of each
+[02:29] index why value and growth stocks are
+[02:32] usually labeled growth or value and
+[02:34] value has been one of the best
+[02:36] performing factors of all time value has
+[02:38] outperformed growth historically even
+[02:40] though growth had a terrific last decade
+[02:42] convi make a profitable index trading
+[02:45] strategy that rotates between value and
+[02:47] growth and is better than Buy and Hold
+[02:49] let's look at two index ETFs that track
+[02:52] value and growth iusv which tracks value
+[02:55] stocks and iusg which tracks growth
+[02:58] stocks we made a week strategy that has
+[03:01] the rules shown on the screen it's a
+[03:03] moving average crossover system and it
+[03:05] has performed well since 2001. our
+[03:08] rotation system has beaten both indexes
+[03:10] nicely
+[03:12] the annual return of almost nine percent
+[03:15] is significantly better than both index
+[03:18] ETFs and this is achieved with less
+[03:20] volatility and risk this is exactly what
+[03:23] we are looking for in an index trading
+[03:25] strategy let's finish with our last
+[03:28] strategy of the three index trading
+[03:30] strategies this strategy is only for our
+[03:33] paying subscribers and it's strategy
+[03:35] number two on our landing page for
+[03:38] member strategies the strategy was
+[03:40] published in October 2021 and thus it
+[03:43] has been live for almost two years in
+[03:46] addition to the 12-month incubation we
+[03:48] always use before we release or start
+[03:50] trading anything it has one trading rule
+[03:53] for when to buy and one for when to sell
+[03:55] it can hardly get any simpler this means
+[03:58] the reversion strategy has performed
+[04:00] well on spy the ETF that tracks S P 500
+[04:04] 100 000 invested in 1993 is worth almost
+[04:08] 7 million today this equals an annual
+[04:10] return of 15.5 percent with an average
+[04:13] gain per trade of 0.8 percent which
+[04:16] should provide a wide margin of security
+[04:18] for slippage and commissions the returns
+[04:21] are pretty good considering the strategy
+[04:23] is invested only 35 of the time and has
+[04:27] a modest Max drawdown of 22 percent and
+[04:30] drawdowns don't last for a long time we
+[04:32] have now presented you with three index
+[04:34] trading strategies and we always
+[04:36] recommend trading a diversified
+[04:38] portfolio of trading strategies there is
+[04:41] no sure thing in the financial markets
+[04:43] and hence we recommend trading different
+[04:46] markets time frames strategies and
+[04:49] Market directions however we emphasize
+[04:52] that the index trading strategies we
+[04:54] used in this video are just examples and
+[04:57] not investment advice always make sure
+[04:59] you trade in a demo account before you
+[05:01] trade live before we end the video we'd
+[05:04] like to answer some typical frequently
+[05:06] asked questions about index trading
+[05:09] strategies which are the easiest indexes
+[05:11] to trade first trading is not easy
+[05:14] however we believe the stock market is
+[05:17] the best to trade stock index trading
+[05:19] strategies of which there are plenty can
+[05:22] be found in multiple liquid ETFs that
+[05:24] track an index the stock market is also
+[05:27] very diverse our experience is that
+[05:29] Commodities and Forex are the hardest to
+[05:32] trade what is the best way to trade
+[05:34] index trading strategies that depends on
+[05:36] the market for stocks short-term mean
+[05:39] reversion has worked well but also
+[05:41] long-term trends because of the Tailwind
+[05:44] from inflation and productivity gains
+[05:46] that said you need to back test before
+[05:49] you commit real money because there is
+[05:51] no specific best way to trade an index
+[05:54] what is the difference between trading
+[05:56] stocks and index strategies the biggest
+[05:59] difference is volatility because an
+[06:01] index is the sum of the many it's
+[06:03] normally less volatile than an
+[06:05] individual stock you are more
+[06:07] Diversified when trading an index
+[06:09] compared to a single stock even if you
+[06:11] are trading many stocks adverse
+[06:13] movements from one stock can create
+[06:15] havoc in your portfolio it's worth
+[06:17] noting that trading stocks and index
+[06:19] strategies are not mutually exclusive
+[06:21] some investors employ a hybrid approach
+[06:24] combining both trading individual stocks
+[06:26] and using index strategies for broader
+[06:28] Market exposure or hedging is index
+[06:31] trading strategies better than Forex
+[06:33] that one is easy to answer yes index
+[06:36] trading strategies are better than Forex
+[06:38] we regard Forex as the hardest Market to
+[06:41] trade thank you so much for joining us
+[06:43] today we sincerely hope you enjoyed this
+[06:46] video make sure to hit that like button
+[06:48] and subscribe to our channel for more
+[06:50] amazing content and don't forget to
+[06:52] click on the notification Bell so you
+[06:53] never miss an update in our next video
+[06:56] we'll be diving into the world of mean
+[06:58] reversion trading strategies we'll
+[07:00] explore five unique trading strategies
+[07:02] that are sure to pique your interest so
+[07:05] stay tuned if you have any questions or
+[07:07] suggestions please leave them in the
+[07:09] comments below we love hearing from you
+[07:12] and always strive to bring you the best
+[07:14] possible content until next time take
+[07:17] care and happy Trading
+[07:19] foreign
+[07:24] [Music]

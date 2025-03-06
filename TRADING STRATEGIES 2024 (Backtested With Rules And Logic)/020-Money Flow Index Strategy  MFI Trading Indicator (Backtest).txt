@@ -1,0 +1,173 @@
+標題: Money Flow Index Strategy | MFI Trading Indicator (Backtest)
+URL: https://www.youtube.com/watch?v=9qmYEqzA7HI&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:04:03
+
+=== 字幕內容 ===
+
+[00:00] are you tired of complicated trading
+[00:02] strategies that require a PhD in
+[00:04] mathematics to understand well you're in
+[00:06] luck today we're going to introduce you
+[00:08] to the money flow index mfi trading
+[00:11] strategy with a back test a simple and
+[00:14] effective way to trade the markets but
+[00:16] before we dive into the details about
+[00:18] mfi have you ever wondered how volume
+[00:21] and price can influence the market and
+[00:23] how you can use this information to your
+[00:25] advantage stick around and we'll show
+[00:27] you how
+[00:28] in the end of the video we'll go through
+[00:30] the most common questions and some tips
+[00:32] using the money flow index
+[00:35] have you heard of the mfi
+[00:37] the mfi which is an abbreviation for
+[00:40] money flow index is a momentum indicator
+[00:42] that measures the flow of money into and
+[00:45] out of a security by combining price and
+[00:48] volume data the mfi oscillates between 0
+[00:51] and 100 and shows overbought and
+[00:53] oversold conditions in the market
+[00:56] the money flow index can be used for
+[00:58] predicting potential price reversals in
+[01:00] the market
+[01:01] so how do we use the money flow index
+[01:04] indicator to trade we have three simple
+[01:06] rules when we backtest the spy and s p
+[01:10] 500. if the two-day mfi is below 10 we
+[01:14] buy at the close we sell at the close
+[01:16] when the close ends higher than
+[01:18] yesterday's high
+[01:20] we have a time stop of 10 trading days
+[01:22] that's it it can hardly get any simpler
+[01:26] we tested different values for the best
+[01:28] settings for the money flow index
+[01:29] indicator and it seems like a short look
+[01:32] back period is best
+[01:34] but does this simple strategy actually
+[01:36] work
+[01:37] let's take a look at the performance of
+[01:39] our trading capital
+[01:41] we started with a hundred thousand
+[01:43] dollars in 1993 and today we have over 2
+[01:46] million that's a 20 bagger not too bad
+[01:49] for such a simple trading strategy
+[01:52] the annual return is 10.5 percent
+[01:54] compared to buy and hold with an annual
+[01:56] return of 9.7 percent however our
+[01:59] strategy was only invested 35 percent of
+[02:02] the time
+[02:03] impressive right
+[02:05] just look at the trading statistics
+[02:07] yourself and the best part is that the
+[02:09] money flow index trading strategy is
+[02:11] easy to understand and execute even for
+[02:14] novice Traders
+[02:15] but don't just take our word for it head
+[02:18] over to our website to check out the
+[02:19] code for this strategy and hundreds of
+[02:21] other free trading strategies
+[02:24] now let's share with you some facts
+[02:25] about the money flow index here are nine
+[02:28] tips and common questions about the
+[02:30] money flow indicator
+[02:32] how do you calculate money flow index
+[02:34] the calculation of the money flow index
+[02:36] involves the use of price volume and a
+[02:39] concept known as typical price
+[02:41] these elements are used to gauge the
+[02:43] buying and selling pressure in the
+[02:45] market indicated as mfi readings which
+[02:48] go from zero to a hundred
+[02:50] the money flow index mfi and the
+[02:53] relative strength index are SI are
+[02:55] frequently mentioned as similar
+[02:56] indicators in trading however they have
+[02:59] some differences
+[03:00] the mfi incorporates volume data while
+[03:03] the RSI does not
+[03:05] which one's better the RSI or the mfi to
+[03:09] determine which one is better it's
+[03:10] recommended to back test both indicators
+[03:12] and evaluate their performance on these
+[03:14] specific trading asset
+[03:16] the mfi might work better on certain
+[03:19] assets than RSI and vice versa
+[03:22] when using the money flow index it's
+[03:24] often beneficial to combine it with
+[03:26] other indicators adding one additional
+[03:28] indicator can enhance trading ideas and
+[03:31] strategies
+[03:32] so which indicator is best with money
+[03:34] flow
+[03:35] we recommend to back test different ones
+[03:38] however it's important not to use too
+[03:40] many indicators to risk curve fitting
+[03:43] finding the right balance is crucial and
+[03:45] it's recommended to conduct back testing
+[03:47] to identify the most effective
+[03:49] combination even though the money flow
+[03:51] index can be used successfully as a
+[03:54] standalone indicator
+[03:55] is a higher mfi better a high money flow
+[03:59] index suggests strong buying pressure
+[04:01] however it's not always a reliable
+[04:03] indicator for trading decisions
+[04:05] what's the difference between high mfi
+[04:07] and low mfi the significance of a high
+[04:11] mfi reading depends on the specific
+[04:13] asset being traded for instance in the
+[04:15] case of stocks High readings often
+[04:17] indicate an upcoming bearish reversal
+[04:20] while low readings indicate stronger
+[04:22] returns over the next days
+[04:25] when you get to know the mfi indicator
+[04:27] how do you trade the money flow index
+[04:30] to identify overbought or oversold
+[04:32] conditions using the money flow index
+[04:34] certain thresholds are commonly used an
+[04:37] mfi value above 80 is considered
+[04:40] overbought indicating a potential
+[04:42] reversal or downward pressure on the
+[04:44] other hand an mfi value below 20
+[04:46] suggests oversold conditions indicating
+[04:50] a potential upward pressure or buying
+[04:52] opportunity
+[04:53] but again it depends on the time frame
+[04:55] being used short look back periods have
+[04:58] wild swings between oversold and
+[05:00] overbought while longer look back
+[05:02] periods tend to smooth out the swings
+[05:04] when trading with the money flow index
+[05:06] several factors can be considered not
+[05:09] only overbought and oversold conditions
+[05:11] these include identifying divergences
+[05:13] and Trend reversals but both of them are
+[05:16] trickier and offer less potential
+[05:18] trading opportunities in our opinion
+[05:20] we're at the end of the video but what
+[05:23] are the limitations or drawbacks of
+[05:24] using the money flow index mfi and
+[05:27] Analysis
+[05:28] false signals and sensitivity to
+[05:30] volatile price movements are among these
+[05:32] limitations but false signals are an
+[05:34] inherent aspect of trading and you can't
+[05:37] eliminate them
+[05:38] trading's about odds and statistics and
+[05:41] false signals are part of the game a
+[05:43] good Trader knows that losses are part
+[05:45] of doing business
+[05:47] that's all for today about the mfi
+[05:49] indicator if you like this video please
+[05:52] don't forget to like comment and
+[05:53] subscribe it helps us a lot to grow our
+[05:56] Channel which means more videos like
+[05:58] this
+[05:59] and speaking of great content be sure to
+[06:01] check out the next video coming up about
+[06:03] three RSI trading strategies with
+[06:06] fantastic results and statistics thanks
+[06:09] for watching and good luck Trading
+[06:12] foreign

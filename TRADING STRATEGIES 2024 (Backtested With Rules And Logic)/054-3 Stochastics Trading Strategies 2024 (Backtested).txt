@@ -1,0 +1,69 @@
+標題: 3 Stochastics Trading Strategies 2024 (Backtested)
+URL: https://www.youtube.com/watch?v=_PGzHyatvLI&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:05:22
+
+=== 字幕內容 ===
+
+[00:00] today we'll show you three stochastic
+[00:02] trading strategies we'll give you the
+[00:04] specific trading rules and the back
+[00:06] tested
+[00:07] performance you can see the equity
+[00:09] curves of the three stochastic trading
+[00:11] strategies on the screen so please make
+[00:13] sure you stick to the end to get the
+[00:15] trading rules before we start what is
+[00:18] the stochastic trading indicator
+[00:20] stochastics measures the recent strength
+[00:23] of the stock and how it trades compared
+[00:25] to the last end days it measures the
+[00:27] movement and how it fares today compared
+[00:30] to the look back periods high and low
+[00:32] readings if the current price is low
+[00:34] compared to the high low range over the
+[00:37] preceding n days the reading is low and
+[00:40] vice versa and thus it oscillates from
+[00:42] overbought to oversold levels if you
+[00:45] want to know more please click on the
+[00:47] link below the
+[00:49] video let's go to the first stochastic
+[00:51] trading strategy we use a two-day value
+[00:55] of the fast tastic variable and we buy
+[00:57] the close when it hits 25 or lower we
+[01:00] sell on a day with strength where the
+[01:02] close ends higher than yesterday's high
+[01:06] when we back test these two trading
+[01:07] rules on NASDAQ 100 we get a pretty
+[01:09] stable Equity curve as indicated on the
+[01:12] screen the average gain is 76% per trade
+[01:16] which gives you a wide margin of safety
+[01:18] to cover slippage and commissions note
+[01:20] that you're invested only 26% of the
+[01:23] time let's go to the second stochastic
+[01:26] trading strategy we increased the look
+[01:29] back period for from 2 to 3 days and buy
+[01:32] when the fast stochastic indicator
+[01:33] crosses below 20 we use the same sell
+[01:36] trigger as in the previous back test
+[01:39] when we back test the trading rules on
+[01:41] TLT the ETF that tracks long-term
+[01:44] treasury bonds we get a pretty good and
+[01:46] linear Equity curve however the average
+[01:50] per trade is much lower than for Equity
+[01:53] ETFs let's go to our third and last of
+[01:56] our stochastic trading strategies we use
+[01:59] the same Trading rules as in the
+[02:00] previous strategy but we lower the buy
+[02:02] threshold to 15 and back test the ETF
+[02:05] that tracks Consumer Staples which is
+[02:09] xlp as expected you get a lot fewer
+[02:12] trades but the average gain per trade is
+[02:14] high at
+[02:16] 76% Max draw down is also pretty low at
+[02:19] only 12% and the risk adjusted return is
+[02:22] high at 40% because the strategy's only
+[02:25] invested 8% of the time we've now shown
+[02:28] you three to ftic trading strategies and
+[02:31] we hope they help you to generate
+[02:32] trading ideas and strategies

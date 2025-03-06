@@ -1,0 +1,235 @@
+標題: 10 Trading Strategies (Backtested)
+URL: https://www.youtube.com/watch?v=T2J8x9xlZKc&list=PLHFlSdhbIZ6TEeEg4cHQ-3888yUnHZs5v
+語言: en
+下載時間: 2025-03-06 12:05:01
+
+=== 字幕內容 ===
+
+[00:01] 10 trading
+[00:03] strategies this video shows you 10
+[00:05] trading strategies where we trade
+[00:07] different assets classes you can see the
+[00:10] results sliding on your screen so make
+[00:12] sure you stick to the
+[00:13] end that said we go straight at it and
+[00:16] show you the first of the 10 trading
+[00:18] strategies the first trading strategy is
+[00:21] a seasonal trading strategy it's called
+[00:23] the tax day strategy in the US taxpayers
+[00:27] need to file before the 15th of April
+[00:30] does tax day signal any bullish or
+[00:32] bearish trading signal let's find out
+[00:35] and back test the S&P
+[00:37] 500 the trading rules are simple and we
+[00:40] buy at the end of March and we sell on
+[00:42] the first trading day after tax day that
+[00:45] means we hold the position for about 2
+[00:47] weeks it shows a pretty steady and
+[00:50] consistent growth in the equity since
+[00:52] 1960 and the average gain is
+[00:56] 1.06% which is three times better than
+[00:58] any random period
+[01:00] seasonal trading patterns are frequent
+[01:02] not only for stocks and we've covered
+[01:04] plenty of them for free on our website
+[01:07] let's go to our second of the 10 trading
+[01:09] strategies in trading when you sell is
+[01:12] just as important as when you buy but
+[01:15] still most Traders focus on when to buy
+[01:18] we'll now show you a sell signal we've
+[01:20] used in the stock market for almost two
+[01:23] decades to show you its efficiency we
+[01:26] make a pretty standard strategy where we
+[01:28] buy NASDAQ 100 when the 2-day RSI
+[01:31] indicator drops below 10 and we sell
+[01:34] when it reaches
+[01:35] 70 this simple trading strategy has been
+[01:38] decent but suffers from many large draw
+[01:41] Downs let's change the cell trigger to a
+[01:44] day where the close ends higher than
+[01:46] yesterday's high you reduce draw downs
+[01:49] and you also increase profits
+[01:51] substantially this sell signal is proven
+[01:53] to work well for stocks for almost four
+[01:55] decades since Futures Trading started in
+[01:58] the
+[01:58] 1980s
+[02:00] the returns with the new cell signal
+[02:02] made the strategy outperform by and hold
+[02:04] since the year
+[02:05] 2000 let's use the same sell signal for
+[02:08] our next and third trading strategy
+[02:11] where we use the Candlestick pattern
+[02:12] called dark cloud cover as Buy Signal
+[02:16] the trading rules for all candlesticks
+[02:18] are demanding but we Quantified dark
+[02:20] cloud cover into the trading rules you
+[02:21] see on the
+[02:23] screen as mentioned we sell when the
+[02:25] close ends higher than yesterday's high
+[02:29] when we back test the ETF the tracks S&P
+[02:31] 500 spy we get a decent Equity
+[02:35] curve it's not that many trades but
+[02:38] remember this is just one of many
+[02:40] Candlestick patterns for example if we
+[02:42] use the 10 best Candlestick patterns we
+[02:46] get the equity curve you see on the
+[02:47] screen which is annual returns of 10%
+[02:50] despite being invested only onethird of
+[02:53] the time we give you a friendly reminder
+[02:56] that you find the trading rules and code
+[02:58] for all 75 candlesticks on our
+[03:01] website let's jump to strategy four of
+[03:04] the 10 trading strategies this strategy
+[03:06] trades NASDAQ 100 and long-term treasury
+[03:09] bonds from the long side and we use the
+[03:12] ticker codes QQQ and
+[03:15] TLT we include interest rates because
+[03:17] the growth stocks on NASDAQ are
+[03:19] sensitive to
+[03:20] rates the trading rules are on the
+[03:23] screen and they're probably the most
+[03:24] complex of all the 10 trading strategies
+[03:27] in this video the capital grows from
+[03:30] 100,000 to 1.2 million in 20 years and
+[03:34] draw Downs are small and
+[03:36] short-lived draw Downs are over 20% only
+[03:39] twice over the period despite being
+[03:41] invested 58% of the time Max draw down
+[03:44] for buying and holding NASDAQ 100 was
+[03:46] over 55% so this is a huge
+[03:50] Improvement you make almost 1% per trade
+[03:53] but the average trade is rather long
+[03:55] compared to all other trading strategies
+[03:57] in this
+[03:58] video Let's stick to using interest
+[04:00] rates as a variable for one more trading
+[04:03] strategy today's fifth this time we use
+[04:06] the yield of 10-year treasury bonds as a
+[04:09] filter for when to own S&P 500 from 1960
+[04:13] until today the trading rules are simple
+[04:16] we own S&P 500 only when the yield is
+[04:19] below its 15-day exponential moving
+[04:21] average and we stay out of the market
+[04:24] when it's above the equity growth is not
+[04:27] linear and you didn't avoid the 10year
+[04:29] sideway waves movement after the dotom
+[04:31] bubble burst in the year 2000 however
+[04:34] you reduce the Max draw down
+[04:35] significantly and you get the same
+[04:37] return as Buy and Hold despite being
+[04:39] invested only about 50% of the time if
+[04:43] we flip the trading rules we get the
+[04:45] equity curve on the screen thus all
+[04:47] gains since 1960 have come when yields
+[04:50] are falling or are low which is pretty
+[04:52] intuitive what happens if we change the
+[04:55] number of days in the exponential moving
+[04:57] average the First Column shows the
+[04:59] number of of days in the exponential
+[05:00] moving average and the three last
+[05:02] columns show average gain per trade
+[05:05] annual returns and Max draw down it's
+[05:09] pretty clear that all gains in stocks
+[05:11] come when the interest rates are falling
+[05:12] or are
+[05:14] low let's go to our sixth trading
+[05:16] strategy which is an end of Monon
+[05:18] trading strategy for Russell
+[05:20] 2000 we buy on the last fifth trading
+[05:23] day of the month and we hold the
+[05:25] position until the end of the first
+[05:27] trading day of the new month the capital
+[05:30] grows consistently since
+[05:32] 1987 but the performance is weaker after
+[05:34] 2010 but still
+[05:36] positive for the cash index which
+[05:38] doesn't include reinvested dividends the
+[05:41] performance is better than Buy and Hold
+[05:43] despite being invested only 28% of the
+[05:46] time our seventh trading strategy is a
+[05:49] seasonal short strategy we short the
+[05:52] specific week that's historically the
+[05:53] worst week of the year for the stock
+[05:55] market and it happens in the second half
+[05:57] of September the notorious bad month for
+[06:00] stocks the strategy is very simple go
+[06:03] short S&P 500 on the third Friday in
+[06:06] September and cover one week later since
+[06:10] 1960 short has worked amazingly well
+[06:13] with an average gain of
+[06:14] 0.9% short trading strategies are hard
+[06:17] to find because of the long-term gains
+[06:19] in stocks so this seasonal short
+[06:22] strategy might fit in a portfolio of
+[06:24] trading
+[06:25] strategies the eighth trading strategy
+[06:27] is about Bitcoin it's a momentum
+[06:29] strategy and yet again the trading rules
+[06:32] are simple we go long when Bitcoin
+[06:34] breaks above the close 25 days ago and
+[06:37] we sell when it breaks below the close
+[06:39] 25 days
+[06:41] ago Bitcoin has had boom and bus Cycles
+[06:44] but this momentum strategy has so far
+[06:46] managed to avoid most of the brutal draw
+[06:48] Downs worth noting is the low win rate
+[06:51] at 42% despite this the annual return is
+[06:54] significantly better than Buy and Hold
+[06:57] 86% versus 60%
+[07:00] because most Traders don't like to lose
+[07:02] it's mentally challenging to trade a
+[07:03] strategy with a low win rate what
+[07:06] happens if we change the lookback period
+[07:09] the table shows that the performance has
+[07:11] been solid for a wide range of lookback
+[07:13] periods but the best results are between
+[07:15] 20 to 40
+[07:17] days the second to last of our 10
+[07:19] trading strategies is the Santa Claus
+[07:22] rally in stocks it turns out that Santa
+[07:24] comes early to the stock market we buy
+[07:27] S&P 500 on the first Friday after
+[07:30] calendar day 14 in December and we sell
+[07:33] on the third trading day of the new year
+[07:36] the Santa Claus season has been pretty
+[07:38] consistent with almost linear growth
+[07:39] since
+[07:41] 1960 the average gain is 1.34% but
+[07:44] you're invested only 4% of the time of
+[07:46] the year if we divide the annual return
+[07:49] by the time invested which is 1.28%
+[07:52] divided by
+[07:54] .4% we get a risk adjusted return of
+[07:57] over
+[07:58] 30% thus the return during the Christmas
+[08:00] holiday is many times better than any
+[08:02] random period the last of the 10 trading
+[08:06] strategies uses our favorite trading
+[08:08] indicator for stocks the indicator is
+[08:10] called Williams percentage R despite its
+[08:13] rather peculiar name it's proven to work
+[08:16] well for stocks for over three decades
+[08:18] the trading rules are simple and this is
+[08:21] a typical mean reversion strategy Buy on
+[08:23] weakness and sell on strength when we
+[08:26] back test the trading rules on NASDAQ
+[08:28] 100 using the ETF with the ticker code
+[08:31] QQQ history tells us that this has so
+[08:34] far been a solid trading strategy
+[08:37] 100,000 has grown to 1.7 million and the
+[08:40] three bare markets along the way didn't
+[08:42] ruin the
+[08:43] strategy annual returns are better than
+[08:45] Buy and Hold however slippage and
+[08:48] commissions are not included but they're
+[08:50] very low for liquid assets such as
+[08:52] QQQ the returns per year shows that the
+[08:55] strategy has performed well during bare
+[08:57] markets but that is of course not
+[08:59] guaranteed to happen in the
+[09:01] future remember this is not investment
+[09:04] advice but meant to help you get trading
+[09:06] ideas please do your own research and
+[09:09] good luck
+[09:12] Trading
