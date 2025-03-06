@@ -1,5 +1,11 @@
-The Ivy Portfolio is a trading strategy developed by Meb Faber and Eric W Richardson in 2009, aiming to replicate the performance of Ivy League university endowments like Yale's. It employs five equally weighted ETFs, each allocated 20%, to achieve diversification across various asset classes. This approach simplifies access to endowment-like returns for individual investors.
+**Summary of the Ivy Portfolio Trading Strategy**
 
-The strategy faced a lower annual return of 4.6% in 2022 due to the abysmal performance of commodities, such as oil and gold, which are likely components of one of the ETFs. While the long-term performance isn't detailed here, it's important to consider historical context, fees, and rebalancing strategies. The inclusion of commodities adds diversification but introduces volatility risks, especially in periods like 2022 when commodity prices declined.
+The Ivy Portfolio trading strategy, introduced by Meb Faber and Eric W. Richardson in their 2009 book *Ivy Portfolio*, aims to replicate the investment performance of endowments managed by Ivy League universities, such as Yale's. The strategy involves creating a diversified portfolio using five ETFs, each allocated 20% to mimic the endowment model.
 
-Investors should evaluate this strategy by considering its historical performance over various market cycles, the impact of fees, and the need for periodic rebalancing to maintain allocations. While designed for simplicity and accessibility, it requires some financial knowledge to manage effectively.
+**Key Features:**
+- **Objective:** To mirror the returns of ivy league university endowments.
+- **Portfolio Composition:** Consists of five ETFs with equal weighting (20% each).
+- **Recent Performance:** Delivered an annual return of 4.6%, below historical averages, largely due to poor commodity performance in 2015 and 2016.
+- **Expectations:** Longer-term normalization of returns is anticipated.
+
+This strategy leverages the diversification and long-term investment approach typical of endowments, with a focus on rebalancing to maintain equal allocations.

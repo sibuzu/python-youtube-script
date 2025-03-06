@@ -56,8 +56,6 @@ def read_subtitle_content(file_path):
         else:
             subtitle_content = content
         
-        subtitle_content = match.group(1)
-        
         # 移除時間標記 [00:00]
         cleaned_content = re.sub(r'\[\d{2}:\d{2}\]\s*', '', subtitle_content)
         
