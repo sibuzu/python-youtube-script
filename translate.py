@@ -1,16 +1,13 @@
 import os
 import sys
+import markdown
+import html2text
 from google.cloud import translate_v2 as translate
-import html
-import time
-import re
-from markdown import markdown
-from bs4 import BeautifulSoup
 
 def ensure_chinese_dir(input_file_path):
     """確保 chinese 目錄存在"""
     input_dir = os.path.dirname(input_file_path)
-    chinese_dir = os.path.join(input_dir, "chinese")
+    chinese_dir = os.path.join(input_dir, "../chinese")
     if not os.path.exists(chinese_dir):
         os.makedirs(chinese_dir)
     return chinese_dir
@@ -35,107 +32,19 @@ def read_markdown(file_path):
         print(f"Error reading file: {str(e)}")
         return None
 
-class MarkdownTranslator:
-    def __init__(self):
-        self.translate_client = translate.Client()
-        self.protected_blocks = {}
-        self.block_counter = 0
+def translate_markdown(text, target_language="zh-TW"):
+    # 1. Markdown 转 HTML
+    html_text = markdown.markdown(text)
 
-    def protect_code_blocks(self, text):
-        """保護代碼塊"""
-        def replace_code_block(match):
-            block_id = f"CODE_BLOCK_{self.block_counter}"
-            self.protected_blocks[block_id] = match.group(0)
-            self.block_counter += 1
-            return block_id
+    # 2. 调用 Google 翻译 API
+    client = translate.Client()
+    result = client.translate(html_text, target_language=target_language, format="html");
+    translated_html = result["translatedText"]
 
-        # 保護多行代碼塊
-        text = re.sub(r'```[\s\S]*?```', replace_code_block, text)
-        # 保護行內代碼
-        text = re.sub(r'`[^`]+`', replace_code_block, text)
-        return text
+    # 3. HTML 转回 Markdown
+    md_text = html2text.html2text(translated_html)
 
-    def restore_protected_blocks(self, text):
-        """還原被保護的內容"""
-        for block_id, content in self.protected_blocks.items():
-            text = text.replace(block_id, content)
-        return text
-
-    def translate_text(self, text, max_retries=3):
-        """翻譯文本"""
-        # 首先保護代碼塊
-        text = self.protect_code_blocks(text)
-        
-        # 將 Markdown 轉換為 HTML
-        html_content = markdown(text)
-        
-        # 使用 BeautifulSoup 解析 HTML
-        soup = BeautifulSoup(html_content, 'html.parser')
-        
-        # 獲取所有文本節點
-        text_nodes = []
-        for element in soup.find_all(text=True):
-            if element.parent.name not in ['code', 'pre']:  # 排除代碼塊
-                text_nodes.append(element)
-        
-        # 翻譯每個文本節點
-        for node in text_nodes:
-            if not node.strip():  # 跳過空白節點
-                continue
-                
-            original_text = node.string
-            if not any(char.isalpha() for char in original_text):  # 跳過純數字或符號
-                continue
-                
-            for attempt in range(max_retries):
-                try:
-                    result = self.translate_client.translate(
-                        original_text,
-                        target_language='zh-TW',
-                        source_language='en',
-                        format='html'  # 使用 HTML 格式
-                    )
-                    
-                    translated_text = html.unescape(result['translatedText'])
-                    node.string.replace_with(translated_text)
-                    
-                    # 添加延遲避免超過 API 限制
-                    time.sleep(0.1)
-                    break
-                    
-                except Exception as e:
-                    if attempt == max_retries - 1:
-                        print(f"Error translating text: {str(e)}")
-                    time.sleep(1)
-        
-        # 將 HTML 轉回 Markdown 格式
-        translated_html = str(soup)
-        
-        # 使用正則表達式恢復 Markdown 語法
-        # 恢復標題
-        translated_html = re.sub(r'<h1>(.*?)</h1>', r'# \1', translated_html)
-        translated_html = re.sub(r'<h2>(.*?)</h2>', r'## \1', translated_html)
-        translated_html = re.sub(r'<h3>(.*?)</h3>', r'### \1', translated_html)
-        translated_html = re.sub(r'<h4>(.*?)</h4>', r'#### \1', translated_html)
-        
-        # 恢復列表
-        translated_html = re.sub(r'<ul>\s*<li>(.*?)</li>\s*</ul>', r'- \1', translated_html)
-        translated_html = re.sub(r'<ol>\s*<li>(.*?)</li>\s*</ol>', r'1. \1', translated_html)
-        
-        # 恢復強調
-        translated_html = re.sub(r'<strong>(.*?)</strong>', r'**\1**', translated_html)
-        translated_html = re.sub(r'<em>(.*?)</em>', r'*\1*', translated_html)
-        
-        # 恢復鏈接
-        translated_html = re.sub(r'<a href="(.*?)">(.*?)</a>', r'[\2](\1)', translated_html)
-        
-        # 清理 HTML 標籤
-        translated_html = re.sub(r'<[^>]+>', '', translated_html)
-        
-        # 還原被保護的代碼塊
-        final_text = self.restore_protected_blocks(translated_html)
-        
-        return final_text
+    return md_text.strip()
 
 def save_translation(original_path, translation):
     """保存翻譯結果"""
@@ -158,8 +67,7 @@ def process_file(file_path):
         return False
     
     # 翻譯內容
-    translator = MarkdownTranslator()
-    translation = translator.translate_text(content)
+    translation = translate_markdown(content)
     if not translation:
         return False
     
@@ -172,9 +80,9 @@ def process_file(file_path):
 def main():
     if len(sys.argv) != 2:
         print("Usage: python translate.py <markdown_file>")
-        return
-        
-    file_path = sys.argv[1]
+        file_path = "Traders and Investors/summary/001-Quantified Strategies - Introduction.md"
+    else:    
+        file_path = sys.argv[1]
     
     if not os.path.exists(file_path):
         print(f"Error: File '{file_path}' not found")
