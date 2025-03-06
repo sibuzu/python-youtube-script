@@ -1,4 +1,6 @@
-# 
+# Seasonality And Holiday Effects - TRADING STRATEGIES
+
+---
 
 <details>
 <summary>001. No Way These Returns Are True!  | Trading A Few Days a Month</summary>

@@ -1,4 +1,6 @@
-# 
+# TRADING STRATEGIES Backtested - Shorts
+
+---
 
 <details>
 <summary>001. Simple Bond Trading Strategy (Backtest &amp; Rules) #shorts #short</summary>

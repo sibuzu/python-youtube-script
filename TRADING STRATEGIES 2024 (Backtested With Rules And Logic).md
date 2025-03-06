@@ -1,4 +1,6 @@
-# 
+# TRADING STRATEGIES 2024 (Backtested With Rules And Logic)
+
+---
 
 <details>
 <summary>001. Overnight Trading Strategy (+Backtest) | NIGHT TRADING</summary>
