@@ -1,0 +1,51 @@
+===== 文章開始 =====
+
+in 2009 Meb Faber and Eric W Richardson
+released a book called Ivy portfolio
+which outlines an investment strategy
+that seeks to replicate the performance
+of a basket of endowments such as those
+of ivy league universities for example
+yales ivy league universities have
+consistently outperformed the market
+over time due to their Diversified
+portfolios and long-term investment
+Horizon an Ivy League portfolio consists
+of a mix of stocks often about 60% an
+intermediate Bond allocation of 20% and
+the rest in
+Commodities historically such a
+diversified portfolio has performed well
+the inflation adjusted return is above
+4% with a standard deviation below that
+of the S&P 500 perhaps the returns won't
+set the world on fire but the portfolio
+is obtained exactly what it was supposed
+to
+do just give it time and it'll snowball
+how can you set up an IV portfolio
+yourself we made a portfolio of five
+ETFs that we believe are close to
+achieving the same return as any ivv
+portfolios we use the five ETFs that you
+see on the screen each with an equal
+allocation of
+20% how is such an IV portfolio of ETFs
+performed we back tested it from
+2008 the annual return is 4.6% which is
+significantly below the historical
+average and this is mainly due to the
+abysmal performance of
+Commodities most years are positive but
+the financial crisis in 2008 made the
+portfolio drop 45% at the
+maximum if you like our video please
+like And subscribe and stay tuned for
+the next video coming
+up
+
+===== 文章結束 =====
+
+請整理此文章重點，使用正式的學術用語，並以小節作歸納。
+歸納重點，包括但不限於主題、策略規則、回測績效、結論等小節，依實際內容可作增減。
+各小節以條列格式，作清楚客觀的整理。
