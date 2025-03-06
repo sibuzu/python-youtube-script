@@ -51,11 +51,11 @@ def generate_outline(input_dir, output_file):
     details_template = """<details>
 <summary>{#}. {標題}</summary><br>
 
+[[Youtube]]({URL})
+
 {summary_file}
 
-[[Youtube]]({URL})
 </details>
-
 """
     
     details_sections = []
